@@ -1,4 +1,12 @@
-#menu ul{
+<html>
+  <head>
+    <meta content="text/html; charset=Shift_JIS" http-equiv="content-type">
+    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+
+      title="Wrap Long Lines">
+  </head>
+  <body>
+    <pre>#menu ul{
 margin: 0; 
 padding: 0; 
 list-style: none;
@@ -67,7 +75,13 @@ table.brwsr1 td {
     border-bottom: #999 1px solid;
     font-size: 11px;
 }
- 
+
+table.brwsr1 caption {
+    padding:0 0 5px 0;
+    font:italic 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    text-align:right;
+}
+
 table.brwsr1 th.r1 {
     width: 152px;
     border-right: #999 1px solid;
@@ -101,4 +115,6 @@ table.brwsr1 td.r4 {
     width: 128px;
     border-left: #fff 1px solid;
     background: #a0c2d3;
-}
+}</pre>
+  </body>
+</html>
