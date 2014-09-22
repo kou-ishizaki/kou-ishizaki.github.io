@@ -77,7 +77,7 @@
 .box_2:before {
     content: '';
     position: absolute;
-    background: #ccc;
+    background: #c2e1f5;
     height: 20px;
     width: 20px;
     border-radius: 10px;
@@ -88,7 +88,7 @@
 .box_2:after {
     content: '';
     position: absolute;
-    background: #ccc;
+    background: #88b7d5;
     height: 10px;
     width: 10px;
     border-radius: 5px;
