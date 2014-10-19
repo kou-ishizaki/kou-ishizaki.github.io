@@ -8,4 +8,9 @@ kou-ishizaki.github.io
 ###PullRequestの運用ルールについて  
 
 >hogehoge2について  
+   ccはddという事でお願いします。  
+
+###マイルストーンの扱いについて  
+
+>hogehoge2について  
    ccはddという事でお願いします。
