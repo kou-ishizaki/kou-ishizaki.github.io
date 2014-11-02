@@ -1,22 +1,20 @@
-kou-ishizaki.github.io
-======================
-###Issueの運用ルールについてお願い  
+## Contributing
 
->hogehogeについて  
-   aaはbbという事でお願いします。
+Please keep the [issue tracker](http://github.com/hakimel/reveal.js/issues) limited to **bug reports**, **feature requests** and **pull requests**.
 
-###PullRequestの運用ルールについて  
 
->hogehoge2について  
-   ccはddという事でお願いします。  
+### Personal Support
+If you have personal support or setup questions the best place to ask those are  [StackOverflow](http://stackoverflow.com/questions/tagged/reveal.js).
 
-###マイルストーンの扱いについて  
 
->hogehoge2について  
-   ccはddという事でお願いします。  
-   
-###★タスク管理出来るかな？★  
+### Bug Reports
+When reporting a bug make sure to include information about which browser and operating system you are on as well as the necessary steps to reproduce the issue. If possible please include a link to a sample presentation where the bug can be tested.
 
-- [ ] issue番号でリモートからチケットクローズ  
-- [x] マイルストーンを設定する  
-- [ ] マイルストーンを全クローズしてみる
+
+### Pull Requests
+- Should follow the coding style of the file you work in, most importantly:
+  - Tabs to indent
+  - Single-quoted strings
+- Should be made towards the **dev branch**
+- Should be submitted from a feature/topic branch (not your master)
+- Should not include the minified **reveal.min.js** or **reveal.min.css** files

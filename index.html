@@ -1,33 +1,85 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>Agile de Lucha</title>
-    <link rel="stylesheet" type="text/css" href="./css/style.css">
+    <meta charset="utf-8">
+    <title>reveal.js - The HTML Presentation Framework</title>
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="css/reveal.min.css">
+    <link rel="stylesheet" href="css/theme/default.css" id="theme">
+    <!-- For syntax highlighting --><!-- For syntax highlighting --><!-- For syntax highlighting -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <!-- If the query includes 'print-pdf', include the PDF print sheet -->
+    <script>
+			if( window.location.search.match( /print-pdf/gi ) ) {
+				var link = document.createElement( 'link' );
+				link.rel = 'stylesheet';
+				link.type = 'text/css';
+				link.href = 'css/print/pdf.css';
+				document.getElementsByTagName( 'head' )[0].appendChild( link );
+			}
+		</script>
+    <!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>		<![endif]-->
   </head>
-  <body style="                           background-color: whitesmoke;"> <br>
-    <br>
-    <h1>Agile de Lucha お前はリングサイドに立っているか？</h1>
-    アジャイル デ ルチャ（Agile de Lucha）は、スペイン語で現場アジャイルのことである。<br>
-    または「自由なAgile」という意味。<br>
-    特にメキシカンスタイルのAgileのことをルチャアジャイルと呼ぶ。<br>
-    大崎辺りでは尊敬の意味を込めてルチャとも俗称される。<br>
-    このページでは、メキシカンスタイルのアジャイルについて記述する。<br>
-    ルチャアジャイルはメキシコ合衆国において 非常に高い人気を得ている現場格闘技「アジャイル開発スタイル」で、<br>
-    兼業も含めれば数千人の現場人口を誇り、<br>
-    メキシコを中心に中南米で盛んにおこなわれている。らしい<br>
-    <hr align="left" width="60%"><br>
-    <div> <a href="index.html" class="button">Agile de Lucha！！</a> <a href="./lucha_diary.html"
-        class="button">Lucha かそれに近いもの</a> <a href="./notice.html" class="button">先
-        人のLuchaをお借りする</a> <a href="./voyaki.html" class="button">Lucha de
-        Voyakky</a> </div>
-    <h2>◆Lucha Diary</h2>
-    <a href="./lucha_diary.html">戦歴</a><br>
-    <h2>◆先人のLuchaをお借りする</h2>
-    <a href="./notice.html">気付きを集めよう</a><br>
-    &gt; 出来るだけ集めよう、それも早急に<br>
-    <h2>◆Lucha de Voyakky</h2>
-    <a href="./voyaki.html">リングサイド</a><br>
-    &gt; リングサイドの中心で何かを叫ぶ。<br>
+  <body>
+    <div class="reveal">
+      <!-- Any section element inside of this container is displayed as a slide -->
+      <div class="slides">
+<section data-markdown
+				data-separator="\n---\n$"
+				data-vertical="\n--\n">
+					<script type="text/template">
+            
+## MarkdownとReveal.js
+###で簡単スライド作成
+by [zakky](https://github.com/kou-ishizaki/Reveal.js)
+
+---
+
+##スライド作り…
+<br>
+##めんどくさい！
+
+--
+
+
+      </div>
+    </div>
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.min.js"></script>
+    <script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Parallax scrolling
+				// parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+				// parallaxBackgroundSize: '2100px 900px',
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+    
   </body>
 </html>
