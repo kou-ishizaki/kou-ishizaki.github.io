@@ -16,7 +16,7 @@
                 // create a map in the "map_elemnt" div,
                 // set the view to a given place and zoom
                 var map = L.map('map_elemnt');
-                map.setView([34.690293, 135.195502], 11);
+                map.setView([34.690293, 135.195502], 15);
  
                 // add an OpenStreetMap tile layer
                 var tileLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
@@ -47,6 +47,6 @@
         </script>
     </head>
     <body onload='init();'>
-        <div id='map_elemnt' style='width: 1000; height: 1000px; border: solid 1px #999;'></div>
+        <div id='map_elemnt' style='width: 900px; height: 900px; border: solid 1px #999;'></div>
     </body>
 </html>
