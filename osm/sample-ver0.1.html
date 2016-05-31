@@ -16,7 +16,7 @@
                 // create a map in the "map_elemnt" div,
                 // set the view to a given place and zoom
                 var map = L.map('map_elemnt');
-                map.setView([34.728110, 135.107903], 12);
+                map.setView([34.728110, 135.108000], 13);
  
                 // add an OpenStreetMap tile layer
                 var tileLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
@@ -26,7 +26,7 @@
  
                 // add a marker in the given location,
                 // attach some popup content to it and open the popup
-                var mapMarker = L.marker([34.728110, 135.107903]);
+                var mapMarker = L.marker([34.728110, 135.108000]);
                 mapMarker.addTo(map);
                 mapMarker.bindPopup('空き家情報①<br> 物件名：hogehoge<br> 住所：Adress1 Address2 Address3<br> 間取り：4LDK<br> <a href="http://www.city.kobe.lg.jp" target="_blank">詳細情報はコチラ</a>  ');
                 //mapMarker.openPopup();
