@@ -43,7 +43,7 @@
                 L.control.layers(baseLayers, overlays).addTo(map);
                 
                 function getColor(d) {
-                return d > 1000 ? '#800026' :
+                return d > 22 ? '#800026' :
                     d > 20  ? '#BD0026' :
                     d > 18  ? '#E31A1C' :
                     d > 16  ? '#FC4E2A' :
@@ -69,6 +69,31 @@
 
                 // add geoJson 
                 L.geoJson(kobeCity, {style: style}).addTo(map);
+                
+                
+                var legend = L.control({position: 'bottomright'});
+
+		legend.onAdd = function (map) {
+
+			var div = L.DomUtil.create('div', 'info legend'),
+				grades = [0, 10, 12, 14, 16, 18, 20, 22],
+				labels = [],
+				from, to;
+
+			for (var i = 0; i < grades.length; i++) {
+				from = grades[i];
+				to = grades[i + 1];
+
+				labels.push(
+					'<i style="background:' + getColor(from + 1) + '"></i> ' +
+					from + (to ? '&ndash;' + to : '+'));
+			}
+
+			div.innerHTML = labels.join('<br>');
+			return div;
+		};
+
+		legend.addTo(map);
  
             }
         </script>
