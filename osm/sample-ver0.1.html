@@ -42,6 +42,29 @@
                 };
                 L.control.layers(baseLayers, overlays).addTo(map);
                 
+               // control that shows state info on hover
+               var InfoControl = L.Control.extend({
+               
+               onAdd: function (map) {
+                this._div = L.DomUtil.create('div', 'info');
+                this.update();
+                return this._div;
+               },
+               
+               update: function (props) {
+                this._div.innerHTML = '<h4>Vacancy rate of Kobe</h4>' +  (props ?
+                '<b>' + props.N03_004 + '</b><br />' + props.N03_008 + '%'
+                : 'Hover over a state');
+               }
+               });
+               
+               var info = new InfoControl();
+               info.addTo(map);
+
+
+                
+                
+                
                 function getColor(d) {
                 return d > 22 ? '#800026' :
                     d > 20  ? '#BD0026' :
@@ -70,7 +93,8 @@
                 // add geoJson 
                 L.geoJson(kobeCity, {style: style}).addTo(map);
                 
-                
+
+/*                
                 var legend = L.control({position: 'bottomright'});
 
 		legend.onAdd = function (map) {
@@ -94,6 +118,9 @@
 		};
 
 		legend.addTo(map);
+
+*/
+ 
  
             }
         </script>
