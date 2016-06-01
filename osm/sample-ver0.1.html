@@ -54,17 +54,14 @@
                update: function (props) {
                 this._div.innerHTML = '<h4>Vacancy rate of Kobe</h4>' +  (props ?
                 '<b>' + props.N03_004 + '</b><br />' + props.N03_008 + '%'
-                : 'Hover over a state');
+                : 'Hover over a prefecture');
                }
                });
                
                var info = new InfoControl();
                info.addTo(map);
 
-
-                
-                
-                
+          
                 function getColor(d) {
                 return d > 22 ? '#800026' :
                     d > 20  ? '#BD0026' :
@@ -126,6 +123,6 @@
         </script>
     </head>
     <body onload='init();'>
-        <div id='map_elemnt' style='width: 1300px; height: 700px; border: solid 1px #999;'></div>
+        <div id='map_elemnt' style='width: 1200px; height: 700px; border: solid 1px #999;'></div>
     </body>
 </html>
