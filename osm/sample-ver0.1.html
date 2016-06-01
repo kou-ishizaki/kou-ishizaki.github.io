@@ -8,6 +8,7 @@
         <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
         <![endif]-->
         <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+        <script src="./kobe-map.geojson"></script>
         <script type='text/javascript'>
          
             //leaflet OSM map
@@ -43,6 +44,9 @@
  
                 // add control scale 
                 L.control.scale().addTo(map);
+
+                // add geoJson 
+                L.geoJson(kobeCity).addTo(map);
  
             }
         </script>
