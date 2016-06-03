@@ -86,24 +86,26 @@
 		        }  
                 
                 
-                	function highlightFeature(e) {
-		var layer = e.target;
+                function highlightFeature(e) {
+		            var layer = e.target;
 
-		layer.setStyle({
-			weight: 5,
-			color: '#666',
-			dashArray: '',
-			fillOpacity: 0.7
-		});
+		            layer.setStyle({
+			            weight: 5,
+			            color: '#666',
+			            dashArray: '',
+			            fillOpacity: 0.7
+		            });
 
-		if (!L.Browser.ie && !L.Browser.opera) {
-			layer.bringToFront();
-		}
+		            if (!L.Browser.ie && !L.Browser.opera) {
+			            layer.bringToFront();
+		            }
 
-		info.update(layer.feature.properties);
-	}
+		            info.update(layer.feature.properties);
+	            }
 
 	var geojson;
+    // ... our listeners
+    geojson = L.geoJson(...);
 
 	function resetHighlight(e) {
 		geojson.resetStyle(e.target);
