@@ -103,6 +103,11 @@
 		            info.update(layer.feature.properties);
 	            }
 
+<p>The handy <code class="highlighter-rouge">geojson.resetStyle</code> method will reset the layer style to its default state (defined by our <code class="highlighter-rouge">style</code> function). For this to work, make sure our GeoJSON layer is accessible through the <code class="highlighter-rouge">geojson</code> variable by defining it before our listeners and assigning the layer to it later:</p>
+
+
+
+
 	var geojson;
 
 	function resetHighlight(e) {
