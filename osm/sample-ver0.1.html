@@ -231,7 +231,7 @@
                 L.control.scale().addTo(map);
 
                 // add geoJson 
-                L.geoJson(kobeCity, {style: style,
+                geojson = L.geoJson(kobeCity, {style: style,
 		onEachFeature: onEachFeature}).addTo(map);
                 
                 var legend = L.control({position: 'bottomright'});
