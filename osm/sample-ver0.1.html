@@ -254,7 +254,8 @@
 					from + (to ? '&ndash;' + to : '+'));
 			}
 
-			div.innerHTML = labels.join('<br>');
+//			div.innerHTML = labels.join('<br>');
+			div.innerHTML = '<b>Vacancy rate(%)</b><br/><br/>' + labels.join('<br>');
 			return div;
 		};
 
