@@ -204,10 +204,44 @@
 			            layer.bringToFront();
 		            }
 		            info.update(layer.feature.properties);
+					//空家数表示
+					if(customProperty[layer.feature.properties.N03_007]){
+						akiyamarker = L.marker(customProperty[layer.feature.properties.N03_007]["latlng"],{
+	          			icon:new myDivIconClass({
+            			iconSize:myDivIconClass.defaultSize,
+            			html:customProperty[layer.feature.properties.N03_007]["style"],
+            			className:""
+	               		})}).addTo(map);
+					}					
 	            }
 	var geojson;
+	
+	/* 空きやアイコン */
+	var customProperty = new Object();
+		customProperty = 	{
+			"28101": {"style" : "<div class='popup num14'></div>", "latlng": eastnada_latlng },
+			"28102": {"style" : "<div class='popup num12'></div>", "latlng": nada_latlng },
+			"28105": {"style" : "<div class='popup num12'></div>", "latlng": hyougo_latlng },
+			"28106": {"style" : "<div class='popup num12'></div>", "latlng": nagata_latlng },
+			"28107": {"style" : "<div class='popup num10'></div>", "latlng": suma_latlng },
+			"28108": {"style" : "<div class='popup num14'></div>", "latlng": tarumi_latlng },
+			"28109": {"style" : "<div class='popup num12'></div>", "latlng": kita_latlng },
+			"28110": {"style" : "<div class='popup num14'></div>", "latlng": tyuou_latlng },
+			"28111": {"style" : "<div class='popup num10'></div>", "latlng": nishi_latlng }	
+		};
+
+	var akiyamarker;
+	var myDivIconClass = L.DivIcon.extend({
+	    statics:{
+	        defaultSize:L.point(25,25),
+	    }
+	});	
+	
+	
 	function resetHighlight(e) {
 		geojson.resetStyle(e.target);
+		//空きやアイコン非表示
+		map.removeLayer(akiyamarker);
 		info.update();
 	}
 	function zoomToFeature(e) {
