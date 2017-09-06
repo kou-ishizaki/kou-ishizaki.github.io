@@ -98,7 +98,7 @@ function mainFunc(_error, mapdata, themedata) {
 
           //初回のみ実行
           mapContainer.selectAll("path")
-                  .data(topojson.feature(mapdata, mapdata.objects.Tokyo).features)
+                  .data(topojson.feature(mapdata, mapdata.objects.multipart-test0906).features)
                   .enter()
                   .append("path")
                   .attr("id", function(d) {
