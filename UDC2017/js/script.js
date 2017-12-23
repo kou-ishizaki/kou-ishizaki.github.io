@@ -9,6 +9,6 @@ var map = L.map('map',{
 L.tileLayer(
     'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
     {
-        attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a>',
+        attribution: '&copy; <a href='http://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html' target='_blank'>国土地理院</a>',
     }
 ).addTo(map);
