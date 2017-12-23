@@ -1,8 +1,11 @@
 //地図表示の設定
-var map = L.map('map',{
+/*var map = L.map('map',{
     center: [34.393073, 132.452091],
     zoom: 18,
 });
+*/
+
+var map = L.map('map').setView([34.393073, 132.452091], 18);
 
 
 //タイルレイヤの表示
