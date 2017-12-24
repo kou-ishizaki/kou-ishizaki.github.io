@@ -2,8 +2,8 @@
 
 //ピンの画像を設定
 var ccIcon = L.icon({
-    iconUrl: '/img/syamoji_mokusei.png', 
-    iconRetinaUrl: '/img/syamoji_mokusei.png',
+    iconUrl: 'img/syamoji_mokusei.png', 
+    iconRetinaUrl: 'img/syamoji_mokusei.png',
     iconSize: [25, 25],
     iconAnchor: [12, 25],
     popupAnchor: [0, -25],
@@ -40,4 +40,4 @@ var overlayMaps = {
 
 L.control.layers(baseMaps, overlayMaps).addTo(map);
 
-map.setView([34.395247, 132.457659], 14);
+map.setView([34.395247, 132.457659], 16);
