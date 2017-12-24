@@ -8,3 +8,9 @@ html, body {
     z-index: 0;
     height: 100%;
 }
+
+#legend {
+    top: 50px;
+    right: 0px;
+    z-index: 1;
+}
