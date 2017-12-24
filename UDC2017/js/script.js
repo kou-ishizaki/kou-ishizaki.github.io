@@ -2,14 +2,20 @@
 var map = L.map('map',{
     center: [34.393073, 132.452091],
     zoom: 16,
+    layers: [childlencafeteria]
 });
 
 
 //子供食堂(CC:Childlen's Cafeteria)
-var CC1 = L.marker([34.392499, 132.475163]).bindPopup('青い鳥'),
-    CC2 = L.marker([34.361024, 132.463756]).bindPopup('くるり食堂');
+//var CC1 = L.marker([34.392499, 132.475163]).bindPopup('青い鳥'),
+//    CC2 = L.marker([34.361024, 132.463756]).bindPopup('くるり食堂');
+//map = L.layerGroup([CC1, CC2]);
 
-map = L.layerGroup([CC1, CC2]);
+var childlencafeteria = L.layerGroup();
+
+	L.marker([34.392499, 132.475163]).bindPopup('青い鳥').addTo(childlencafeteria),
+	L.marker([34.361024, 132.463756]).bindPopup('くるり食堂').addTo(childlencafeteria);
+
 
 //タイルレイヤの表示
 L.tileLayer(
