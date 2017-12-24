@@ -6,7 +6,7 @@ var ccIcon = L.icon({
     iconRetinaUrl: 'img/syamoji_mokusei.png',
     iconSize: [50, 50],
     iconAnchor: [12, 25],
-    popupAnchor: [0, -25],
+    popupAnchor: [0, 0],
 });
 
 //ピンを追加 childrencafeteria:cc
