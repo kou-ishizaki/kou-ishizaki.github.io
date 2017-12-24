@@ -9,10 +9,3 @@ html, body {
     z-index: 0;
     height: 100%;
 }
-
-#legend {
-    position: absolute;
-    top: 50px;
-    right: 0px;
-    z-index: 1;
-}
