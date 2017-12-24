@@ -16,7 +16,7 @@ var pale = L.tileLayer('http://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png
 { id: 'osmmap', attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors' });
 
 var map = L.map('map', {
-    layers: [pale, childrencafeteria]
+    layers: [osm, childrencafeteria]
 });
 
 var baseMaps = {
@@ -31,4 +31,4 @@ var overlayMaps = {
 
 L.control.layers(baseMaps, overlayMaps).addTo(map);
 
-map.setView([34.395247, 132.457659], 18);
+map.setView([34.395247, 132.457659], 20);
