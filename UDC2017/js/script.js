@@ -2,8 +2,8 @@
 
 //ピンの画像を設定
 var ccIcon = L.icon({
-    iconUrl: 'img/syamoji_mokusei.png', 
-    iconRetinaUrl: 'img/syamoji_mokusei.png',
+    iconUrl: 'img/gohan.png', 
+    iconRetinaUrl: 'img/gohan.png',
     iconSize: [50, 50],
     iconAnchor: [12, 25],
     popupAnchor: [0, 0],
