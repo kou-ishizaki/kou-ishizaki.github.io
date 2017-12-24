@@ -1,8 +1,8 @@
 //var map = L.map('map');
 
 //ピンを追加 childrencafeteria:cc
-var cc1 = L.marker([34.392487, 132.475126]).bindPopup('青い鳥'),
-    cc2 = L.marker([34.361050, 132.463745]).bindPopup('くるり食堂');
+var cc1 = L.marker([34.392487, 132.475126]).bindPopup('<a href="https://www.facebook.com/tunago.p/" target="_blank">青い鳥</a>'),
+    cc2 = L.marker([34.361050, 132.463745]).bindPopup('<a href="https://www.facebook.com/kururi2093/" target="_blank">くるり食堂</a>');
 
 var childrencafeteria = L.layerGroup([
     cc1, cc2
@@ -31,4 +31,4 @@ var overlayMaps = {
 
 L.control.layers(baseMaps, overlayMaps).addTo(map);
 
-map.setView([34.395247, 132.457659], 20);
+map.setView([34.395247, 132.457659], 12);
