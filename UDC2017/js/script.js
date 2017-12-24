@@ -4,9 +4,9 @@
 var ccIcon = L.icon({
     iconUrl: 'img/syamoji_mokusei.png', 
     iconRetinaUrl: 'img/syamoji_mokusei.png',
-    iconSize: [25, 25],
+    iconSize: [50, 50],
     iconAnchor: [12, 25],
-    popupAnchor: [0, -25],
+    popupAnchor: [0, -50],
 });
 
 //ピンを追加 childrencafeteria:cc
@@ -40,4 +40,4 @@ var overlayMaps = {
 
 L.control.layers(baseMaps, overlayMaps).addTo(map);
 
-map.setView([34.395247, 132.457659], 16);
+map.setView([34.395247, 132.457659], 15);
