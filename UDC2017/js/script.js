@@ -1,4 +1,4 @@
-var map = L.map('map');
+//var map = L.map('map');
 
 //ピンを追加 childrencafeteria:cc
 var cc1 = L.marker([34.392487, 132.475126]).bindPopup('青い鳥'),
