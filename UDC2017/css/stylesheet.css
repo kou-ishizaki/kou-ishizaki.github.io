@@ -5,12 +5,14 @@ html, body {
 }
 
 #map {
+    position: absolute;
     z-index: 0;
     height: 100%;
 }
 
 #legend {
-    top: 50px;
-    right: 0px;
+    position: absolute;    
+    top: 0px;
+    right: 100px;
     z-index: 1;
 }
