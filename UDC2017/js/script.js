@@ -31,4 +31,4 @@ var overlayMaps = {
 
 L.control.layers(baseMaps, overlayMaps).addTo(map);
 
-map.setView([34.393073, 132.452091], 16);
+map.setView([34.395247, 132.457659], 18);
