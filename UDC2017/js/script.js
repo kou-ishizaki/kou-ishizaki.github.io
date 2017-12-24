@@ -9,7 +9,7 @@ var map = L.map('map',{
 var CC1 = L.marker([34.392499, 132.475163]).bindPopup('青い鳥'),
     CC2 = L.marker([34.361024, 132.463756]).bindPopup('くるり食堂');
 
-var map = L.layerGroup([CC1, CC2]);
+map = L.layerGroup([CC1, CC2]);
 
 //タイルレイヤの表示
 L.tileLayer(
