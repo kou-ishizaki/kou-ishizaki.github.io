@@ -1,8 +1,17 @@
 //var map = L.map('map');
 
+//ピンの画像を設定
+var ccIcon = L.icon({
+    iconUrl: '/img/syamoji_mokusei.png', 
+    iconRetinaUrl: '/img/syamoji_mokusei.png',
+    iconSize: [25, 25],
+    iconAnchor: [12, 25],
+    popupAnchor: [0, -25],
+});
+
 //ピンを追加 childrencafeteria:cc
-var cc1 = L.marker([34.392487, 132.475126]).bindPopup('<a href="https://www.facebook.com/tunago.p/" target="_blank">青い鳥</a>'),
-    cc2 = L.marker([34.361050, 132.463745]).bindPopup('<a href="https://www.facebook.com/kururi2093/" target="_blank">くるり食堂</a>');
+var cc1 = L.marker([34.392487, 132.475126], { icon: ccIcon }).bindPopup('<a href="https://www.facebook.com/tunago.p/" target="_blank">青い鳥</a>'),
+    cc2 = L.marker([34.361050, 132.463745], { icon: ccIcon }).bindPopup('<a href="https://www.facebook.com/kururi2093/" target="_blank">くるり食堂</a>');
 
 var childrencafeteria = L.layerGroup([
     cc1, cc2
@@ -31,4 +40,4 @@ var overlayMaps = {
 
 L.control.layers(baseMaps, overlayMaps).addTo(map);
 
-map.setView([34.395247, 132.457659], 12);
+map.setView([34.395247, 132.457659], 14);
