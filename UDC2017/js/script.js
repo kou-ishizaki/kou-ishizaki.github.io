@@ -10,7 +10,7 @@ var ccIcon = L.icon({
 });
 
 //ピンを追加 childrencafeteria:cc
-var cc1 = L.marker([34.392487, 132.475126], { icon: ccIcon }).bindPopup('<a href="https://www.facebook.com/tunago.p/" target="_blank">青い鳥</a>'),
+var cc1 = L.marker([34.392487, 132.475126], { icon: ccIcon }).bindPopup('<a href="https://www.facebook.com/tunago.p/" target="_blank">青い鳥</a><br><a href="https://maps.google.co.jp/maps?ll=34.392487,132.475126&f=d" target="_blank">ここまでの経路</a>'),
     cc2 = L.marker([34.361050, 132.463745], { icon: ccIcon }).bindPopup('<a href="https://www.facebook.com/kururi2093/" target="_blank">くるり食堂</a>');
 
 var childrencafeteria = L.layerGroup([
