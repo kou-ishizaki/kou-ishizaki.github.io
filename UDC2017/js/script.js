@@ -1,6 +1,6 @@
 //var map = L.map('map');
 
-//ピンの画像を設定
+//子供食堂のピンの画像を設定
 var ccIcon = L.icon({
     iconUrl: 'img/gohan.png', 
     iconRetinaUrl: 'img/gohan.png',
@@ -9,12 +9,30 @@ var ccIcon = L.icon({
     popupAnchor: [0, 0],
 });
 
-//ピンを追加 childrencafeteria:cc
+//フードバンクのピンの画像を設定
+var fbIcon = L.icon({
+    iconUrl: 'img/foodbank.png', 
+    iconRetinaUrl: 'img/foodbank.png',
+    iconSize: [50, 50],
+    iconAnchor: [12, 25],
+    popupAnchor: [0, 0],
+});
+
+//子ども食堂のピンを追加 childrencafeteria:cc
 var cc1 = L.marker([34.392487, 132.475126], { icon: ccIcon }).bindPopup('<a href="https://www.facebook.com/tunago.p/" target="_blank">青い鳥</a><br><a href="https://maps.google.co.jp/maps?ll=34.392487,132.475126&f=d" target="_blank">ここまでの経路</a>'),
     cc2 = L.marker([34.361050, 132.463745], { icon: ccIcon }).bindPopup('<a href="https://www.facebook.com/kururi2093/" target="_blank">くるり食堂</a><br><a href="https://maps.google.co.jp/maps?ll=34.361015,132.463743&f=d" target="_blank">ここまでの経路</a>');
 
+//フードバンクのピンを追加 foodbank:fb
+var fb1 = L.marker([34.524403, 132.505580], { icon: fbIcon }).bindPopup('<a href="http://www.aiainet.org/" target="_blank">あいあいねっと</a><br><a href="https://maps.google.co.jp/maps?ll=34.524403,132.505580&f=d" target="_blank">ここまでの経路</a>');
+
+//子ども食堂のレイヤ
 var childrencafeteria = L.layerGroup([
     cc1, cc2
+]);
+
+//フードバンクのレイヤ
+var foodbank = L.layerGroup([
+    fb1
 ]);
 
 var pale = L.tileLayer('http://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png',
@@ -25,7 +43,7 @@ var pale = L.tileLayer('http://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png
 { id: 'osmmap', attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors' });
 
 var map = L.map('map', {
-    layers: [osm, childrencafeteria]
+    layers: [osm, childrencafeteria,foodbank]
 });
 
 var baseMaps = {
@@ -35,7 +53,8 @@ var baseMaps = {
 };      
 
 var overlayMaps = {
-    "こども食堂" : childrencafeteria
+    "こども食堂" : childrencafeteria,
+    "フードバンク" : foodbank
 };
 
 L.control.layers(baseMaps, overlayMaps).addTo(map);
