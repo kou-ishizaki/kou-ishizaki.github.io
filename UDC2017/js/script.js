@@ -20,8 +20,8 @@ var fbIcon = L.icon({
 
 //食品ロス削減協力店のピンの画像を設定
 var lnIcon = L.icon({
-    iconUrl: 'img/loss-non.png.png', 
-    iconRetinaUrl: 'img/loss-non.png.png',
+    iconUrl: 'img/loss-non.png', 
+    iconRetinaUrl: 'img/loss-non.png',
     iconSize: [50, 50],
     iconAnchor: [12, 25],
     popupAnchor: [0, 0],
