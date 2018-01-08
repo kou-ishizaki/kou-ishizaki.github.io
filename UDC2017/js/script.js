@@ -29,7 +29,8 @@ var lnIcon = L.icon({
 
 //子ども食堂のピンを追加 childrencafeteria:cc
 var cc1 = L.marker([34.392487, 132.475126], { icon: ccIcon }).bindPopup('<a href="https://www.facebook.com/tunago.p/" target="_blank">青い鳥</a><br><a href="https://maps.google.co.jp/maps?ll=34.392487,132.475126&f=d" target="_blank">ここまでの経路</a>'),
-    cc2 = L.marker([34.361050, 132.463745], { icon: ccIcon }).bindPopup('<a href="https://www.facebook.com/kururi2093/" target="_blank">くるり食堂</a><br><a href="https://maps.google.co.jp/maps?ll=34.361015,132.463743&f=d" target="_blank">ここまでの経路</a>');
+    cc2 = L.marker([34.361050, 132.463745], { icon: ccIcon }).bindPopup('<a href="https://www.facebook.com/kururi2093/" target="_blank">くるり食堂</a><br><a href="https://maps.google.co.jp/maps?ll=34.361015,132.463743&f=d" target="_blank">ここまでの経路</a>'),
+    cc3 = L.marker([34.385509, 132.452631], { icon: ccIcon }).bindPopup('<a href="https://hiroshimaywca.jimdo.com/" target="_blank">わいわい食堂</a><br><a href="https://maps.google.co.jp/maps?ll=34.385509,132.452631&f=d" target="_blank">ここまでの経路</a>');
 
 //フードバンクのピンを追加 foodbank:fb
 var fb1 = L.marker([34.524403, 132.505580], { icon: fbIcon }).bindPopup('<a href="http://www.aiainet.org/" target="_blank">あいあいねっと</a><br><a href="https://maps.google.co.jp/maps?ll=34.524403,132.505580&f=d" target="_blank">ここまでの経路</a>');
@@ -39,7 +40,7 @@ var ln1 = L.marker([34.362869,132.468328], { icon: lnIcon }).bindPopup('<a href=
 
 //子ども食堂のレイヤ
 var childrencafeteria = L.layerGroup([
-    cc1, cc2
+    cc1, cc2, cc3
 ]);
 
 //フードバンクのレイヤ
