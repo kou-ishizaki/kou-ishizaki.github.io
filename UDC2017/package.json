@@ -1,0 +1,32 @@
+{
+  "name": "mottainai-no",
+  "version": "0.0.1",
+  "description": "Apps for mottainai NO",
+  "main": "index.js",
+  "repository": "https://github.com/code4hiroshima/mottainai-no",
+  "author": "14H-02390 <kou06ishi16@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "browser-sync start --server --files \"css/*.css\"",
+    "lint": "eslint js/**.js",
+    "lint:fix": "eslint --fix js/**.js"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "browser-sync": "^2.23.6",
+    "eslint": "^4.16.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-compat": "^2.1.0",
+    "eslint-plugin-flowtype": "^2.41.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-prettier": "^2.5.0",
+    "flow": "^0.2.3",
+    "flow-bin": "^0.63.1",
+    "npx": "^9.7.1",
+    "prettier": "1.10.2"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "ie >= 9"
+  ]
+}
