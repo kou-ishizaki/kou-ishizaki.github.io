@@ -231,7 +231,11 @@ var map = L.map("map", {
   layers: baseLayers.concat(overlayLayers)
 });
 
+//コントローラ？
+L.control.pan().addTo(map);
+
 L.control.layers(baseMaps, overlayMaps).addTo(map);
+
 
 /* それぞれのアイコンのインスタンスをとりだしやすいように辞書にする */
 var iconContainer /*: Object */ = overlayConfigList.reduce(
