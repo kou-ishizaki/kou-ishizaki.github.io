@@ -1,0 +1,133 @@
+
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <meta charset="UTF-8"/>
+        <title>Kepler.gl embedded map</title>
+      
+        <!--Uber Font-->
+        <link rel="stylesheet" href="https://d1a3f4spazzrp4.cloudfront.net/kepler.gl/uber-fonts/4.0.0/superfine.css">
+      
+        <!--MapBox css-->
+        <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.42.0/mapbox-gl.css" rel="stylesheet">
+      
+        <!-- Load React/Redux -->
+        <script src="https://unpkg.com/react@16.8.4/umd/react.production.min.js" crossorigin></script>
+        <script src="https://unpkg.com/react-dom@16.8.4/umd/react-dom.production.min.js" crossorigin></script>
+        <script src="https://unpkg.com/redux@3.7.2/dist/redux.js" crossorigin></script>
+        <script src="https://unpkg.com/react-redux@4.4.9/dist/react-redux.min.js" crossorigin></script>
+        <script src="https://unpkg.com/styled-components@4.1.3/dist/styled-components.min.js" crossorigin></script>
+        <script src="https://unpkg.com/react-virtualized@9.21.0/dist/umd/react-virtualized.js" crossorigin></script>
+        
+        <!-- Load Kepler.gl -->
+        <script src="https://unpkg.com/kepler.gl@1.0.0-2/umd/keplergl.min.js" crossorigin></script>
+      
+        <style type="text/css">
+          body {margin: 0; padding: 0; overflow: hidden;}
+        </style>
+      
+        <!--MapBox token-->
+        <script>
+          /**
+           * Provide your MapBox Token
+           **/
+          const MAPBOX_TOKEN = 'pk.eyJ1IjoidWJlcmRhdGEiLCJhIjoiY2pza3FoNjQzMGl5ODQ5b2F4eWpuYzF0dyJ9.mEHQ58UbqAL9baBRxdxjcQ';
+          const WARNING_MESSAGE = 'Please Provide a Mapbox Token in order to use Kepler.gl. Edit this file and fill out MAPBOX_TOKEN with your access key';
+        </script>
+      </head>
+      <body>
+        <!-- We will put our React component inside this div. -->
+        <div id="app">
+          <!-- Kepler.gl map will be placed here-->
+        </div>
+      
+        <!-- Load our React component. -->
+        <script>
+          /* Validate Mapbox Token */
+          if ((MAPBOX_TOKEN || '') === '' || MAPBOX_TOKEN === 'PROVIDE_MAPBOX_TOKEN') {
+            alert(WARNING_MESSAGE);
+          }
+      
+          /** STORE **/
+          const reducers = (function createReducers(redux, keplerGl) {
+            return redux.combineReducers({
+              // mount keplerGl reducer
+              keplerGl: keplerGl.keplerGlReducer
+            });
+          }(Redux, KeplerGl));
+      
+          const middleWares = (function createMiddlewares(keplerGl) {
+            return keplerGl.enhanceReduxMiddleware([
+              // Add other middlewares here
+            ]);
+          }(KeplerGl));
+      
+          const enhancers = (function craeteEnhancers(redux, middles) {
+            return redux.applyMiddleware(...middles);
+          }(Redux, middleWares));
+      
+          const store = (function createStore(redux, enhancers) {
+            const initialState = {};
+      
+            return redux.createStore(
+              reducers,
+              initialState,
+              redux.compose(enhancers)
+            );
+          }(Redux, enhancers));
+          /** END STORE **/
+          
+          /** COMPONENTS **/
+          const KeplerElement = (function (react, reactVirtualized, keplerGl, mapboxToken) {
+            return function() {
+              return react.createElement(
+                'div',
+                {style: {position: 'absolute', left: 0, width: '100vw', height: '100vh'}},
+                React.createElement(reactVirtualized.AutoSizer, null, function (props) {
+                  return React.createElement(keplerGl.KeplerGl, {
+                    mapboxApiAccessToken: mapboxToken,
+                    id: "map",
+                    width: props.width,
+                    height: props.height
+                  });
+                })
+              )
+            }
+          }(React, ReactVirtualized, KeplerGl, MAPBOX_TOKEN));
+      
+          const app = (function createReactReduxProvider(react, reactRedux, KeplerElement) {
+            return react.createElement(
+              reactRedux.Provider,
+              {store},
+              react.createElement(KeplerElement, null)
+            )
+          }(React, ReactRedux, KeplerElement));
+          /** END COMPONENTS **/
+      
+          /** Render **/
+          (function render(react, reactDOM, app) {
+            reactDOM.render(app, document.getElementById('app'));
+          }(React, ReactDOM, app));
+        </script>
+        <!-- The next script will show how to interact directly with Kepler map store -->
+        <script>
+          /**
+           * Customize map.
+           * In the following section you can use the store object to dispatch Kepler.gl actions
+           * to add new data and customize behavior
+           */
+          (function customize(keplerGl, store) {
+            const datasets = [{"version":"v1","data":{"id":"yu4palqjs","label":"data5.csv","color":[192,108,132],"allData":[[1,133.917526,34.667145,133.089536,34.30592,900,"岡山","2019-03-24 10:05:39 +00:00","2019-03-24 11:05:39 +00:00"],[2,133.765724,34.601896,133.089536,34.30592,600,"倉敷","2019-03-24 10:15:39 +00:00","2019-03-24 12:05:39 +00:00"],[3,133.504463,34.504839,133.089536,34.30592,600,"笠岡","2019-03-24 10:25:39 +00:00","2019-03-24 13:05:39 +00:00"],[4,133.360972,34.489218,133.089536,34.30592,400,"福山","2019-03-24 10:35:39 +00:00","2019-03-24 14:05:39 +00:00"],[5,133.080913,34.401182,133.089536,34.30592,300,"三原","2019-03-24 10:45:39 +00:00","2019-03-24 15:05:39 +00:00"],[6,132.475465,34.397694,133.089536,34.30592,1000,"広島","2019-03-24 10:55:39 +00:00","2019-03-24 16:05:39 +00:00"],[7,132.743968,34.431577,133.089536,34.30592,600,"東広島","2019-03-24 11:05:39 +00:00","2019-03-24 17:05:39 +00:00"],[8,133.917526,34.667145,133.089536,34.30592,900,"岡山","2019-03-24 11:15:39 +00:00","2019-03-24 12:05:39 +00:00"],[9,133.765724,34.601896,133.089536,34.30592,600,"倉敷","2019-03-24 11:25:39 +00:00","2019-03-24 13:05:39 +00:00"],[10,133.504463,34.504839,133.089536,34.30592,600,"笠岡","2019-03-24 11:35:39 +00:00","2019-03-24 14:05:39 +00:00"],[11,133.360972,34.489218,133.089536,34.30592,400,"福山","2019-03-24 11:45:39 +00:00","2019-03-24 15:05:39 +00:00"],[12,133.080913,34.401182,133.089536,34.30592,300,"三原","2019-03-24 11:55:39 +00:00","2019-03-24 16:05:39 +00:00"],[13,132.475465,34.397694,133.089536,34.30592,1000,"広島","2019-03-24 12:05:39 +00:00","2019-03-24 17:05:39 +00:00"],[14,132.743968,34.431577,133.089536,34.30592,600,"東広島","2019-03-24 12:15:39 +00:00","2019-03-24 18:05:39 +00:00"]],"fields":[{"name":"ID","type":"integer","format":""},{"name":"start_longitude","type":"real","format":""},{"name":"start_latitude","type":"real","format":""},{"name":"end_longitude","type":"real","format":""},{"name":"end_latitude","type":"real","format":""},{"name":"amount","type":"integer","format":""},{"name":"place","type":"string","format":""},{"name":"start-time","type":"timestamp","format":"YYYY-M-D H:m:s"},{"name":"end-time","type":"timestamp","format":"YYYY-M-D H:m:s"}]}}];
+            const config = {"version":"v1","config":{"visState":{"filters":[{"dataId":"yu4palqjs","id":"bbdkoeoc","name":"start-time","type":"timeRange","value":[1553422160000,1553424807000],"enlarged":true,"plotType":"histogram","yAxis":null}],"layers":[{"id":"fk1mgbf","type":"hexagon","config":{"dataId":"yu4palqjs","label":"start","color":[183,136,94],"columns":{"lat":"start_latitude","lng":"start_longitude"},"isVisible":true,"visConfig":{"opacity":0.8,"worldUnitSize":1,"resolution":8,"colorRange":{"name":"Global Warming","type":"sequential","category":"Uber","colors":["#5A1846","#900C3F","#C70039","#E3611C","#F1920E","#FFC300"]},"coverage":1,"sizeRange":[0,500],"percentile":[0,100],"elevationPercentile":[0,100],"colorAggregation":"count","enable3d":true,"sizeAggregation":"average","elevationScale":10},"textLabel":{"field":null,"color":[255,255,255],"size":50,"offset":[0,0],"anchor":"middle"}},"visualChannels":{"colorField":null,"colorScale":"quantile","sizeField":{"name":"amount","type":"integer"},"sizeScale":"linear"}},{"id":"wwr56fm","type":"point","config":{"dataId":"yu4palqjs","label":"end","color":[255,203,153],"columns":{"lat":"end_latitude","lng":"end_longitude","altitude":null},"isVisible":false,"visConfig":{"radius":10,"fixedRadius":false,"opacity":0.8,"outline":false,"thickness":2,"strokeColor":null,"colorRange":{"name":"Global Warming","type":"sequential","category":"Uber","colors":["#5A1846","#900C3F","#C70039","#E3611C","#F1920E","#FFC300"]},"strokeColorRange":{"name":"Global Warming","type":"sequential","category":"Uber","colors":["#5A1846","#900C3F","#C70039","#E3611C","#F1920E","#FFC300"]},"radiusRange":[0,50],"filled":true},"textLabel":{"field":null,"color":[255,255,255],"size":50,"offset":[0,0],"anchor":"middle"}},"visualChannels":{"colorField":null,"colorScale":"quantile","strokeColorField":null,"strokeColorScale":"quantile","sizeField":null,"sizeScale":"linear"}},{"id":"95gqhk","type":"arc","config":{"dataId":"yu4palqjs","label":"start -> end arc","color":[146,38,198],"columns":{"lat0":"start_latitude","lng0":"start_longitude","lat1":"end_latitude","lng1":"end_longitude"},"isVisible":true,"visConfig":{"opacity":0.8,"thickness":2,"colorRange":{"name":"Global Warming","type":"sequential","category":"Uber","colors":["#5A1846","#900C3F","#C70039","#E3611C","#F1920E","#FFC300"]},"sizeRange":[0,10],"targetColor":[239,93,40]},"textLabel":{"field":null,"color":[255,255,255],"size":50,"offset":[0,0],"anchor":"middle"}},"visualChannels":{"colorField":null,"colorScale":"quantile","sizeField":null,"sizeScale":"linear"}},{"id":"qtjwp2e","type":"line","config":{"dataId":"yu4palqjs","label":"start -> end line","color":[248,149,112],"columns":{"lat0":"start_latitude","lng0":"start_longitude","lat1":"end_latitude","lng1":"end_longitude"},"isVisible":false,"visConfig":{"opacity":0.8,"thickness":2,"colorRange":{"name":"Global Warming","type":"sequential","category":"Uber","colors":["#5A1846","#900C3F","#C70039","#E3611C","#F1920E","#FFC300"]},"sizeRange":[0,10],"targetColor":null},"textLabel":{"field":null,"color":[255,255,255],"size":50,"offset":[0,0],"anchor":"middle"}},"visualChannels":{"colorField":null,"colorScale":"quantile","sizeField":null,"sizeScale":"linear"}}],"interactionConfig":{"tooltip":{"fieldsToShow":{"yu4palqjs":["ID","amount","place","start-time","end-time"]},"enabled":true},"brush":{"size":0.5,"enabled":false}},"layerBlending":"normal","splitMaps":[]},"mapState":{"bearing":24,"dragRotate":true,"latitude":34.60861228718558,"longitude":133.25177820618373,"pitch":50,"zoom":8.796707090297874,"isSplit":false},"mapStyle":{"styleType":"dark","topLayerGroups":{},"visibleLayerGroups":{"label":true,"road":true,"border":false,"building":true,"water":true,"land":true,"3d building":false},"mapStyles":{}}}};
+            
+            const loadedData = keplerGl.KeplerGlSchema.load(
+              datasets,
+              config
+            );
+            
+            store.dispatch(keplerGl.addDataToMap(loadedData));
+          }(KeplerGl, store))
+        </script>
+      </body>
+    </html>
+  
