@@ -269,7 +269,7 @@ window.onload = async function() {
 	const lls = []
 	for (const d of data) {
 		const ll = [ d.latitude, d.longitude ]
-		const iconimg = d.flg_takeout ? 'img/icon_takeout.png' : 'img/icon_delivery.png'
+		const iconimg = d.flg_takeout ? 'img/icon_takeout_h.png' : 'img/icon_delivery.png'
 		const icon = map.addIcon(ll[0], ll[1], function(e) {
 			const d = e.sourceTarget.data
 			if (shows.indexOf(d.name) >= 0) {
