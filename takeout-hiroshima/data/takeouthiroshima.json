@@ -1,3 +1,4 @@
 [
-{ "name":"牛ちゃん　尾道店", "description":"近隣のお宅まで「出前」はじめました。<br>住所: 広島県尾道市土堂２丁目８−６<br>電話: <a href='tel:0848-22-9696'>0848-22-9696</a><br>ホームページ: <a href='https://gyuchan-onomichi.com' target=_blank>https://gyuchan-onomichi.com</a><br>SNS: <a href='' target=_blank></a>  ", "longitude":"133.200757", "latitude":"34.407160", "flg_takeout":"0", "flg_delivery":"1" }
+{ "name":"牛ちゃん　尾道店", "description":"近隣のお宅まで「出前」はじめました。<br>住所: 広島県尾道市土堂２丁目８−６<br>電話: <a href='tel:0848-22-9696'>0848-22-9696</a><br>ホームページ: <a href='https://gyuchan-onomichi.com' target=_blank>https://gyuchan-onomichi.com</a><br>SNS: <a href='' target=_blank></a>  ", "longitude":"133.200757", "latitude":"34.407160", "flg_takeout":"0", "flg_delivery":"1" },
+{ "name":"Harvest（ハーベスト）", "description":"<br>住所: 広島県福山市三之丸町３−４ 松本ビル 1F<br>電話: <a href='tel:084-999-8133'>084-999-8133</a><br>ホームページ: <a href='https://harvest-fukuyama.owst.jp' target=_blank>https://harvest-fukuyama.owst.jp</a><br>SNS: <a href='' target=_blank></a>  ", "longitude":"133.3617841", "latitude":"34.4879957", "flg_takeout":"1", "flg_delivery":"0" }
 ]
