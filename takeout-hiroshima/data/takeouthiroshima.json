@@ -22,5 +22,69 @@
     "latitude": 34.4879514,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "LUONTO-ルオント",
+    "description": "住所: 広島県福山市三之丸町4-12<br>電話: <a href='tel:084-924-5570'>084-924-5570</a><br>ホームページ: <a href='https://www.fukuyama-yasai.jp/luonto.php' target=_blank>https://www.fukuyama-yasai.jp/luonto.php</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3616248,
+    "latitude": 34.4875841,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "The PEROLINESS Chicken FUKUYAMA ザ・ペロリネスチキン フクヤマ",
+    "description": "住所: 広島県福山市霞町1丁目4-32<br>電話: <a href='tel:050-3491-4157'>050-3491-4157</a><br>ホームページ: <a href='http://www.peroliness.jp' target=_blank>http://www.peroliness.jp</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3655411,
+    "latitude": 34.4847647,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "海鮮居酒屋 さかりば",
+    "description": "住所: 広島県福山市神辺町十九軒屋253-2  サンキューランド内<br>電話: <a href='tel:084-966-3122'>084-966-3122</a><br>ホームページ: <a href='https://www.hotpepper.jp/strJ001029112' target=_blank>https://www.hotpepper.jp/strJ001029112</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3598166,
+    "latitude": 34.5472486,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Spain Bar Astoria アストリア",
+    "description": "住所: 広島県福山市元町12−2<br>電話: <a href='tel:050-3463-8145'>050-3463-8145</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34019114' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34019114</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.364568,
+    "latitude": 34.4880468,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "がブリチキン福山駅前店",
+    "description": "住所: 広島県福山市伏見町4-5<br>電話: <a href='tel:084-983-3638'>084-983-3638</a><br>ホームページ: <a href='https://gaburichicken.owst.jp' target=_blank>https://gaburichicken.owst.jp</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3638784,
+    "latitude": 34.4885042,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "焼肉ビストロ LOVE♡BEEF",
+    "description": "住所: 広島県福山市元町15-32<br>電話: <a href='tel:084-999-6729'>084-999-6729</a><br>ホームページ: <a href='https://www.hotpepper.jp/strJ001215621' target=_blank>https://www.hotpepper.jp/strJ001215621</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3655403,
+    "latitude": 34.4878678,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "はっせい船町店",
+    "description": "住所: 広島県福山市船町４−６<br>電話: <a href='tel:084-922-0526'>084-922-0526</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34002936' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34002936</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3677122,
+    "latitude": 34.4872906,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "田丸屋（たまるや）",
+    "description": "住所: 広島県福山市沼隈町７１３−１<br>電話: <a href='tel:084-922-0526'>084-922-0526</a><br>ホームページ: <a href='https://retty.me/area/PRE34/ARE285/SUB28501/100001314563' target=_blank>https://retty.me/area/PRE34/ARE285/SUB28501/100001314563</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3188863,
+    "latitude": 34.4159811,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
