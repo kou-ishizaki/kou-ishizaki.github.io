@@ -12,7 +12,8 @@ const fetchCSVfromGoogleSpreadSheet = async function(key) {
 }
 
 const main = async function() {
-  const key = '2PACX-1vSFMNp5HcRNOF5MrAujEUWR1dIoX2mncMEWTbPlVAaJqKWiq831-6gnCyI7n_G8YfPqNQXrfwyVjyHL'
+  //const key = '2PACX-1vSFMNp5HcRNOF5MrAujEUWR1dIoX2mncMEWTbPlVAaJqKWiq831-6gnCyI7n_G8YfPqNQXrfwyVjyHL'
+  const key = '12inUPVR2jnpL0OihzfQAd8q520o2rpufZW_cbx2nWGA'
   const data = await fetchCSVfromGoogleSpreadSheet(key)
   console.log(data)
 }
