@@ -7,9 +7,10 @@ const fetchText = async function(url) {
 	return data
 }
 const makeData = async function() {
-  const csvurl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQEGkBA1BaApE2rOd3fajQILfgi9lWpRC4_q3W_By35ogeWh8fuK2C4VoUYN3Y_Vw001O0-6J4E3zg9/pub?gid=0&single=true&output=csv'
+//  const csvurl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQEGkBA1BaApE2rOd3fajQILfgi9lWpRC4_q3W_By35ogeWh8fuK2C4VoUYN3Y_Vw001O0-6J4E3zg9/pub?gid=0&single=true&output=csv'
+  const csvurl = 'https://docs.google.com/spreadsheets/d/e/12inUPVR2jnpL0OihzfQAd8q520o2rpufZW_cbx2nWGA/pub?gid=0&single=true&output=csv'
   const csv = await fetchText(csvurl)
-  const fn = '../data/takeoutfukui'
+  const fn = '../data/takeouthiroshima'
   let csvold = null
   try {
     csvold = fs.readFileSync(fn)
