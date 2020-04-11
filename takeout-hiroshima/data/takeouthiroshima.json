@@ -86,5 +86,53 @@
     "latitude": 34.4159811,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "まごころ料理ふな家",
+    "description": "住所: 広島県福山市船町6-4<br>電話: <a href='tel:084-923-2785'>084-923-2785</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34000967' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34000967</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.366904,
+    "latitude": 34.487305,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "鳥好",
+    "description": "住所: 広島県福山市元町12-12<br>電話: <a href='tel:084-925-3632'>084-925-3632</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34000879' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34000879</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.346586,
+    "latitude": 34.5465525,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ラルドワーズ",
+    "description": "住所: 広島県福山市御幸町上岩成455-3<br>電話: <a href='tel:084-972-7689'>084-972-7689</a><br>ホームページ: <a href='http://lardoise.tv' target=_blank>http://lardoise.tv</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.346586,
+    "latitude": 34.4873592,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "中華ダイニング　青冥",
+    "description": "住所: 広島県福山市船町4-1<br>電話: <a href='tel:084-931-3505'>084-931-3505</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34001716' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34001716</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.36718,
+    "latitude": 34.4873592,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "炭焼・もつ鍋　めだか亭",
+    "description": "住所: 福山市延広町2-9<br>電話: <a href='tel:084-923-0819'>084-923-0819</a><br>ホームページ: <a href='https://www.hotpepper.jp/strJ001178938' target=_blank>https://www.hotpepper.jp/strJ001178938</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3647446,
+    "latitude": 34.4865279,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "喫茶 琥珀",
+    "description": "住所: 広島県福山市御門町3丁目10-24<br>電話: <a href='tel:084-923-3365'>084-923-3365</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340308/34023170' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34023170</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3722814,
+    "latitude": 34.4784126,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
