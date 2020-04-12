@@ -303,7 +303,8 @@ window.onload = async function() {
 				for (const k of keys) {
 					let flg = false
 					for (const name in d) {
-						if (d[name].indexOf(k) >= 0) {
+						const value = d[name];
+						if (typeof value === "string" && value.indexOf(k) >= 0) {
 							flg = true
 							break
 						}
