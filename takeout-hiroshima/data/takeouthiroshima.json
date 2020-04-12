@@ -398,5 +398,85 @@
     "latitude": 34.4095844,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "おばんざい木むら",
+    "description": "住所: 広島県福山市三吉町南2丁目9-22<br>電話: <a href='tel:084-927-0808'>084-927-0808</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340308/34002803' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34002803</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3785644,
+    "latitude": 34.4887978,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "IKEGUCHI MEAT PUBLIC HOUSE",
+    "description": "住所: 広島県福山市伏見町1-16<br>電話: <a href='tel:084-999-3110'>084-999-3110</a><br>ホームページ: <a href='https://ikeguchi-mph.therestaurant.jp' target=_blank>https://ikeguchi-mph.therestaurant.jp</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3646352,
+    "latitude": 34.4867869,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "organo",
+    "description": "住所: 広島県福山市延広町2-6<br>電話: <a href='tel:084-927-3315'>084-927-3315</a>",
+    "longitude": 133.3646352,
+    "latitude": 34.4867869,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "お好み焼紅葉",
+    "description": "住所: 広島県福山市東深津町1丁目9-4<br>電話: <a href='tel:084-927-6136'>084-927-6136</a><br>ホームページ: <a href='https://okonomimomiji.jimdofree.com' target=_blank>https://okonomimomiji.jimdofree.com</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3903238,
+    "latitude": 34.4988956,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "イタリアンダイニングAji-to",
+    "description": "住所: 広島県福山市草戸町 2丁目1-1<br>電話: <a href='tel:084-994-2179'>084-994-2179</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340308/34015535' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34015535</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3573205,
+    "latitude": 34.4808491,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "萬よし",
+    "description": "住所: 広島県福山市南町9-6<br>電話: <a href='tel:084-922-2703'>084-922-2703</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340308/34005270' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34005270</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3707681,
+    "latitude": 34.4844553,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "手羽先道場ぐんけい",
+    "description": "住所: 広島県福山市元町 13-6<br>電話: <a href='tel:084-973-4129'>084-973-4129</a><br>ホームページ: <a href='https://www.hotpepper.jp/strJ000712742' target=_blank>https://www.hotpepper.jp/strJ000712742</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3651768,
+    "latitude": 34.4876106,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "肴蔵",
+    "description": "住所: 広島県福山市船町1-23<br>電話: <a href='tel:050-5303-7532'>050-5303-7532</a><br>ホームページ: <a href='https://retty.me/area/PRE34/ARE285/SUB28501/100000605747' target=_blank>https://retty.me/area/PRE34/ARE285/SUB28501/100000605747</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.367582,
+    "latitude": 34.4874286,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "CHUNK チャンク",
+    "description": "住所: 広島県福山市元町 13-7<br>電話: <a href='tel:084-926-0660'>084-926-0660</a><br>ホームページ: <a href='https://www.chunkcoffee.com/' target=_blank>https://www.chunkcoffee.com/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.365249,
+    "latitude": 34.4876575,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "HOT BLUES CAFE",
+    "description": "住所: 広島県福山市曙町2丁目5-30<br>電話: <a href='tel:084-957-5383'>084-957-5383</a><br>ホームページ: <a href='https://www.hotbluescafe.com' target=_blank>https://www.hotbluescafe.com</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.4017196,
+    "latitude": 34.4749791,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
