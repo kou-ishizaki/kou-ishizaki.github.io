@@ -633,7 +633,7 @@
   },
   {
     "name": "グラマー・ペイン 本店",
-    "description": "住所: 広島県福山市西深津町2-1-21<br>電話: <a href='tel:084-921-4088'>084-921-4088</a><br>ホームページ: <a https://tabelog.com/hiroshima/A3403/A340308/34003801' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34003801</a><br>SNS: <a href='' target=_blank></a>",
+    "description": "住所: 広島県福山市西深津町2-1-21<br>電話: <a href='tel:084-921-4088'>084-921-4088</a><br>ホームページ: <a href=' https://tabelog.com/hiroshima/A3403/A340308/34003801' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34003801</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.3797192,
     "latitude": 34.4953218,
     "flg_takeout": 1,
@@ -649,7 +649,7 @@
   },
   {
     "name": "吉甲",
-    "description": "住所: 広島県福山市南蔵王町4-4-15-2<br>電話: <a href='tel:084-931-5769'>084-931-5769</a><br>ホームページ: <a https://tabelog.com/hiroshima/A3403/A340305/34000909' target=_blank>https://tabelog.com/hiroshima/A3403/A340305/34000909</a><br>SNS: <a href='' target=_blank></a>",
+    "description": "住所: 広島県福山市南蔵王町4-4-15-2<br>電話: <a href='tel:084-931-5769'>084-931-5769</a><br>ホームページ: <a href=' https://tabelog.com/hiroshima/A3403/A340305/34000909' target=_blank>https://tabelog.com/hiroshima/A3403/A340305/34000909</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.3928592,
     "latitude": 34.4992556,
     "flg_takeout": 1,
