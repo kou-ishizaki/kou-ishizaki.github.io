@@ -478,5 +478,93 @@
     "latitude": 34.4749791,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "静流",
+    "description": "住所: 広島県福山市延広町6-20<br>電話: <a href='tel:084-982-5777'>084-982-5777</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34025957' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34025957</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3652144,
+    "latitude": 34.4867074,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "しゃぶ吉",
+    "description": "住所: 広島県福山市昭和町2-1<br>電話: <a href='tel:084-982-5777'>084-982-5777</a><br>ホームページ: <a href='https://www.shabuyoshi.jp' target=_blank>https://www.shabuyoshi.jp</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3684569,
+    "latitude": 34.4857757,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Bar Blossom(ブロッサム)",
+    "description": "住所: 広島県福山市船町4-4<br>電話: <a href='tel:084-922-1512'>084-922-1512</a><br>ホームページ: <a href='https://www.instagram.com/bar.blossom' target=_blank>https://www.instagram.com/bar.blossom</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3674138,
+    "latitude": 34.4872487,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Teppan dining SHIGEBA",
+    "description": "住所: 広島県福山市南町2-25<br>電話: <a href='tel:084-979-4711'>084-979-4711</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340308/34024039' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34024039</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3698261,
+    "latitude": 34.4841741,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "宮通り酒場　ひろや",
+    "description": "住所: 広島県福山市延広町 1-2<br>電話: <a href='tel:090-7544-1305'>090-7544-1305</a><br>ホームページ: <a href='https://www.hotpepper.jp/strJ001238263' target=_blank>https://www.hotpepper.jp/strJ001238263</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3640375,
+    "latitude": 34.4868073,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "城下横丁ガクオン食堂",
+    "description": "住所: 広島県福山市笠岡町3-7<br>電話: <a href='tel:084-921-6800'>084-921-6800</a><br>ホームページ: <a href='https://www.facebook.com/manabu.kuboi' target=_blank>https://www.facebook.com/manabu.kuboi</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3688337,
+    "latitude": 34.4885749,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "がっつりグリル　肉バル",
+    "description": "住所: 広島県福山市延広町 6-1<br>電話: <a href='tel:050-5282-3904'>050-5282-3904</a><br>ホームページ: <a href='https://gatturi.owst.jp/courses' target=_blank>https://gatturi.owst.jp/courses</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3656996,
+    "latitude": 34.48697,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "げんちゃんコロッケ",
+    "description": "住所: 広島県福山市東深津町３-２２-７<br>電話: <a href='tel:084-943-1130'>084-943-1130</a><br>ホームページ: <a href='https://retty.me/area/PRE34/ARE285/SUB28501/100001532442' target=_blank>https://retty.me/area/PRE34/ARE285/SUB28501/100001532442</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3999254,
+    "latitude": 34.4945114,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "旬海鮮 丼丸 御幸店",
+    "description": "住所: 広島県福山市御幸町上岩成沼４５７-１<br>電話: <a href='tel:084-983-1322'>084-983-1322</a><br>ホームページ: <a href='https://retty.me/area/PRE34/ARE285/SUB28501/100001444528/' target=_blank>https://retty.me/area/PRE34/ARE285/SUB28501/100001444528/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3472975,
+    "latitude": 34.5470241,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "旬菜わくわく市場 本店",
+    "description": "住所: 広島県福山市南手城町４-１２-９<br>電話: <a href='tel:084-999-6001'>084-999-6001</a><br>ホームページ: <a href='https://retty.me/area/PRE34/ARE285/SUB28501/100001435319' target=_blank>https://retty.me/area/PRE34/ARE285/SUB28501/100001435319</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.4002087,
+    "latitude": 34.4827414,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "たんと",
+    "description": "住所: 広島県福山市元町13-21<br>電話: <a href='tel:084-928-5465'>084-928-5465</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34000793' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34000793</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3648013,
+    "latitude": 34.4873814,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
