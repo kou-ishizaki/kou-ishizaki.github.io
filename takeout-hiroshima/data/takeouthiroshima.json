@@ -670,5 +670,13 @@
     "latitude": 34.4469495,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "自転車カフェ＆バー　汐待亭",
+    "description": "汐待亭のお弁当メニューは現在2種類<br>お試し価格です。<br>・免疫力アップランチボックス 700円<br>・お子様ランチボックス 500円<br>通常メニューのテイクアウトも可能です‼️<br>配達もご相談ください。 <br>住所: 広島県尾道市瀬戸田町瀬戸田425<br>電話: <a href='tel:084-525-6572'>084-525-6572</a><br>ホームページ: <a href='https://shiomachitei.jimdofree.com' target=_blank>https://shiomachitei.jimdofree.com</a><br>SNS: <a href='https://www.facebook.com/カフェバー汐待亭-878929305523240/' target=_blank>汐待亭Facebookページ</a>",
+    "longitude": 133.086242,
+    "latitude": 34.304416,
+    "flg_takeout": 1,
+    "flg_delivery": 1
   }
 ]
