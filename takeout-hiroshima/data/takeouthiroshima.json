@@ -566,5 +566,69 @@
     "latitude": 34.4873814,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "カフェ壱乃蔵",
+    "description": "住所: 広島県福山市東町 1-2-10<br>電話: <a href='tel:084-926-6824'>084-926-6824</a><br>ホームページ: <a href='https://fukuyama-bentou.com/feature/takeout_cafe' target=_blank>https://fukuyama-bentou.com/feature/takeout_cafe</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3689434,
+    "latitude": 34.4901259,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "大衆食堂 稲田屋",
+    "description": "住所: 広島県福山市船町1-18<br>電話: <a href='tel:084-925-1392'>084-925-1392</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34001159/' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34001159/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3680542,
+    "latitude": 34.4874267,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "朱華楼 東深津店",
+    "description": "住所: 広島県福山市東深津町1-9-63<br>電話: <a href='tel:084-921-6079'>084-921-6079</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340308/34000085' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34000085</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3906368,
+    "latitude": 34.4969205,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "豚笑",
+    "description": "住所: 広島県福山市南蔵王町2丁目25-33<br>電話: <a href='tel:084-982-7520'>084-982-7520</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340305/34011550' target=_blank>https://tabelog.com/hiroshima/A3403/A340305/34011550</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3966092,
+    "latitude": 34.5024865,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "棒棒 千田店",
+    "description": "住所: 広島県福山市千田町2469-2<br>電話: <a href='tel:084-955-5999'>084-955-5999</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340308/34002264' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34002264</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3884533,
+    "latitude": 34.5181534,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "こだわりとんかつ　かつ将 春日店",
+    "description": "住所: 広島県福山市春日町1-1-47<br>電話: <a href='tel:084-945-5006'>084-945-5006</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340305/34001110' target=_blank>https://tabelog.com/hiroshima/A3403/A340305/34001110</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.4042843,
+    "latitude": 34.505925,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ラルドワーズ",
+    "description": "住所: 広島県福山市御幸町上岩成455-3<br>電話: <a href='tel:084-972-7689'>084-972-7689</a><br>ホームページ: <a https://tabelog.com/hiroshima/A3403/A340307/34002465' target=_blank>https://tabelog.com/hiroshima/A3403/A340307/34002465</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.346586,
+    "latitude": 34.5465525,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ベトナム料理店アオババ",
+    "description": "住所: 広島県福山市霞町1-5-6<br>電話: <a href='tel:084-999-7737'>084-999-7737</a><br>ホームページ: <a https://tabelog.com/hiroshima/A3403/A340308/34022717' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34022717</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3668285,
+    "latitude": 34.4842936,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
