@@ -573,7 +573,7 @@
     "longitude": 133.3689434,
     "latitude": 34.4901259,
     "flg_takeout": 1,
-    "flg_delivery": 0
+    "flg_delivery": 1
   },
   {
     "name": "大衆食堂 稲田屋",
@@ -628,6 +628,14 @@
     "description": "住所: 広島県福山市霞町1-5-6<br>電話: <a href='tel:084-999-7737'>084-999-7737</a><br>ホームページ: <a https://tabelog.com/hiroshima/A3403/A340308/34022717' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34022717</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.3668285,
     "latitude": 34.4842936,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "グラマー・ペイン 本店",
+    "description": "住所: 広島県福山市西深津町2-1-21<br>電話: <a href='tel:084-921-4088'>084-921-4088</a><br>ホームページ: <a https://tabelog.com/hiroshima/A3403/A340308/34003801' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34003801</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3797192,
+    "latitude": 34.4953218,
     "flg_takeout": 1,
     "flg_delivery": 0
   }
