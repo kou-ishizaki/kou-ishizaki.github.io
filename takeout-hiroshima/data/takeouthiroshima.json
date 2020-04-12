@@ -638,5 +638,37 @@
     "latitude": 34.4953218,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "阿も珍川口店",
+    "description": "住所: 広島県福山市東川口町3-18-18<br>電話: <a href='tel:084-981-3333'>084-981-3333</a><br>ホームページ: <a https://tabelog.com/hiroshima/A3403/A340304/34000845' target=_blank>https://tabelog.com/hiroshima/A3403/A340304/34000845</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3850319,
+    "latitude": 34.4732506,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "吉甲",
+    "description": "住所: 広島県福山市南蔵王町4-4-15-2<br>電話: <a href='tel:084-931-5769'>084-931-5769</a><br>ホームページ: <a https://tabelog.com/hiroshima/A3403/A340305/34000909' target=_blank>https://tabelog.com/hiroshima/A3403/A340305/34000909</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3928592,
+    "latitude": 34.4992556,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ビストロ ボントレ",
+    "description": "住所: 広島県福山市西新涯町1-2-31<br>電話: <a href='tel:084-954-2592'>084-954-2592</a><br>ホームページ: <a https://tabelog.com/hiroshima/A3403/A340304/34000730' target=_blank>https://tabelog.com/hiroshima/A3403/A340304/34000730</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3788795,
+    "latitude": 34.4619774,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "竹野食堂",
+    "description": "住所: 広島県福山市松永町3-7-1<br>電話: <a href='tel:084-933-3379'>084-933-3379</a><br>ホームページ: <a https://tabelog.com/hiroshima/A3403/A340308/34007674/' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34007674/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.2568715,
+    "latitude": 34.4469495,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
