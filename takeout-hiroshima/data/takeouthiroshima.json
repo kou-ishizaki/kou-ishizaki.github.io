@@ -625,7 +625,7 @@
   },
   {
     "name": "ベトナム料理店アオババ",
-    "description": "住所: 広島県福山市霞町1-5-6<br>電話: <a href='tel:084-999-7737'>084-999-7737</a><br>ホームページ: <a https://tabelog.com/hiroshima/A3403/A340308/34022717' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34022717</a><br>SNS: <a href='' target=_blank></a>",
+    "description": "住所: 広島県福山市霞町1-5-6<br>電話: <a href='tel:084-999-7737'>084-999-7737</a><br>ホームページ: <a href=' https://tabelog.com/hiroshima/A3403/A340308/34022717' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34022717</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.3668285,
     "latitude": 34.4842936,
     "flg_takeout": 1,
@@ -641,7 +641,7 @@
   },
   {
     "name": "阿も珍川口店",
-    "description": "住所: 広島県福山市東川口町3-18-18<br>電話: <a href='tel:084-981-3333'>084-981-3333</a><br>ホームページ: <a https://tabelog.com/hiroshima/A3403/A340304/34000845' target=_blank>https://tabelog.com/hiroshima/A3403/A340304/34000845</a><br>SNS: <a href='' target=_blank></a>",
+    "description": "住所: 広島県福山市東川口町3-18-18<br>電話: <a href='tel:084-981-3333'>084-981-3333</a><br>ホームページ: <a href=' https://tabelog.com/hiroshima/A3403/A340304/34000845' target=_blank>https://tabelog.com/hiroshima/A3403/A340304/34000845</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.3850319,
     "latitude": 34.4732506,
     "flg_takeout": 1,
@@ -657,7 +657,7 @@
   },
   {
     "name": "ビストロ ボントレ",
-    "description": "住所: 広島県福山市西新涯町1-2-31<br>電話: <a href='tel:084-954-2592'>084-954-2592</a><br>ホームページ: <a https://tabelog.com/hiroshima/A3403/A340304/34000730' target=_blank>https://tabelog.com/hiroshima/A3403/A340304/34000730</a><br>SNS: <a href='' target=_blank></a>",
+    "description": "住所: 広島県福山市西新涯町1-2-31<br>電話: <a href='tel:084-954-2592'>084-954-2592</a><br>ホームページ: <a href=' https://tabelog.com/hiroshima/A3403/A340304/34000730' target=_blank>https://tabelog.com/hiroshima/A3403/A340304/34000730</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.3788795,
     "latitude": 34.4619774,
     "flg_takeout": 1,
@@ -665,7 +665,7 @@
   },
   {
     "name": "竹野食堂",
-    "description": "住所: 広島県福山市松永町3-7-1<br>電話: <a href='tel:084-933-3379'>084-933-3379</a><br>ホームページ: <a https://tabelog.com/hiroshima/A3403/A340308/34007674/' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34007674/</a><br>SNS: <a href='' target=_blank></a>",
+    "description": "住所: 広島県福山市松永町3-7-1<br>電話: <a href='tel:084-933-3379'>084-933-3379</a><br>ホームページ: <a href=' https://tabelog.com/hiroshima/A3403/A340308/34007674/' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34007674/</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.2568715,
     "latitude": 34.4469495,
     "flg_takeout": 1,
@@ -676,6 +676,54 @@
     "description": "汐待亭のお弁当メニューは現在2種類<br>お試し価格です。<br>・免疫力アップランチボックス 700円<br>・お子様ランチボックス 500円<br>通常メニューのテイクアウトも可能です‼️<br>配達もご相談ください。 <br>住所: 広島県尾道市瀬戸田町瀬戸田425<br>電話: <a href='tel:084-525-6572'>084-525-6572</a><br>ホームページ: <a href='https://shiomachitei.jimdofree.com' target=_blank>https://shiomachitei.jimdofree.com</a><br>SNS: <a href='https://www.facebook.com/カフェバー汐待亭-878929305523240/' target=_blank>汐待亭Facebookページ</a>",
     "longitude": 133.086242,
     "latitude": 34.304416,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "だんだん・広島風お好み焼",
+    "description": "住所: 広島県福山市松永町4-5-12<br>電話: <a href='tel:082-231-9559'>082-231-9559</a><br>ホームページ: <a href=' https://tabelog.com/hiroshima/A3403/A340308/34013249' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34013249</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.2585596,
+    "latitude": 34.4470501,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "白ばら 松永店",
+    "description": "住所: 広島県福山市松永町5-5-10<br>電話: <a href='tel:084-930-4180'>084-930-4180</a><br>ホームページ: <a href=' https://tabelog.com/hiroshima/A3403/A340308/34014292' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34014292</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.2592123,
+    "latitude": 34.4428891,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "居酒屋響樹",
+    "description": "住所: 広島県福山市松永町4丁目16-54-4<br>電話: <a href='tel:084-906-0023'>084-906-0023</a><br>ホームページ: <a href=' https://tabelog.com/hiroshima/A3403/A340308/34024272' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34024272</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.2597414,
+    "latitude": 34.4502146,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "オムライスのテイクアウト専門店オムレット",
+    "description": "住所:広島県福山市南本庄３丁目７−７<br>電話: <a href='tel:084-932-3177'>084-932-3177</a><br>ホームページ: <a href=' https://localplace.jp/t200346311/?fbclid=IwAR3TAsSFoMuOJSih7f0YlKBKYCVhS8g02_lsTz4YAj8pAxJmFHYoGnxZUIk' target=_blank>https://localplace.jp/t200346311/?fbclid=IwAR3TAsSFoMuOJSih7f0YlKBKYCVhS8g02_lsTz4YAj8pAxJmFHYoGnxZUIk</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3528512,
+    "latitude": 34.4839633,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Cafe&Bar kosuke(コスケ）",
+    "description": "住所: 広島県福山市沖野上町3-6-34<br>電話: <a href='tel:084-931-4572'>084-931-4572</a><br>ホームページ: <a href=' https://tabelog.com/hiroshima/A3403/A340304/34024591/' target=_blank>https://tabelog.com/hiroshima/A3403/A340304/34024591/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3736685,
+    "latitude": 34.4722226,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "梅の花福山店",
+    "description": "住所: 福山市明神町12-15-51<br>電話: <a href='tel:084-973-8040'>084-973-8040</a><br>ホームページ: <a href=' ' target=_blank></a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3970981,
+    "latitude": 34.49022,
     "flg_takeout": 1,
     "flg_delivery": 1
   }
