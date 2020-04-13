@@ -726,5 +726,13 @@
     "latitude": 34.49022,
     "flg_takeout": 1,
     "flg_delivery": 1
+  },
+  {
+    "name": "HOK STAND",
+    "description": "テイクアウトメニューはレモネード、コーヒーとなります。<br>住所: 広島県尾道市久保1-2-24<br>電話: <a href='tel:0848-29-9527'>0848-29-9527</a><br>ホームページ: <a href='https://www.hokstand.com' target=_blank>https://www.hokstand.com</a><br>SNS: <a href='https://www.instagram.com/hokstand/?hl=ja' target=_blank>HOK STANDインスタグラム</a>",
+    "longitude": 133.203578,
+    "latitude": 34.410848,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
