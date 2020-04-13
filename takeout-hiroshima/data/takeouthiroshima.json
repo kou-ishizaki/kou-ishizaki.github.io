@@ -296,12 +296,12 @@
     "flg_delivery": 0
   },
   {
-    "name": "おきなわんふーど ゆんたく",
-    "description": "住所: 広島県尾道市高須町705-2<br>電話: <a href='tel:0848-47-4401'>0848-47-4401</a><br>ホームページ: <a href='http://www.okinawan-food.com/' target=_blank>http://www.okinawan-food.com/</a><br>SNS: <a href='' target=_blank></a>",
-    "longitude": 133.2315,
-    "latitude": 34.43823,
-    "flg_takeout": 1,
-    "flg_delivery": 0
+    "name": "",
+    "description": "",
+    "longitude": "",
+    "latitude": "",
+    "flg_takeout": "",
+    "flg_delivery": ""
   },
   {
     "name": "上田お好み焼",
