@@ -814,5 +814,13 @@
     "latitude": 34.4887807,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "大衆酒場 福山バット",
+    "description": "住所: 広島県福山市伏見町４−５<br>\n電話: <a href='tel:084-982-5933'>084-982-5933</a><br>\nホームページ: <a href='https://fukuyamabat.owst.jp/' target=_blank>https://fukuyamabat.owst.jp/</a><br>\nSNS: <a href='' target=_blank></a>",
+    "longitude": 133.3639755,
+    "latitude": 34.4885571,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
