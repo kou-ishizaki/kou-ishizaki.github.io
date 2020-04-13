@@ -177,7 +177,7 @@
   },
   {
     "name": "しまなみロマン",
-    "description": "住所: 広島県尾道市十四日元町４−６ 2階<br>電話: <a href='tel:0845-27-0010'>0845-27-0010</a><br>ホームページ: <a href='https://shimanami.co.jp/' target=_blank>https://shimanami.co.jp/</a><br>SNS: <a href='' target=_blank></a>",
+    "description": "住所: 広島県尾道市瀬戸田町瀬戸田２１４−１<br>電話: <a href='tel:0845-27-0010'>0845-27-0010</a><br>ホームページ: <a href='https://shimanami.co.jp/' target=_blank>https://shimanami.co.jp/</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.0846,
     "latitude": 34.30499,
     "flg_takeout": 1,
@@ -734,5 +734,29 @@
     "latitude": 34.410848,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "料理屋　おゝ貫（おお貫）",
+    "description": "住所: 広島県福山市神辺町新湯野33-8<br>電話: <a href='tel:084-967-5755'>084-967-5755</a><br>ホームページ: <a href='https://hitosara.com/0006123048 ' target=_blank>https://hitosara.com/0006123048</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3903858,
+    "latitude": 34.5583294,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "かつれつ大正亭",
+    "description": "住所: 広島県福山市神辺町湯野304-1<br>電話: <a href='tel:084-962-2998'>084-962-2998</a><br>ホームページ: <a href='https://hitosara.com/0005033862' target=_blank>https://hitosara.com/0005033862</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3819493,
+    "latitude": 34.5503923,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "肉菜ダイニング五色",
+    "description": "住所: 広島県福山市神辺町新徳田3-518-1<br>電話: <a href='tel:050-5340-7946'>050-5340-7946</a><br>ホームページ: <a href='https://hitosara.com/0006108194' target=_blank>https://hitosara.com/0006108194</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.365414,
+    "latitude": 34.5476815,
+    "flg_takeout": "",
+    "flg_delivery": ""
   }
 ]
