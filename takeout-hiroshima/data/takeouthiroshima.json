@@ -790,5 +790,29 @@
     "latitude": 34.48906,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "味処まんぷく",
+    "description": "住所: 広島県福山市若松町9-20<br>電話: <a href='tel:084-960-3008'>084-960-3008</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34022457' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34022457</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3738872,
+    "latitude": 34.4922293,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "こだわりとんかつ かつ将 神辺店",
+    "description": "住所: 広島県福山市神辺町十三軒屋95-1<br>電話: <a href='tel:084-960-3008'>084-960-3008</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340306/34022786' target=_blank>https://tabelog.com/hiroshima/A3403/A340306/34022786</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3563266,
+    "latitude": 34.547153,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "お好み焼き ねぎ房’Ｚ",
+    "description": "住所: 広島県福山市伏見町３−２５<br>電話: <a href='tel:084-928-2720'>084-928-2720</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34006780/' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34006780/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.364208,
+    "latitude": 34.4887807,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
