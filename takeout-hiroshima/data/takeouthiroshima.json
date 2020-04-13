@@ -756,7 +756,39 @@
     "description": "住所: 広島県福山市神辺町新徳田3-518-1<br>電話: <a href='tel:050-5340-7946'>050-5340-7946</a><br>ホームページ: <a href='https://hitosara.com/0006108194' target=_blank>https://hitosara.com/0006108194</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.365414,
     "latitude": 34.5476815,
-    "flg_takeout": "",
-    "flg_delivery": ""
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "棒棒 （バンバン）大門",
+    "description": "住所: 広島県福山市大門町5-7-28<br>電話: <a href='tel:084-943-5067'>084-943-5067</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340308/34002054' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34002054</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.4420024,
+    "latitude": 34.4889655,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ほんま家",
+    "description": "住所: 広島県福山市沼隈町上山南811<br>電話: <a href='tel:084-988-0775'>084-988-0775</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340308/34025690' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34025690</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3221727,
+    "latitude": 34.4209911,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "SALVATORE CUOMO&BAR 福山",
+    "description": "住所: 広島県福山市東桜町1-1 アイネス福山 2F<br>電話: <a href='tel:084-973-6165'>084-973-6165</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34019871' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34019871</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3627762,
+    "latitude": 34.4875919,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "はなの舞 福山駅店",
+    "description": "住所: 広島県福山市三之丸町30-1 サンステーションテラス福山 2番街1F<br>電話: <a href='tel:050-5267-2103'>050-5267-2103</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34014232' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34014232</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.3738872,
+    "latitude": 34.4889854,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
