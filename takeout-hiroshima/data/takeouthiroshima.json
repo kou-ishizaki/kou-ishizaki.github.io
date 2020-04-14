@@ -1110,5 +1110,37 @@
     "latitude": 34.3685339,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "オーセンティック ジャーニー",
+    "description": "",
+    "longitude": 133.3618859,
+    "latitude": 34.4882167,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "海厨（みくりや）",
+    "description": "",
+    "longitude": 133.3652847,
+    "latitude": 34.4873798,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "お好み焼き鉄板焼えんまる",
+    "description": "時間: 17:30〜<br>\n住所: 広島県福山市元町１５−５ 中村ビル 1F 東<br>\n電話: <a href='tel:084-923-1844'>084-923-1844</a>",
+    "longitude": 133.3652614,
+    "latitude": 34.4882524,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "黒毛和牛バル 529ミートボックス 福山宮通本店",
+    "description": "",
+    "longitude": 133.3645014,
+    "latitude": 34.4868937,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
