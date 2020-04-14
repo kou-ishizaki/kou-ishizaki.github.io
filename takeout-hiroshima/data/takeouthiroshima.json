@@ -1070,5 +1070,45 @@
     "latitude": 34.5070354,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "来来亭 福山沖野上店",
+    "description": "",
+    "longitude": 133.3740997,
+    "latitude": 34.4722786,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "呑喰家 けろり",
+    "description": "",
+    "longitude": 133.4121694,
+    "latitude": 34.5068947,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ぶらっくラー麵 しょうや",
+    "description": "",
+    "longitude": 133.3155427,
+    "latitude": 34.5410098,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "船町酒場 ざんぱーた 地物食材と自然派ワインのお店",
+    "description": "",
+    "longitude": 133.3672119,
+    "latitude": 34.4874853,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "sunny burgers サニーバーガー",
+    "description": "住所: 広島県福山市内海町ハ３４０−７<br>\n電話: <a href='tel:050-3134-3866'>050-3134-3866</a><br>\n予約: <a href='http://sunnyburgers.site/' target=_blank>http://sunnyburgers.site</a><br>",
+    "longitude": 133.3328946,
+    "latitude": 34.3685339,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
