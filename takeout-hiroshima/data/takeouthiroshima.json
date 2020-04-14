@@ -1182,5 +1182,13 @@
     "latitude": 34.4499108,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "ボンベイインディアンダイニング三篠店",
+    "description": "インド人シェフの作るインド料理、テイクアウトやっております。<br>\nテイクアウトランチ ¥750<br>\nボンベイセット¥1180<br>\n（デリバリーも準備中です。）<br>\n住所: 広島市西区三篠町2ー14ー9<br>\n電話: <a href='tel:082-237-8858'>082-237-8858</a><br>\nホームページ: <a href='https://bombay-indian-dining.owst.jp/' target=_blank>https://bombay-indian-dining.owst.jp/</a><br>",
+    "longitude": 132.453917,
+    "latitude": 34.412764,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
