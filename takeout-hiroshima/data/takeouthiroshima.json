@@ -1142,5 +1142,45 @@
     "latitude": 34.4868937,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "刺身＆溶岩焼ダイニング KAZUSA",
+    "description": "",
+    "longitude": 133.3752299,
+    "latitude": 34.4853866,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "三象",
+    "description": "",
+    "longitude": 133.3646681,
+    "latitude": 34.4863132,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "らーめん家がら",
+    "description": "住所: 広島県福山市南蔵王町３丁目１−３４<br>\n電話: <a href='tel:084-921-3686'>084-921-3686</a><br>\n予約: <a href='https://tabelog.com/hiroshima/A3403/A340305/34014018/' target=_blank>https://tabelog.com/hiroshima/A3403/A340305/34014018</a><br>",
+    "longitude": 133.3920883,
+    "latitude": 34.4996977,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "海老蔵 南蔵王店",
+    "description": "",
+    "longitude": 133.3915905,
+    "latitude": 34.4989978,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Imo Batake 「いもばたけ」",
+    "description": "【営業時間と定休日】<br>\n平日11：00～19：00<br>\n土・日祝日11：00～19：00(現在コロナウィルス対策により終業時間を18：00としております）<br>\n定休日　毎週水曜日＆第一火曜日<br>\n電話: <a href='tel:084-968-0270'>084-968-0270</a><br>\n予約: <a href='http://imo-batake.com' target=_blank>http://imo-batake.com</a><br>",
+    "longitude": 133.380106,
+    "latitude": 34.4499108,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
