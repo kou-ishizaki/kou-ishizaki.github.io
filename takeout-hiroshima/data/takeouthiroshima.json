@@ -1054,5 +1054,21 @@
     "latitude": 34.5166931,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "新宿さぼてん 福山さんすて店",
+    "description": "時間: 10:00〜<br>\n住所: 広島県福山市三之丸町３０−１ さんすて 1F<br>\n電話: <a href='tel:084-923-8107'>084-923-8107</a><br>",
+    "longitude": 133.3630561,
+    "latitude": 34.4897052,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "お好み焼き 三國志",
+    "description": "",
+    "longitude": 133.4113269,
+    "latitude": 34.5070354,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
