@@ -918,5 +918,45 @@
     "latitude": 34.4084318,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "ともんちゃ",
+    "description": "住所: 広島県福山市伏見町４−３<br>\n電話: <a href='tel:084-923-1129'>084-923-1129</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34000095/' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34000095/</a><br>\nSNS: <a href='' target=_blank></a>",
+    "longitude": 133.363742,
+    "latitude": 34.4885164,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "龍之子海鮮処",
+    "description": "住所: 広島県福山市伏見町１−９<br>\n電話: <a href='tel:084-928-0456'>084-928-0456</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34003784/' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34003784/</a><br>\nSNS: <a href='' target=_blank></a>",
+    "longitude": 133.363776,
+    "latitude": 34.4890855,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Li berta（リベルタ）",
+    "description": "住所: 広島県福山市伏見町１−９<br>\n電話: <a href='tel:080-1643-3150'>080-1643-3150</a><br>\nホームページ: <a href='https://www.hotpepper.jp/strJ001224882/' target=_blank>https://www.hotpepper.jp/strJ001224882/</a><br>\nSNS: <a href='' target=_blank></a>",
+    "longitude": 133.3619478,
+    "latitude": 34.4879172,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ビッグボーイ　福山店",
+    "description": "住所: 広島県福山市西桜町1-1-2<br>\n電話: <a href='tel:084-959-3114'>084-959-3114</a><br>\nホームページ: <a href='http://maps.bigboyjapan.co.jp/jp/detail/3403.html/' target=_blank>http://maps.bigboyjapan.co.jp/jp/detail/3403.html/</a><br>\nSNS: <a href='' target=_blank></a>",
+    "longitude": 133.3640184,
+    "latitude": 34.4882014,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "torikushi",
+    "description": "<テイクアウトメニュー><br>\n＊事前にお店にお電話ください＊<br>\n<br>\n・炭火串焼き5種10セット 1500円（税込）<br>\n・炭火串焼き10本+煮込み <br>\n・炭火串焼き10本+のりむすび2コ<br>\nはそれぞれ100円お得な 1900円（税込）<br>\nやきとり弁当 980円（税込）<br>\n<br>\n住所: 広島県広島市中区中町 2-23<br>\n電話: <a href='tel:082-246-1040'>082-246-1040</a><br>\nテイクアウト専用: <a href='tel:090-1330-2900'>090-1330-2900</a><br>\nホームページ: <a href='https://sites.google.com/site/torikushi1975/' target=_blank>https://sites.google.com/site/torikushi1975/</a><br>\nSNS: <a href='https://www.facebook.com/torikushi/' target=_blank>Facebookページ</a>",
+    "longitude": 132.460602,
+    "latitude": 34.390202,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
