@@ -949,13 +949,109 @@
     "longitude": 133.3640184,
     "latitude": 34.4882014,
     "flg_takeout": 1,
-    "flg_delivery": 0
+    "flg_delivery": 1
   },
   {
     "name": "torikushi",
     "description": "<テイクアウトメニュー><br>\n＊事前にお店にお電話ください＊<br>\n<br>\n・炭火串焼き5種10セット 1500円（税込）<br>\n・炭火串焼き10本+煮込み <br>\n・炭火串焼き10本+のりむすび2コ<br>\nはそれぞれ100円お得な 1900円（税込）<br>\nやきとり弁当 980円（税込）<br>\n<br>\n住所: 広島県広島市中区中町 2-23<br>\n電話: <a href='tel:082-246-1040'>082-246-1040</a><br>\nテイクアウト専用: <a href='tel:090-1330-2900'>090-1330-2900</a><br>\nホームページ: <a href='https://sites.google.com/site/torikushi1975/' target=_blank>https://sites.google.com/site/torikushi1975/</a><br>\nSNS: <a href='https://www.facebook.com/torikushi/' target=_blank>Facebookページ</a>",
     "longitude": 132.460602,
     "latitude": 34.390202,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "AREA INN FUSHIMICHO",
+    "description": "住所: 広島県福山市伏見町4番33号<br>\n電話: <a href='tel:084-961-3320'>084-961-3320</a><br>\nホームページ: <a href='https://www.furec.jp/areainn/' target=_blank>https://www.furec.jp/areainn</a><br>\nSNS: <a href='' target=_blank></a>",
+    "longitude": 133.3640184,
+    "latitude": 34.4882014,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "きはる",
+    "description": "住所: 広島県福山市木之庄町１丁目４−１８<br>\n電話: <a href='tel:084-923-4843'>084-923-4843</a><br>\nホームページ: <a href='http://www.tubakiya-kiharu.com/' target=_blank>http://www.tubakiya-kiharu.com</a><br>\nSNS: <a href='' target=_blank></a>",
+    "longitude": 133.3543471,
+    "latitude": 34.4948944,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "どんまい亭",
+    "description": "住所: 広島県福山市王子町１丁目４−３<br>\n電話: <a href='tel:084-928-8261'>084-928-8261</a><br>",
+    "longitude": 133.3833366,
+    "latitude": 34.4868982,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "から揚げ・弁当 鳥まつ",
+    "description": "住所: 広島県福山市高西町４丁目４−３<br>\n電話: <a href='tel:084-939-6885'>084-939-6885</a><br>",
+    "longitude": 133.2366283,
+    "latitude": 34.4439842,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "壱乃蔵",
+    "description": "住所: 広島県福山市多治米町１丁目９−１１<br>\n電話: <a href='tel:084-954-8596'>084-954-8596</a><br>",
+    "longitude": 133.3803089,
+    "latitude": 34.4751808,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "稲毛屋",
+    "description": "住所: 広島県福山市御船町１丁目４−３５<br>\n電話: <a href='tel:084-931-2126'>084-931-2126</a><br>",
+    "longitude": 133.3851169,
+    "latitude": 34.4878714,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "とんかつ葉月",
+    "description": "住所: 広島県福山市王子町２丁目１９−３１<br>\n電話: <a href='tel:084-926-0462'>084-926-0462</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340308/34003410/' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34003410</a><br>\nSNS: <a href='' target=_blank></a>",
+    "longitude": 133.3851169,
+    "latitude": 34.4878714,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "お好み焼き 咲咲",
+    "description": "住所: 広島県福山市船町１−２２<br>\n電話: <a href='tel:084-926-4574'>084-926-4574</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34002601/' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34002601</a><br>\nSNS: <a href='' target=_blank></a>",
+    "longitude": 133.3677211,
+    "latitude": 34.487445,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "水呑Cafe Boneu みのみカフェボヌー",
+    "description": "店内ランチ営業：11:00-15:00 (LO:14:00)<br>\nテイクアウト：11:00〜18:00 (LO:17:00）<br>\n定休日：毎週日曜日、第2・第4月曜日<br>\n住所: 広島県福山市水呑町4727-1<br>\n電話: <a href='tel:084-956-1939'>084-956-1939</a><br>\nホームページ: <a href='https://www.cafeboneu.com/' target=_blank>https://www.cafeboneu.com</a><br>\nSNS: <a href='' target=_blank></a>",
+    "longitude": 133.3885695,
+    "latitude": 34.4413232,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "中華料理 福龍",
+    "description": "時間: 11:00〜<br>\n住所: 広島県福山市東深津町１丁目１４−３<br>\n電話: <a href='tel:084-921-6399'>084-921-6399</a><br>",
+    "longitude": 133.3901272,
+    "latitude": 34.501426,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ステーキ丼専門店 黒べぇさん 南本庄店",
+    "description": "住所: 広島県福山市南本庄１丁目９−２１<br>\n電話: <a href='tel:084-925-5517'>084-925-5517</a><br>\nホームページ: <a href='http://kurobesan.jimdo.com/' target=_blank>http://kurobesan.jimdo.com</a><br>\nSNS: <a href='' target=_blank></a>",
+    "longitude": 133.3504204,
+    "latitude": 34.4878459,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "むっちゃん",
+    "description": "時間: 11:00〜<br>\n住所: 広島県福山市東陽台２丁目１８−１０<br>\n電話: <a href='tel: 084-947-0507'> 084-947-0507</a><br>",
+    "longitude": 133.4333831,
+    "latitude": 34.5166931,
     "flg_takeout": 1,
     "flg_delivery": 0
   }
