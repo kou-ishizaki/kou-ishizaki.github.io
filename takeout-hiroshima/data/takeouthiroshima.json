@@ -1190,5 +1190,45 @@
     "latitude": 34.412764,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "鉄板居酒屋 福茶",
+    "description": "",
+    "longitude": 133.3685944,
+    "latitude": 34.4889743,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "神鍋 ニコニコピンピンらぁめん",
+    "description": "時間 : 火曜〜木曜18:00〜翌1:00<br>\n          金曜〜日曜18:00〜翌3:00<br>\n電話: <a href='tel:084-963-2828'>084-963-2828</a><br>",
+    "longitude": 133.3575599,
+    "latitude": 34.5506639,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "肉菜ダイニング 五色（ごしき）",
+    "description": "",
+    "longitude": 133.365435,
+    "latitude": 34.5476285,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ぶに家 盛たに",
+    "description": "",
+    "longitude": 133.3860213,
+    "latitude": 34.4634821,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "こわっぱ鉄板ダイニング",
+    "description": "住所: 広島県福山市神辺町十三軒屋１１−１<br>\n電話: <a href='tel:084-962-5080'>084-962-5080</a><br>\nホームページ: <a href='https://www.hotpepper.jp/strJ000694488/' target=_blank>https://www.hotpepper.jp/strJ000694488</a><br>",
+    "longitude": 133.3568464,
+    "latitude": 34.5514895,
+    "flg_takeout": 1,
+    "flg_delivery": 1
   }
 ]
