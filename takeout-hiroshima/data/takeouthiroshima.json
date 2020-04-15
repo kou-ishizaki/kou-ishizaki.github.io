@@ -1230,5 +1230,325 @@
     "latitude": 34.5514895,
     "flg_takeout": 1,
     "flg_delivery": 1
+  },
+  {
+    "name": "蕎麦と鴨料理と囲炉裏のお店　わらべ",
+    "description": "住所: 広島県福山市神辺町湯野２０３０<br>\n電話: <a href='tel:084-965-6646'>084-965-6646</a><br>\nホームページ: <a href='https://www.hotpepper.jp/strJ001117776/' target=_blank>https://www.hotpepper.jp/strJ001117776</a><br>",
+    "longitude": 133.3803798,
+    "latitude": 34.5632458,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "天麩羅　あぶらや",
+    "description": "住所: 広島県福山市神辺町湯野－３０４－１<br>\n電話: <a href='tel:084-966-3008'>084-966-3008</a><br>\nホームページ: <a href='https://www.hotpepper.jp/strJ001209787/' target=_blank>https://www.hotpepper.jp/strJ001209787</a><br>",
+    "longitude": 133.3819783,
+    "latitude": 34.5501465,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "海鮮炉端　貴（TAKA）",
+    "description": "住所: 広島県福山市神辺町新徳田389-1F<br>\n電話: <a href='tel:084-963-7663'>084-963-7663</a><br>\nホームページ: <a href='https://hitosara.com/0006051936/' target=_blank>https://hitosara.com/0006051936</a><br>",
+    "longitude": 133.3671745,
+    "latitude": 34.5473093,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "藁焼きと炉端　火男(ひょっとこ)",
+    "description": "住所: 広島県福山市駅家町近田110-6<br>\n電話: <a href='tel:084-999-4956'>084-999-4956</a><br>\nホームページ: <a href='https://www.hotpepper.jp/strJ001223335/' target=_blank>https://www.hotpepper.jp/strJ001223335</a><br>",
+    "longitude": 133.3183716,
+    "latitude": 34.5429626,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ぶに家 盛たに",
+    "description": "住所: 広島県福山市川口町４丁目２０−５<br>\n時間： 11:00から<br>\n電話: <a href='tel:084-999-9532'>084-999-9532</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340304/34025030/' target=_blank>https://tabelog.com/hiroshima/A3403/A340304/34025030</a><br>",
+    "longitude": 133.3860227,
+    "latitude": 34.4635162,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "仕出し弁当たかの/ビンゴソース",
+    "description": "住所: 広島県福山市沼隈町常石989-1<br>\n電話: <a href='tel:084-987-0727'>084-987-0727</a><br>",
+    "longitude": 133.2985683,
+    "latitude": 34.386909,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "板前割烹 なかくし",
+    "description": "",
+    "longitude": 133.366761,
+    "latitude": 34.484503,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "サムライデリカテッセン",
+    "description": "住所: 広島県福山市伏見町２−５<br>\n電話: <a href='tel:084-917-8425'>084-917-8425</a><br>\nホームページ: <a href='https://samurai.crayonsite.com/' target=_blank>https://samurai.crayonsite.com</a><br>",
+    "longitude": 133.3642543,
+    "latitude": 34.4894956,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "珍豚美人",
+    "description": "",
+    "longitude": 133.3701882,
+    "latitude": 34.4820582,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ゴールデンケチャップ ナポリタン食堂",
+    "description": "",
+    "longitude": 133.3616787,
+    "latitude": 34.4880074,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "福山ニューキャッスルホテル",
+    "description": "",
+    "longitude": 133.3609161,
+    "latitude": 34.488575,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ペッパーランチ ゆめタウン福山店",
+    "description": "",
+    "longitude": 133.3788648,
+    "latitude": 34.4864926,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "母の味つき",
+    "description": "",
+    "longitude": 133.329772,
+    "latitude": 34.5503763,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "千里十里",
+    "description": "",
+    "longitude": 133.3646263,
+    "latitude": 34.4889018,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "さすらいのカンテキ福山伏見町酒場",
+    "description": "",
+    "longitude": 133.3640647,
+    "latitude": 34.4888427,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "NO COUNT",
+    "description": "",
+    "longitude": 133.3650412,
+    "latitude": 34.4889174,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "炉端ちょうけい次兄",
+    "description": "",
+    "longitude": 133.3647633,
+    "latitude": 34.4889134,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ラーメン 玄人",
+    "description": "",
+    "longitude": 133.363571,
+    "latitude": 34.488585,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "沖縄５８酒場",
+    "description": "",
+    "longitude": 133.363935,
+    "latitude": 34.489385,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "串揚げ さっくる このさきや",
+    "description": "",
+    "longitude": 133.3633489,
+    "latitude": 34.4890074,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "富久屋",
+    "description": "",
+    "longitude": 133.3650681,
+    "latitude": 34.4888028,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "鉄板食堂 バルコ",
+    "description": "",
+    "longitude": 133.3654314,
+    "latitude": 34.4847895,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "鉄板食堂バルコ 平成大学前店",
+    "description": "",
+    "longitude": 133.3471071,
+    "latitude": 34.5477594,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "魚源",
+    "description": "",
+    "longitude": 133.380983,
+    "latitude": 34.385982,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "レストラン ルグラン",
+    "description": "",
+    "longitude": 133.2444529,
+    "latitude": 34.4421003,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "壱鳥 東福山駅前店",
+    "description": "",
+    "longitude": 133.405259,
+    "latitude": 34.494188,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "びんご飯店 手城店",
+    "description": "",
+    "longitude": 133.399222,
+    "latitude": 34.484586,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "クックチャム 南蔵王店",
+    "description": "",
+    "longitude": 133.396529,
+    "latitude": 34.49977,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "焼肉まんまる",
+    "description": "",
+    "longitude": 133.334467,
+    "latitude": 34.495887,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "伏見町ココモ-Kokomo-｜福山駅前店",
+    "description": "",
+    "longitude": 133.3635883,
+    "latitude": 34.4883974,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "鞆の浦 a cafe",
+    "description": "",
+    "longitude": 133.3807573,
+    "latitude": 34.3825487,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "味心 海福 Kaifuku",
+    "description": "",
+    "longitude": 133.3638421,
+    "latitude": 34.4889287,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "南蔵王町５丁目１−８",
+    "description": "",
+    "longitude": 133.3990154,
+    "latitude": 34.5012124,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "藁焼鳥 とんど",
+    "description": "",
+    "longitude": 133.3646769,
+    "latitude": 34.4873432,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "いけの飯店",
+    "description": "",
+    "longitude": 133.4070686,
+    "latitude": 34.5063899,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "フジヤマドラゴン",
+    "description": "",
+    "longitude": 133.3654639,
+    "latitude": 34.4846313,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "シャルキュトリーとワインのお店「ミスルトゥー」",
+    "description": "",
+    "longitude": 133.3665522,
+    "latitude": 34.4865958,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "炭火焼肉 牛楽屋",
+    "description": "",
+    "longitude": 133.2589148,
+    "latitude": 34.447989,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "フォーエバー カフェ&オイスター",
+    "description": "",
+    "longitude": 133.361685,
+    "latitude": 34.487859,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "AGERU",
+    "description": "",
+    "longitude": 133.3519341,
+    "latitude": 34.4837622,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
