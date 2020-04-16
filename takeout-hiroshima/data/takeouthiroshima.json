@@ -1550,5 +1550,421 @@
     "latitude": 34.4837622,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "Bar あき乃",
+    "description": "ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34017113/' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34017113/</a><br>",
+    "longitude": 133.364526,
+    "latitude": 34.485699,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "あき乃 城見別邸",
+    "description": "ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34022931/' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34022931//</a><br>\nhttps://tabelog.com/hiroshima/A3403/A340301/34022931/",
+    "longitude": 133.3653678,
+    "latitude": 34.4922015,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "出雲そば大黒屋 駅前店",
+    "description": "SNS: <a href='https://www.facebook.com/出雲そば大黒屋-福山駅前店-100821126741954/' target=_blank>Facebook</a>",
+    "longitude": 133.361696,
+    "latitude": 34.4879741,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "甲羅本店",
+    "description": "",
+    "longitude": 133.3990154,
+    "latitude": 34.5012124,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "季節料理 衣笠",
+    "description": "",
+    "longitude": 133.382795,
+    "latitude": 34.387349,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Libertà",
+    "description": "",
+    "longitude": 133.361926,
+    "latitude": 34.4879142,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "おしとり福山店",
+    "description": "",
+    "longitude": 133.3968738,
+    "latitude": 34.4904732,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "瀬戸内料理 たんと",
+    "description": "",
+    "longitude": 133.3648233,
+    "latitude": 34.4873622,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "砦 to-ride",
+    "description": "",
+    "longitude": 133.36666,
+    "latitude": 34.48448,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "創菜酒膳 肴蔵",
+    "description": "",
+    "longitude": 133.367598,
+    "latitude": 34.48746,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "焼鳥 鳥料理 とり 新福山本店",
+    "description": "",
+    "longitude": 133.368573,
+    "latitude": 34.488968,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "バンズグリルアンドカフェ",
+    "description": "",
+    "longitude": 133.2614062,
+    "latitude": 34.4442588,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "THE BEER & 備後福山ブルーイングカレッジ",
+    "description": "",
+    "longitude": 133.3650412,
+    "latitude": 34.4889174,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "てしおがわ",
+    "description": "",
+    "longitude": 133.3677961,
+    "latitude": 34.4847086,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "居酒屋 なん波",
+    "description": "",
+    "longitude": 133.367285,
+    "latitude": 34.486763,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "食辛房沖野上店",
+    "description": "",
+    "longitude": 133.379442,
+    "latitude": 34.4757336,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "食辛房春日店",
+    "description": "",
+    "longitude": 133.4087333,
+    "latitude": 34.5069224,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "本格焼肉 食辛房 サファ福山店",
+    "description": "",
+    "longitude": 133.3163933,
+    "latitude": 34.4766009,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "本格焼肉食辛房駅家店",
+    "description": "",
+    "longitude": 133.3411539,
+    "latitude": 34.5456116,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "くいしんぼう キャベツ",
+    "description": "",
+    "longitude": 133.4020484,
+    "latitude": 34.4980344,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Cafe&Bar Sunny's Rock",
+    "description": "",
+    "longitude": 133.3589394,
+    "latitude": 34.4871264,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "an cafe 205",
+    "description": "",
+    "longitude": 133.3913049,
+    "latitude": 34.5578932,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "手創りケーキ工房エンジェル",
+    "description": "",
+    "longitude": 133.3287555,
+    "latitude": 34.5442459,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "遊旬レストラン 伊勢ヶ丘庭",
+    "description": "",
+    "longitude": 133.4290824,
+    "latitude": 34.5062118,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "まごころ料理 ふな家",
+    "description": "",
+    "longitude": 133.3669041,
+    "latitude": 34.4872881,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "PIZZERIA DOMANI",
+    "description": "",
+    "longitude": 133.3601261,
+    "latitude": 34.504206,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Père Mère ペールメール しあわせなパン",
+    "description": "",
+    "longitude": 133.3183337,
+    "latitude": 34.5372937,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "しんぐうカフェ〜ベトナム料理＆レンタルセミナールーム〜",
+    "description": "",
+    "longitude": 133.3583704,
+    "latitude": 34.4877149,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "肉料理 Zushio",
+    "description": "",
+    "longitude": 133.3681121,
+    "latitude": 34.4889593,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "おかず屋ゆきの",
+    "description": "",
+    "longitude": 133.3643943,
+    "latitude": 34.4833565,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "大衆食堂さんさん亭",
+    "description": "",
+    "longitude": 133.3617952,
+    "latitude": 34.4881977,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "饂飩屋 康平衛 うどんや こうべえ",
+    "description": "",
+    "longitude": 133.3833144,
+    "latitude": 34.4882352,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "スパイスノート",
+    "description": "",
+    "longitude": 133.35297,
+    "latitude": 34.556878,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "お好み こな家",
+    "description": "",
+    "longitude": 133.328808,
+    "latitude": 34.545174,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "和彩居酒屋 うら川",
+    "description": "",
+    "longitude": 133.370047,
+    "latitude": 34.486181,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ヌーベルバーグ",
+    "description": "",
+    "longitude": 133.3737505,
+    "latitude": 34.4880773,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ステーキ懐石都春日（都ウエディング）",
+    "description": "",
+    "longitude": 133.4115533,
+    "latitude": 34.5090206,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ベジッポ食堂",
+    "description": "",
+    "longitude": 133.4079321,
+    "latitude": 34.4903363,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "BISTRO GALUE ビストロ ガリュー",
+    "description": "",
+    "longitude": 133.3635734,
+    "latitude": 34.4838417,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "中国四川料理 又来軒 福山ニューキャッスル店",
+    "description": "",
+    "longitude": 133.360785,
+    "latitude": 34.4884233,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "<![CDATA[Cafe' & com. Sakkuru]]>",
+    "description": "",
+    "longitude": 133.387728,
+    "latitude": 34.498479,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "うどん居酒屋 結備庵-ゆうびあん-",
+    "description": "",
+    "longitude": 133.3938471,
+    "latitude": 34.5000385,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "鉄板居酒屋わっしょい",
+    "description": "",
+    "longitude": 133.392422,
+    "latitude": 34.473841,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "アンナプルナ",
+    "description": "",
+    "longitude": 133.306656,
+    "latitude": 34.474025,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "祭り鶏 もんど",
+    "description": "",
+    "longitude": 133.3973579,
+    "latitude": 34.5002536,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "川長のブニ弁当 光",
+    "description": "",
+    "longitude": 133.3693498,
+    "latitude": 34.476301,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "如稲",
+    "description": "",
+    "longitude": 133.3505601,
+    "latitude": 34.489259,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "大阪王将 福山川口店",
+    "description": "",
+    "longitude": 133.3838867,
+    "latitude": 34.4645663,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "大阪王将 福山南本庄店",
+    "description": "",
+    "longitude": 133.3505629,
+    "latitude": 34.4875486,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "大阪王将 福山平成大学前店",
+    "description": "",
+    "longitude": 133.349621,
+    "latitude": 34.5464491,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "大阪王将 福山ＳＡ店",
+    "description": "",
+    "longitude": 133.3133705,
+    "latitude": 34.4911525,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "春吉",
+    "description": "",
+    "longitude": 133.367537,
+    "latitude": 34.486669,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
