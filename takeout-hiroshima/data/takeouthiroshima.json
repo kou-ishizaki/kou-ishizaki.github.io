@@ -4,7 +4,7 @@
     "description": "近隣のお宅まで「出前」はじめました。<br>住所: 広島県尾道市土堂２丁目8-6<br>電話: <a href='tel:0848-22-9696'>0848-22-9696</a><br>ホームページ: <a href='https://gyuchan-onomichi.com' target=_blank>https://gyuchan-onomichi.com</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.200757,
     "latitude": 34.40716,
-    "flg_takeout": 0,
+    "flg_takeout": 1,
     "flg_delivery": 1
   },
   {
