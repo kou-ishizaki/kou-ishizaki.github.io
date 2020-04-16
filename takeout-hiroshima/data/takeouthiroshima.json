@@ -1982,5 +1982,21 @@
     "latitude": 34.392735,
     "flg_takeout": 1,
     "flg_delivery": 1
+  },
+  {
+    "name": "くつろぎの店 匠",
+    "description": "住所: 広島県福山市神辺町新徳田５７９−１<br>\n電話: <a href='tel:084-960-3285'>084-960-3285</a><br>",
+    "longitude": 133.364974,
+    "latitude": 34.545314,
+    "flg_takeout": 0,
+    "flg_delivery": 1
+  },
+  {
+    "name": "かき小屋 福山港店",
+    "description": "住所: 広島県福山市新涯町２丁目２３−３<br>\n電話: <a href='tel:090-7121-9596'>090-7121-9596</a><br>",
+    "longitude": 133.407147,
+    "latitude": 34.457743,
+    "flg_takeout": 0,
+    "flg_delivery": 1
   }
 ]
