@@ -1966,5 +1966,21 @@
     "latitude": 34.486669,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "駅前酒場赤まる横川店",
+    "description": "ランチメニューがお弁当に。<br>\n唐揚げ弁当や塩サバ弁当が人気！<br>\n夜の居酒屋人気メニューもテイクアウト用にして販売。<br>\n配達もできます<br>\n住所: 広島県広島市西区横川町3-10-28<br>\n電話: <a href='tel:082-296-0017'>082-296-0017</a><br>\nホームページ: <a href='https://www.hotpepper.jp/strJ000973510/' target=_blank>https://www.hotpepper.jp/strJ000973510/</a><br>\nSNS:<a href='https://m.facebook.com/akamaru0801/' target=_blank>Facebook</a><br>",
+    "longitude": 132.452438,
+    "latitude": 34.409219,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "大手町酒場赤まる",
+    "description": "ランチメニューを弁当にして提供。500円～<br>\n夜居酒屋メニューをテイクアウト用にして販売<br>\n配達もできます<br>\n住所: 広島県広島市中区大手町2-1-7<br>\n電話: <a href='tel:082-247-8815'>082-247-8815</a><br>\nホームページ: <a href='https://www.hotpepper.jp/strJ001038522/' target=_blank>https://www.hotpepper.jp/strJ001038522/</a><br>\nSNS:<a href='https://m.facebook.com/akamaru1101/' target=_blank>Facebook</a><br>",
+    "longitude": 132.456439,
+    "latitude": 34.392735,
+    "flg_takeout": 1,
+    "flg_delivery": 1
   }
 ]
