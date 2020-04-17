@@ -1864,10 +1864,10 @@
     "flg_delivery": 0
   },
   {
-    "name": "<![CDATA[Cafe' & com. Sakkuru]]>",
+    "name": "Cafe' & com. Sakkuru",
     "description": "",
     "longitude": 133.387728,
-    "latitude": 34.498479,
+    "latitude": 34.498482,
     "flg_takeout": 1,
     "flg_delivery": 0
   },
@@ -1990,5 +1990,45 @@
     "latitude": 34.457743,
     "flg_takeout": 0,
     "flg_delivery": 1
+  },
+  {
+    "name": "魚安食堂",
+    "description": "住所: 広島県福山市川口町2-10-34<br>\n電話: <a href='tel:084-953-2124'>084-953-2124</a><br>",
+    "longitude": 133.387094,
+    "latitude": 34.468056,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "炉端焼き しろ 花園本店",
+    "description": "住所: 広島県福山市花園町2-1-16<br>\n電話: <a href='tel:084-926-0046'>084-926-0046</a><br>",
+    "longitude": 133.373652,
+    "latitude": 34.481055,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ベトナム料理店 アオババ",
+    "description": "住所: 広島県福山市霞町1-5-6<br>\n電話: <a href='tel:084-999-7737'>084-999-7737</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340308/34022717/' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34022717/</a><br>\n",
+    "longitude": 133.366846,
+    "latitude": 34.484247,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "仕出し･弁当たかの",
+    "description": "住所: 広島県福山市沼隈町常石989-1<br>\n電話: <a href='tel:084-987-0727'>084-987-0727</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340308/34013014/' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34013014/</a><br>",
+    "longitude": 133.29858,
+    "latitude": 34.386914,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ハーベスト",
+    "description": "住所: 広島県福山市三之丸町3-4　松本ビル1F<br>\n電話: <a href='tel:084-999-8133'>084-999-8133</a><br>\nホームページ: <a href='https://harvest-fukuyama.owst.jp' target=_blank>https://harvest-fukuyama.owst.jp</a><br>",
+    "longitude": 133.3618135,
+    "latitude": 34.4879839,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
