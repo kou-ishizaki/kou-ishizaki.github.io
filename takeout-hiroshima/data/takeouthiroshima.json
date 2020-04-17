@@ -2022,5 +2022,381 @@
     "latitude": 34.386914,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "シャンティ インディア",
+    "description": "",
+    "longitude": 133.3669668,
+    "latitude": 34.4930365,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "居酒屋 ほろよい小町",
+    "description": "",
+    "longitude": 133.364568,
+    "latitude": 34.4887981,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Gallery Cafe 風の時計",
+    "description": "",
+    "longitude": 133.4091804,
+    "latitude": 34.4387113,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "活魚料理 なりこま",
+    "description": "",
+    "longitude": 133.366593,
+    "latitude": 34.4847132,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "居酒屋楽巴",
+    "description": "",
+    "longitude": 133.388201,
+    "latitude": 34.4721,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "pecora",
+    "description": "住所: 広島県福山市船町1-8<br>\n電話: <a href='tel:084-919-0490'>084-919-0490</a><br>\nホームページ: <a href='https://pecorafukuyama.owst.jp' target=_blank>https://pecorafukuyama.owst.jp</a><br>",
+    "longitude": 133.3674651,
+    "latitude": 34.4876353,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ヨッサンラーメン",
+    "description": "",
+    "longitude": 133.365379,
+    "latitude": 34.479339,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "おばんざい 菜々彩",
+    "description": "",
+    "longitude": 133.3651019,
+    "latitude": 34.4837549,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "海鮮問屋 一休総本店",
+    "description": "",
+    "longitude": 133.3891667,
+    "latitude": 34.4819444,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "四季遊膳凛",
+    "description": "",
+    "longitude": 133.37222,
+    "latitude": 34.485941,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "魚勝 元町店",
+    "description": "",
+    "longitude": 133.364776,
+    "latitude": 34.487735,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "多酒多菜 遊膳",
+    "description": "",
+    "longitude": 133.3679874,
+    "latitude": 34.4872048,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Cafe kokoroni",
+    "description": "",
+    "longitude": 133.3914342,
+    "latitude": 34.4720729,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ステーキハウス ラジャ南福山店",
+    "description": "",
+    "longitude": 133.3844765,
+    "latitude": 34.4571376,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ステーキハウス ラジャ神辺店",
+    "description": "",
+    "longitude": 133.3675888,
+    "latitude": 34.5474449,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "タンドール 東福山店",
+    "description": "",
+    "longitude": 133.3913369,
+    "latitude": 34.4970323,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "タンドール 福山駅家店",
+    "description": "",
+    "longitude": 133.317053,
+    "latitude": 34.5418758,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "中華そば 棗",
+    "description": "",
+    "longitude": 133.3293193,
+    "latitude": 34.5454957,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "板前渡世 いろはのゐ",
+    "description": "",
+    "longitude": 133.3649078,
+    "latitude": 34.4865269,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "株式会社夢笛",
+    "description": "",
+    "longitude": 133.3666596,
+    "latitude": 34.4844908,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "出雲そば大黒屋 三吉町店",
+    "description": "",
+    "longitude": 133.3790092,
+    "latitude": 34.4919839,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "酒膳家 三軒茶屋",
+    "description": "",
+    "longitude": 133.389004,
+    "latitude": 34.471414,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "遊酒蔵 純",
+    "description": "",
+    "longitude": 133.3669719,
+    "latitude": 34.487446,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "日本酒とワイン 食堂きたむら",
+    "description": "",
+    "longitude": 133.3680616,
+    "latitude": 34.4878589,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "中国料理 蓮華 れんか",
+    "description": "",
+    "longitude": 133.366774,
+    "latitude": 34.48436,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "咲蔵",
+    "description": "",
+    "longitude": 133.386651,
+    "latitude": 34.472409,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "民宿 太進館",
+    "description": "",
+    "longitude": 133.4513281,
+    "latitude": 34.3402796,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "鉄板料理 のがみ屋",
+    "description": "",
+    "longitude": 133.3726913,
+    "latitude": 34.4712766,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "炭焼屋さわ田｜福山駅前店",
+    "description": "",
+    "longitude": 133.369137,
+    "latitude": 34.490524,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "日本料理 おく村",
+    "description": "",
+    "longitude": 133.404665,
+    "latitude": 34.5056534,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "あちゃ",
+    "description": "",
+    "longitude": 133.365546,
+    "latitude": 34.4848771,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "とり常",
+    "description": "",
+    "longitude": 133.3715262,
+    "latitude": 34.479469,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "嵯峨野",
+    "description": "",
+    "longitude": 133.4053341,
+    "latitude": 34.5004258,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "スイーツラボミルク",
+    "description": "",
+    "longitude": 133.3921022,
+    "latitude": 34.4996392,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "広島風お好み焼き たけの子",
+    "description": "",
+    "longitude": 133.379665,
+    "latitude": 34.477506,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ア・ラ・フェスタ",
+    "description": "",
+    "longitude": 133.369129,
+    "latitude": 34.485316,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "カフェ・レフア",
+    "description": "",
+    "longitude": 133.385521,
+    "latitude": 34.4333748,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "おうちごはん いる・ろーざ",
+    "description": "",
+    "longitude": 133.3694886,
+    "latitude": 34.4836585,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "UN RU SAKKURU アンリュサックル",
+    "description": "",
+    "longitude": 133.3642096,
+    "latitude": 34.4882053,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "おむすびや立樹",
+    "description": "",
+    "longitude": 133.361096,
+    "latitude": 34.485988,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "和食居酒屋 手結",
+    "description": "",
+    "longitude": 133.3646348,
+    "latitude": 34.4865937,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "神辺町道上２８５５−１１",
+    "description": "",
+    "longitude": 133.3546299,
+    "latitude": 34.554928,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "お好み焼き 平かわ",
+    "description": "",
+    "longitude": 133.3143064,
+    "latitude": 34.5421882,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "らーめん家 がら",
+    "description": "",
+    "longitude": 133.3921,
+    "latitude": 34.49968,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "和彩酒膳植おか",
+    "description": "",
+    "longitude": 133.365454,
+    "latitude": 34.487938,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "1000馬力 春日店",
+    "description": "",
+    "longitude": 133.410903,
+    "latitude": 34.507272,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "モリズ（ＭＯＲＲＹＳ）",
+    "description": "",
+    "longitude": 133.3691541,
+    "latitude": 34.4843511,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
