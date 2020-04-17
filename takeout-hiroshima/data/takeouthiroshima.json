@@ -2022,13 +2022,5 @@
     "latitude": 34.386914,
     "flg_takeout": 1,
     "flg_delivery": 0
-  },
-  {
-    "name": "ハーベスト",
-    "description": "住所: 広島県福山市三之丸町3-4　松本ビル1F<br>\n電話: <a href='tel:084-999-8133'>084-999-8133</a><br>\nホームページ: <a href='https://harvest-fukuyama.owst.jp' target=_blank>https://harvest-fukuyama.owst.jp</a><br>",
-    "longitude": 133.3618135,
-    "latitude": 34.4879839,
-    "flg_takeout": 1,
-    "flg_delivery": 0
   }
 ]
