@@ -840,14 +840,6 @@
     "flg_delivery": 0
   },
   {
-    "name": "麵屋　いっぽん",
-    "description": "住所: 広島県尾道市高須町７１１−３<br>電話: <a href='0848-46-9777'>0848-46-9777</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34020625/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34020625/</a><br>SNS: <a href='' target=_blank></a>",
-    "longitude": 133.2313685,
-    "latitude": 34.4378419,
-    "flg_takeout": 1,
-    "flg_delivery": 0
-  },
-  {
     "name": "お好み焼 鉄板焼 鐵咲",
     "description": "住所: 広島県尾道市向島町５５４３<br>電話: <a href='0848-36-6352'>0848-36-6352</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340601/34021797/' target=_blank>https://tabelog.com/hiroshima/A3406/A340601/34021797/</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.1975227,
@@ -2396,6 +2388,70 @@
     "description": "",
     "longitude": 133.3691541,
     "latitude": 34.4843511,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Dinosaur Tree",
+    "description": "しばらくの間は月, 水, 金曜日の、昼前頃から夕方頃まで <br>住所: 尾道市久保2丁目15-8<br><br>ホームページ: <a href='https://www.facebook.com/dinosaurtree/' target=_blank>https://www.facebook.com/dinosaurtree/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.2044345,
+    "latitude": 34.4113175,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ノエル・プルス",
+    "description": "住所: 広島県尾道市土堂１丁目７−９<br>電話: <a href='0848-36-5657'>0848-36-5657</a><br>ホームページ: <a href='https://retty.me/area/PRE34/ARE285/SUB28502/100000795366/' target=_blank>https://retty.me/area/PRE34/ARE285/SUB28502/100000795366/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.199439,
+    "latitude": 34.407134,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "欧風酒場 ボラーチョ",
+    "description": "住所: 広島県尾道市土堂１丁目４−１４<br>電話: <a href='0848-23-8951'>0848-23-8951</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34005347/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34005347/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.199367,
+    "latitude": 34.407329,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "スモーク＆バー アルペジオ",
+    "description": "住所: 広島県尾道市西御所町６−１<br>電話: <a href='090-1352-2254'>090-1352-2254</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34025521/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34025521/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.1902023,
+    "latitude": 34.4028077,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "尾道あかとら",
+    "description": "住所: 広島県尾道市土堂２−４−４３<br>電話: <a href='0848-22-2422'>0848-22-2422</a><br>ホームページ: <a href='https://www.ononavi.jp/eating/japanease-style/detail.html?detail_id=597' target=_blank>https://www.ononavi.jp/eating/japanease-style/detail.html?detail_id=597</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.201736,
+    "latitude": 34.4085201,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "お気楽酒場 和が家",
+    "description": "住所: 広島県尾道市久保２丁目９−１３<br>電話: <a href='0848-37-0039'>0848-37-0039</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34014089/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34014089/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.2055823,
+    "latitude": 34.4115008,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Oheso Cafe & Bakery",
+    "description": "住所: 広島県世羅郡世羅町宇津戸1548-1<br>電話: <a href='0847-23-0678'>0847-23-0678</a><br>ホームページ: <a href='http://www.ohesocafe.com/' target=_blank>http://www.ohesocafe.com/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.1081915,
+    "latitude": 34.5587826,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "居肴屋 馬口",
+    "description": "住所: 広島県尾道市土堂２丁目４−３３<br>電話: <a href='0848-36-6690'>0848-36-6690</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34012038/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34012038/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.2024282,
+    "latitude": 34.4084277,
     "flg_takeout": 1,
     "flg_delivery": 0
   }
