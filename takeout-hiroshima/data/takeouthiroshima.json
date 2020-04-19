@@ -2598,5 +2598,13 @@
     "latitude": 34.398558,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "豚鳥 横川店 ",
+    "description": "○焼鳥8本詰め合わせ ¥1300(税込)(★要予約★)<br>\n○ 1)個数<br>\n　2)名前<br>\n    3)取りに来る時間<br>\nを伝えるだけ！<br>\n<br>\n○受渡し時間　17時〜21時<br>\n<br>\n○支払い方法　現金、PayPay<br>\n<br>\n○消毒換気徹底<br>\n　接触なし<br>\n　ご協力お願いします<br>\n住所:広島県広島市西区横川町2-10-4 栗川Yビル 1F<br>\n電話: <a href='082-296-1188'>082-296-1188</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3401/A340103/34019941/' target=_blank>https://tabelog.com/hiroshima/A3401/A340103/34019941/</a><br>",
+    "longitude": 132.450619,
+    "latitude": 34.407795,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
