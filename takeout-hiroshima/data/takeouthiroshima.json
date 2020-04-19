@@ -2614,5 +2614,45 @@
     "latitude": 34.522182,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "旬菜美酒 ちどり",
+    "description": "住所:広島県福山市城見町1-1-3<br>\n電話: <a href='tel:084-928-5224'>084-928-5224</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34021478/' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34021478/</a><br>",
+    "longitude": 133.364276,
+    "latitude": 34.490737,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "イタリアンガーヴィ",
+    "description": "住所:広島県福山市神辺町川北1405-1<br>\n電話: <a href='tel:084-963-0326'>084-963-0326</a><br>\nホームページ: <a href='https://www.hotpepper.jp/strJ000530303/' target=_blank>https://www.hotpepper.jp/strJ000530303/</a><br>",
+    "longitude": 133.363886,
+    "latitude": 34.543304,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "はりま茶屋",
+    "description": "住所:広島県福山市延広町5-25-1<br>\n電話: <a href='tel:084-932-0113'>084-932-0113</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34010727/' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34010727/</a><br>",
+    "longitude": 133.364929,
+    "latitude": 34.486443,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "PIZZERIA Napoli",
+    "description": "住所:広島県福山市春日町3-16-8 藤井ﾊｲﾂ１F<br>\n電話: <a href='tel:084-945-7668'>084-945-7668</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340305/34002535/' target=_blank>https://tabelog.com/hiroshima/A3403/A340305/34002535/</a><br>",
+    "longitude": 133.411987,
+    "latitude": 34.510536,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "浜どん",
+    "description": "住所:広島県福山市今町4-23<br>\n電話: <a href='tel:084-924-5819'>084-924-5819</a><br>\nホームページ: <a href='https://akr8517390927.owst.jp' target=_blank>https://akr8517390927.owst.jp</a><br>",
+    "longitude": 133.368066,
+    "latitude": 34.489486,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
