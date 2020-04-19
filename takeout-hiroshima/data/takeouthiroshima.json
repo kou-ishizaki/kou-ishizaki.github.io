@@ -2534,5 +2534,45 @@
     "latitude": 34.502445,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "オムライスのテイクアウト専門店 『オムラッテ』",
+    "description": "住所:広島県 福山市 南蔵王町 2丁目25-33<br>\n電話: <a href='084-932-3177'>084-932-3177</a><br>\nホームページ: <a href='https://localplace.jp/sp/t200346311/' target=_blank>https://localplace.jp/sp/t200346311/</a><br>",
+    "longitude": 133.352871,
+    "latitude": 34.483956,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "AREA INN FUSHIMICHO FUKUYAMA CASTLE SIDE",
+    "description": "住所:広島県福山市伏見町4-33 FUJIMOTO BLDG. 1F<br>\n電話: <a href='084-961-3320'>084-961-3320</a><br>\nホームページ: <a href='https://areainn.jp/fushimicho/' target=_blank>https://areainn.jp/fushimicho/</a><br>\nSNS: <a href='https://www.instagram.com/areainn_fushimicho/' target=_blank>テイクアウト情報発信中</a>",
+    "longitude": 133.363973,
+    "latitude": 34.488286,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "らーめん・つけ麺 志堂",
+    "description": "住所:広島県福山市神辺町十九軒屋２−４<br>\n電話: <a href='084-962-3733'>084-962-3733</a><br>\nホームページ: <a href='https://ra-mentsukemen-sido.owst.jp' target=_blank>https://ra-mentsukemen-sido.owst.jp</a><br>",
+    "longitude": 133.363639,
+    "latitude": 34.546702,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "隠れ癒酒屋 あなば",
+    "description": "住所:広島県福山市春日町６丁目２９−１９ コーポ石原<br>\n電話: <a href='084-945-6651'>084-945-6651</a><br>\nホームページ: <a href='https://anaba-kasuga.owst.jp' target=_blank>https://anaba-kasuga.owst.jp</a><br>",
+    "longitude": 133.414124,
+    "latitude": 34.504309,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "あぶりん祭",
+    "description": "住所:広島県福山市春日町６丁目２９−１９ コーポ石原<br>\n電話: <a href='084-920-2955'>084-920-2955</a><br>\nホームページ: <a href='https://www.hotpepper.jp/strJ001061478/' target=_blank>https://www.hotpepper.jp/strJ001061478/</a><br>",
+    "longitude": 133.389809,
+    "latitude": 34.47168,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
