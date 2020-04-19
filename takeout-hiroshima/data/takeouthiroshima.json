@@ -2582,5 +2582,13 @@
     "latitude": 34.395156,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "SAKE Bar ゆう",
+    "description": "前日までにご連絡を頂き、<br>\n材料がある限りは、ご用意できますので、お問い合わせ下さい‼️<br>\n住所:広島県広島市安佐北区可部2-36-13<br>\n電話: <a href='082-554-6488'>082-554-6488</a><br>\nホームページ: <a href='https://www.sakebar-yuu.com' target=_blank>https://www.sakebar-yuu.com</a><br>\nSNS: <a href='https://www.facebook.com/sakebaryu/' target=_blank>Facebook</a><br>",
+    "longitude": 132.51108,
+    "latitude": 34.512294,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
