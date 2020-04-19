@@ -2574,5 +2574,13 @@
     "latitude": 34.47168,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "てっぱん食堂",
+    "description": "なるべく早くご予約頂けると<br>\nご希望の時間にお渡しできます。<br>\nお好み焼き、てっぱんロールだけではなく<br>\nおつまみメニュー、鉄板焼もお持ち帰りできます。<br>\nおまかせ鉄板焼セットも2000円からご用意します！<br>\n住所:広島市東区東蟹屋町10-19<br>\n電話: <a href='082-262-8716'>082-262-8716</a><br>\nホームページ: <a href='https://teppan-shokudo.com' target=_blank>https://teppan-shokudo.com</a><br>",
+    "longitude": 132.483407,
+    "latitude": 34.395156,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
