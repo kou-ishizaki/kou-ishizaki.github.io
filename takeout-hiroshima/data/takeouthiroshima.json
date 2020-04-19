@@ -2606,5 +2606,13 @@
     "latitude": 34.407795,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "やきとりの扇屋 広島可部店",
+    "description": "食べログのお持ち帰りページ作成したので可部の方は是非ご利用くださいませー！！<br>\n営業時間:平日 17〜22時<br>\n　　　　土日祝15〜22時<br>\nとなっております！！<br>\n電話でもテイクアウトは注文可能なので食べログページから是非お電話ください！！<br>\n住所:広島県広島市安佐北区可部7-8-8<br>\n電話: <a href='tel:050-5593-7082'>050-5593-7082</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3401/A340106/34022856/' target=_blank>https://tabelog.com/hiroshima/A3401/A340106/34022856/</a><br>",
+    "longitude": 132.508992,
+    "latitude": 34.522182,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
