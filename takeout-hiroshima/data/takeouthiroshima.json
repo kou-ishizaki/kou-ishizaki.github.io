@@ -2662,5 +2662,13 @@
     "latitude": 34.391498,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "太閤うどん中町店",
+    "description": "<a href='https://qr.finedinemenu.com/#/taiko-udon-nakamachi' target=_blank>テイクアウトに関する詳細はコチラヘ</a><br>\n\n住所:広島県広島市中区中町6-30 広テレプラザ 1F<br>\n電話: <a href='tel:082-258-3447'>082-258-3447</a><br>\nホームページ: <a href='https://www.taiko-udon.com/中町店' target=_blank>https://www.taiko-udon.com/中町店</a><br>",
+    "longitude": 132.458589,
+    "latitude": 34.390566,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
