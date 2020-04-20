@@ -2774,5 +2774,21 @@
     "latitude": 34.380794,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "pizza juicy",
+    "description": "住所:広島市中区袋町4-9<br>\n電話: <a href='tel:082-240-1040'>082-240-1040</a><br>\nメニュー説明: <a href='https://bit.ly/3bntrFT' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.457896,
+    "latitude": 34.392007,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "日本料理 肉菜 百福",
+    "description": "住所:広島市中区胡町3－25　バイオレットビル501 <br>\n電話: <a href='tel:082-236-6878'>082-236-6878</a><br>\nメニュー説明: <a href='https://bit.ly/3cywZVI' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.465346,
+    "latitude": 34.392698,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
