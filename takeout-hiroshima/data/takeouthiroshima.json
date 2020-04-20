@@ -2662,5 +2662,85 @@
     "latitude": 34.390566,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "馳走ぬくゐ",
+    "description": "住所:広島市中区富士見町15-17<br>\n電話: <a href='tel:082-245-4520'>082-245-4520</a><br>\nメニュー説明: <a href='https://www.facebook.com/permalink.php?story_fbid=668060123953948&id=224535348306430' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.459809,
+    "latitude": 34.38578,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "自彩菜酒処 渓",
+    "description": "住所:広島市中区堀川町4-4 2F<br>\n電話: <a href='tel:082-249-0285'>082-249-0285</a><br>\nメニュー説明: <a href='https://www.facebook.com/jizainasakedokoro.kei/posts/2901201073280421' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.46367,
+    "latitude": 34.392447,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "深夜的中华食堂",
+    "description": "住所:広島市中区銀山町11-25 第1ダイヤモンドビル1F<br>\n電話: <a href='tel:082-248-0655'>082-248-0655</a><br>\nメニュー説明: <a href='https://www.facebook.com/shinyateki/posts/1611436979008166' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.466159,
+    "latitude": 34.392005,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "路地裏のタパス イシオカ",
+    "description": "住所:広島市中区流川町5-19 加藤ビル1F<br>\n電話: <a href='tel:050-3469-4871'>050-3469-4871</a><br>\nメニュー説明: <a href='https://bit.ly/3eArTKq' target=_blank>★→→→コチラです</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://bit.ly/2VMtIvx' target=_blank>★→→→飲食店Map</a>",
+    "longitude": 132.46395,
+    "latitude": 34.389968,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "地鶏かけはし",
+    "description": "住所:広島市中区堀川町1-14　第1レックスビル1F <br>\n電話: <a href='tel:082-247-3580'>082-247-3580</a><br>\nメニュー説明: <a href='https://www.facebook.com/tanaka.seiji.58/posts/1841434842655899' target=_blank>★→→→コチラです</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://bit.ly/2VMtIvx' target=_blank>★→→→飲食店Map</a>",
+    "longitude": 132.464944,
+    "latitude": 34.39189,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "じ味一歩",
+    "description": "住所:広島市中区基町19-2　ショッピングセンタ 429号<br>\n電話: <a href='tel:082-836-4670'>082-836-4670</a><br>\nメニュー説明: <a href='https://www.facebook.com/jimiippo/photos/a.113525466899620/136919871226846/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.456337,
+    "latitude": 34.404151,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "salad uluru",
+    "description": "住所:広島市中区堺町1-1-8<br>\n電話: <a href='tel:082-233-0322'>082-233-0322</a><br>\nメニュー説明: <a href='https://www.facebook.com/388794517851400/photos/a.395566153840903/3063261447071347/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.449504,
+    "latitude": 34.394135,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "らんぷドゥージエム",
+    "description": "住所:広島市中区立町5-2 3F<br>\n電話: <a href='tel:070-4137-4760'>070-4137-4760</a><br>\nメニュー説明: <a href='https://bit.ly/3cwcE3p' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.461607,
+    "latitude": 34.393498,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "時喰 一具",
+    "description": "住所:広島市中区流川町6-14 千歳ビル1F<br>\n電話: <a href='tel:082-247-0150'>082-247-0150</a><br>\nメニュー説明: <a href='https://www.facebook.com/photo.php?fbid=726717157734414&set=a.546087699130695&type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.46317,
+    "latitude": 34.39008,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Ristorante Carlotta",
+    "description": "住所:広島市中区富士見町5-12 田ビル2F<br>\n電話: <a href='tel:082-247-0639'>082-247-0639</a><br>\nメニュー説明: <a href='https://www.facebook.com/RistoranteCarlotta/photos/a.1021111281263692/3647961498578644/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.460278,
+    "latitude": 34.387605,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
