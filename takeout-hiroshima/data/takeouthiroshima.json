@@ -936,14 +936,6 @@
     "flg_delivery": 1
   },
   {
-    "name": "torikushi",
-    "description": "<テイクアウトメニュー><br>\n＊事前にお店にお電話ください＊<br>\n<br>\n・炭火串焼き5種10セット 1500円（税込）<br>\n・炭火串焼き10本+煮込み <br>\n・炭火串焼き10本+のりむすび2コ<br>\nはそれぞれ100円お得な 1900円（税込）<br>\nやきとり弁当 980円（税込）<br>\n<br>\n住所: 広島県広島市中区中町 2-23<br>\n電話: <a href='tel:082-246-1040'>082-246-1040</a><br>\nテイクアウト専用: <a href='tel:090-1330-2900'>090-1330-2900</a><br>\nホームページ: <a href='https://sites.google.com/site/torikushi1975/' target=_blank>https://sites.google.com/site/torikushi1975/</a><br>\nSNS: <a href='https://www.facebook.com/torikushi/' target=_blank>Facebookページ</a>",
-    "longitude": 132.460602,
-    "latitude": 34.390202,
-    "flg_takeout": 1,
-    "flg_delivery": 0
-  },
-  {
     "name": "AREA INN FUSHIMICHO",
     "description": "住所: 広島県福山市伏見町4番33号<br>\n電話: <a href='tel:084-961-3320'>084-961-3320</a><br>\nホームページ: <a href='https://www.furec.jp/areainn/' target=_blank>https://www.furec.jp/areainn</a><br>\nSNS: <a href='' target=_blank></a>",
     "longitude": 133.3640184,
