@@ -2766,5 +2766,13 @@
     "latitude": 34.393045,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "はるのの",
+    "description": "住所:広島市中区千田町1-12-2<br>\n電話: <a href='tel:082-248-3655'>082-248-3655</a><br>\nメニュー説明: <a href='https://www.instagram.com/p/B-tQV0tjJxP/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.45557,
+    "latitude": 34.380794,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
