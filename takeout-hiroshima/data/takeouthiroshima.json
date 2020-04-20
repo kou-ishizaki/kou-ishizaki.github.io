@@ -2790,5 +2790,13 @@
     "latitude": 34.392698,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "一楽章f未完成",
+    "description": "住所:広島市中区紙屋町1-4-6 アウルスタイル紙屋町3F<br>\n電話: <a href='tel:082-249-0221'>082-249-0221</a><br>\nメニュー説明: <a href='https://bit.ly/2zgMQtR' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.458662,
+    "latitude": 34.393925,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
