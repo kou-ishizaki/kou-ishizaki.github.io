@@ -2654,5 +2654,13 @@
     "latitude": 34.489486,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "日本酒バル　KATOYA",
+    "description": "お酒のテイクアウト販売の予約を開始しました。<br>\nお渡しする前日の22時までにご注文をいただき、<br>\n当日の12時から19時までにお渡しする感じでお願いします。<br>\n・メニュー<br>\n日本酒　750円〜1,200円（180ml）<br>\nシェリー　700円〜2,200円（180ml）<br>\n瓶ビール　950円〜1,700円（1本）<br>\n現時点では、フードの方は準備しておりません<br>\n\n<a href='https://bit.ly/3eyEyxy' target=_blank>テイクアウトに関する詳細はコチラヘ</a><br>\n\n住所:広島県広島市中区堀川町2-10 第2レックスビル 1F<br>\n電話: <a href='tel:082-240-2017'>082-240-2017</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3401/A340110/34023503/' target=_blank>https://tabelog.com/hiroshima/A3401/A340110/34023503/</a><br>",
+    "longitude": 132.464899,
+    "latitude": 34.391498,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
