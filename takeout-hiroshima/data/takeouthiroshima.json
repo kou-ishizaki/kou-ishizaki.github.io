@@ -2798,5 +2798,53 @@
     "latitude": 34.393925,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "福山和食・日本料理 壺中",
+    "description": "住所:広島県福山市船町４−６<br>\n電話: <a href='tel:084-925-2588'>084-925-2588</a><br>\nホームページ: <a href='http://www.kochuu.com' target=_blank>http://www.kochuu.com</a><br>",
+    "longitude": 133.367705,
+    "latitude": 34.487172,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "洋食工房 くつろぎ",
+    "description": "住所:広島県福山市神辺町道上607-5<br>\n電話: <a href='tel:084-965-6586'>084-965-6586</a><br>\nホームページ: <a href='http://r.goope.jp/kuturogi' target=_blank>http://r.goope.jp/kuturogi</a><br>",
+    "longitude": 133.358627,
+    "latitude": 34.549526,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "スペイン食堂",
+    "description": "住所:広島県福山市霞町３丁目５−１４<br>\n電話: <a href='tel:084-927-8081'>084-927-8081</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340308/34016001/' target=_blank>https://tabelog.com/hiroshima/A3403/A340308/34016001/</a><br>",
+    "longitude": 133.3623,
+    "latitude": 34.483527,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "居酒屋こでん",
+    "description": "住所:広島県福山市船町３−２０<br>\n電話: <a href='tel:084-973-1182'>084-973-1182</a><br>\nホームページ: <a href='https://koden.owst.jp' target=_blank>https://koden.owst.jp</a><br>",
+    "longitude": 133.368436,
+    "latitude": 34.486845,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "居酒屋こでん",
+    "description": "住所:広島県福山市船町３−２０<br>\n電話: <a href='tel:084-973-1182'>084-973-1182</a><br>\nホームページ: <a href='https://koden.owst.jp' target=_blank>https://koden.owst.jp</a><br>",
+    "longitude": 133.368436,
+    "latitude": 34.486845,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "パウロ＆ボルガ",
+    "description": "住所:広島県福山市多治米町１丁目２−１１<br>\n電話: <a href='tel:050-5280-3881'>050-5280-3881</a><br>\nホームページ: <a href='https://www.hotpepper.jp/strJ001128139/' target=_blank>https://www.hotpepper.jp/strJ001128139/</a><br>",
+    "longitude": 133.380755,
+    "latitude": 34.475581,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
