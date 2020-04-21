@@ -2886,5 +2886,45 @@
     "latitude": 34.411106,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "きはら 楽観堂",
+    "description": "住所:三原市木原3-15-1<br>\n電話: <a href='tel:090-1182-5781'>090-1182-5781</a><br>\nメニュー説明: <a href='https://www.facebook.com/permalink.php?story_fbid=2316853248613884&id=1503953373237213&__tn__=-R' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 133.147073,
+    "latitude": 34.394213,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "台湾ダイニングカフェ 行天",
+    "description": "住所:竹原市中央2-1-26<br>\n電話: <a href='tel:0846-24-6930'>0846-24-6930</a><br>\nメニュー説明: <a href='https://bit.ly/2VpZMWI' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.909847,
+    "latitude": 34.34017,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "hanza",
+    "description": "住所:東広島市西条吉行1963<br>\n電話: <a href='tel:090-7897-6674'>090-7897-6674</a><br>\nメニュー説明: <a href='https://www.facebook.com/groups/1348982325288820/permalink/1357107544476298/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.751066,
+    "latitude": 34.434654,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "札幌スープカリー 荒谷商店",
+    "description": "住所:東広島市西条昭和町6-2 ラフィーネ昭和町1F<br>\n電話: <a href='tel:082-423-0101'>082-423-0101</a><br>\nメニュー説明: <a href='https://bit.ly/3avL9Ww' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.74021,
+    "latitude": 34.424639,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "和ごころ旬彩 あじよし",
+    "description": "住所:安芸高田市吉田町吉田1183-5 <br>\n電話: <a href='tel:0826-42-2512'>0826-42-2512</a><br>\nメニュー説明: <a href='https://bit.ly/3ewjhVc' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.706879,
+    "latitude": 34.665128,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
