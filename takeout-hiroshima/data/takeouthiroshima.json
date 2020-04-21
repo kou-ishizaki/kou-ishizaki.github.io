@@ -1529,7 +1529,7 @@
   },
   {
     "name": "あき乃 城見別邸",
-    "description": "ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34022931/' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34022931//</a><br>\nhttps://tabelog.com/hiroshima/A3403/A340301/34022931/",
+    "description": "ホームページ: <a href='https://tabelog.com/hiroshima/A3403/A340301/34022931/' target=_blank>https://tabelog.com/hiroshima/A3403/A340301/34022931/</a><br>",
     "longitude": 133.3653678,
     "latitude": 34.4922015,
     "flg_takeout": 1,
@@ -2956,6 +2956,46 @@
     "description": "住所:呉市広中新開3-12-42<br>\n電話: <a href='tel:0823-72-3111'>0823-72-3111</a><br>\nメニュー説明: <a href='https://www.facebook.com/yamos2019/photos/a.143536217034707/254996359222025/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
     "longitude": 132.627347,
     "latitude": 34.243347,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "中国料理Masuki",
+    "description": "住所:広島市南区京橋町6-8　藤多ビル2F<br>\n電話: <a href='tel:082-261-0608'>082-261-0608</a><br>\nメニュー説明: <a href='https://www.facebook.com/hirosima.masuki/photos/a.758234617586466/2870887596321147/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.471598,
+    "latitude": 34.394805,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "讃岐うどん 幅屋",
+    "description": "住所:広島市南区皆実町6-1-9<br>\n電話: <a href='tel:082-256-3139'>082-256-3139</a><br>\nメニュー説明: <a href='https://www.facebook.com/habaya2012/photos/a.1446203142133975/2950865788334362/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.46439,
+    "latitude": 34.372949,
+    "flg_takeout": 0,
+    "flg_delivery": 1
+  },
+  {
+    "name": "居酒屋 うおはん",
+    "description": "住所:広島市南区稲荷町5-25 <br>\n電話: <a href='tel:082-262-8408'>082-262-8408</a><br>\nメニュー説明: <a href='https://www.facebook.com/719765081437464/photos/a.965255163555120/2875447025869248/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.470624,
+    "latitude": 34.391433,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "ÉPURÉ（エピュレ）",
+    "description": "住所:広島市南区京橋町4-14ソル高松1F<br>\n電話: <a href='tel:082-576-2414'>082-576-2414</a><br>\nメニュー説明: <a href='https://www.facebook.com/192907088021170/photos/a.382833019028575/558772261434649/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.471126,
+    "latitude": 34.395558,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Trattoria liocorno（トラットリア リオコルノ）",
+    "description": "住所:広島市南区京橋町5-14<br>\n電話: <a href='tel:082-236-1952'>082-236-1952</a><br>\nメニュー説明: <a href='https://www.instagram.com/p/B9WTxAWBZmX/?igshid=a4edf328lkxk&fbclid=IwAR2TAayXZGOJMbn5PMrE3m83Mj6PfY1MlJYuSdjm9KzrgrMQLH15j0b2Dkg' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.470879,
+    "latitude": 34.394843,
     "flg_takeout": 1,
     "flg_delivery": 0
   }
