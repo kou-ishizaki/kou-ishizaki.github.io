@@ -2998,5 +2998,37 @@
     "latitude": 34.394843,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "路地裏ダイニング tAm Tam",
+    "description": "住所:広島県福山市春日町１丁目４−１２<br>\n電話: <a href='tel:084-959-3236'>084-959-3236</a><br>\nホームページ: <a href='https://tamtam.owst.jp' target=_blank>https://tamtam.owst.jp</a><br>",
+    "longitude": 133.406492,
+    "latitude": 34.506997,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "unjour アンジュール",
+    "description": "住所:広島県福山市引野町北２丁目18番１号<br>\n電話: <a href='tel:084-959-4621'>084-959-4621</a><br>\nホームページ: <a href='http://unjour-s.jp' target=_blank>http://unjour-s.jp</a><br>",
+    "longitude": 133.410357,
+    "latitude": 34.501059,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "居酒屋 はなび",
+    "description": "住所:広島県福山市御門町３‐１０‐２２<br>\n電話: <a href='tel:084-931-7528'>084-931-7528</a><br>\nホームページ: <a href='https://hanabi7528.owst.jp' target=_blank>https://hanabi7528.owst.jp</a><br>",
+    "longitude": 133.372394,
+    "latitude": 34.478598,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ぶちくさらぁめん",
+    "description": "住所:広島県福山市笠岡町４−１５<br>\n電話: <a href='tel:084-921-7222'>084-921-7222</a><br>\nホームページ: <a href='https://buchikusa.com' target=_blank>https://buchikusa.com</a><br>",
+    "longitude": 133.368964,
+    "latitude": 34.48779,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
