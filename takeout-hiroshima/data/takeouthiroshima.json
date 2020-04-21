@@ -3070,5 +3070,37 @@
     "latitude": 34.39834,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "地粉うどん店 わだち草",
+    "description": "住所:広島市安佐北区落合5-3-17<br>\n電話: <a href='tel:082-845-6501'>082-845-6501</a><br>\nメニュー説明: <a href='https://www.facebook.com/311531118881972/photos/a.565654316802983/2859830364052022/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.513452,
+    "latitude": 34.479961,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "じわじわカレー",
+    "description": "住所:広島市佐伯区八幡2-24-40 田村ビル1F<br>\nメニュー説明: <a href='https://www.facebook.com/ziwaziwa.curry/posts/2781896515197521' target=_blank>★→→→コチラです</a>",
+    "longitude": 132.356143,
+    "latitude": 34.390668,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Trattoria Ruzzo",
+    "description": "住所:広島市佐伯区楽々園5-2-16-105<br>\n電話: <a href='tel:082-554-4336'>082-554-4336</a><br>\nメニュー説明: <a href='https://www.facebook.com/Trattoria.Ruzzo/photos/a.669104893179997/2843207625769702/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.354951,
+    "latitude": 34.361588,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ROOM #191",
+    "description": "住所:広島市佐伯区湯来町下1081-1<br>\n電話: <a href='tel:082-622-6191'>082-622-6191</a><br>\nメニュー説明: <a href='https://www.facebook.com/KitchenAndCafeROOM191/photos/a.473009439710569/1124374907907349/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.345832,
+    "latitude": 34.551779,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
