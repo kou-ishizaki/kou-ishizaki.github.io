@@ -2926,5 +2926,37 @@
     "latitude": 34.665128,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "くろきカフェ",
+    "description": "住所:呉市中通4-9-4<br>\n電話: <a href='tel:0823-25-5061'>0823-25-5061</a><br>\nメニュー説明: <a href='https://bit.ly/3aiQPmw' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.567354,
+    "latitude": 34.247505,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "居酒屋利根本店",
+    "description": "住所:呉市本町2-2 利根ビル<br>\n電話: <a href='tel:0823-24-6166'>0823-24-6166</a><br>\nメニュー説明: <a href='https://www.facebook.com/199305196787418/photos/a.747868408597758/3034646333253276/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.567683,
+    "latitude": 34.244817,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "イタリア料理 Falco",
+    "description": "住所:呉市中通り3-4-1<br>\n電話: <a href='tel:0823-36-3839'>0823-36-3839</a><br>\nメニュー説明: <a href='https://bit.ly/3cFDQgp' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.564691,
+    "latitude": 34.246729,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "鉄ぱんcafe yamos",
+    "description": "住所:呉市広中新開3-12-42<br>\n電話: <a href='tel:0823-72-3111'>0823-72-3111</a><br>\nメニュー説明: <a href='https://www.facebook.com/yamos2019/photos/a.143536217034707/254996359222025/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.627347,
+    "latitude": 34.243347,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
