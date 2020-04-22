@@ -3102,5 +3102,45 @@
     "latitude": 34.551779,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "鉄板居酒屋G.G",
+    "description": "住所:広島市佐伯区五日市中央5-20-2<br>\n電話: <a href='tel:082-208-3808'>082-208-3808</a><br>\nメニュー説明: <a href='https://www.facebook.com/259119260797042/photos/a.465601613482138/3731266346915632/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.357876,
+    "latitude": 34.373702,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Diningbar & Gibier CARAVAN",
+    "description": "住所:広島市佐伯区楽々園2-1-38 藤井ビル2F<br>\n電話: <a href='tel:082-924-4056'>082-924-4056</a><br>\nメニュー説明: <a href='https://www.facebook.com/groups/561156654505100/permalink/564749757479123/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.352351,
+    "latitude": 34.364105,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "串焼 すみのや 桜",
+    "description": "住所:廿日市市駅前5-6<br>\n電話: <a href='tel:050-3469-4675'>050-3469-4675</a><br>\nメニュー説明: <a href='https://www.facebook.com/suminoyasakura/posts/2472861436152029' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.335849,
+    "latitude": 34.357043,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "四季彩酒膳 げんや",
+    "description": "住所:廿日市市駅前5-3<br>\n電話: <a href='tel:0829-32-9353'>0829-32-9353</a><br>\nメニュー説明: <a href='https://www.facebook.com/genyanogensan/photos/a.500670250042297/2642153465893954/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.335876,
+    "latitude": 34.35744,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Café & Gallery 柿尾坂",
+    "description": "住所:廿日市市天神1-3<br>\n電話: <a href='tel:0829-31-0359'>0829-31-0359</a><br>\nメニュー説明: <a href='https://bit.ly/2yuRFPZ' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.338315,
+    "latitude": 34.358204,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
