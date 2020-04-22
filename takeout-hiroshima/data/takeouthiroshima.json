@@ -3158,5 +3158,45 @@
     "latitude": 34.347917,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "あさ菜ゆう菜",
+    "description": "住所:広島市安佐南区安東2-12-2<br>\n電話: <a href='tel:082-878-4848'>082-878-4848</a><br>\nメニュー説明: <a href='https://www.facebook.com/asanayuuna/posts/2572913806317262' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.453983,
+    "latitude": 34.474763,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "炭焼kitchen達磨",
+    "description": "住所:広島市安佐南区下祇園2-45-14<br>\n電話: <a href='tel:082-874-7210'>082-874-7210</a><br>\nメニュー説明: <a href='https://bit.ly/3cInGT9' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.463512,
+    "latitude": 34.440366,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Oishi吉山",
+    "description": "住所:広島市安佐南区沼田町吉山942-1<br>\n電話: <a href='tel:082-830-4141'>082-830-4141</a><br>\nメニュー説明: <a href='https://www.facebook.com/oishiyoshiyama/posts/1465402636968219' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.343826,
+    "latitude": 34.468475,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "串焼き海鮮居酒屋 テゲテゲ",
+    "description": "住所:広島市安佐南区安東2-9-18 ガナドール安東104<br>\n電話: <a href='tel:082-832-7011'>082-832-7011</a><br>\nメニュー説明: <a href='https://www.facebook.com/545553498828426/photos/a.546346562082453/3220196201364129/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.452511,
+    "latitude": 34.474664,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "カフェ・ブランシュ",
+    "description": "住所:広島市安佐南区祇園3 森のアトリエ101-26-35<br>\n電話: <a href='tel:082-559-1610'>082-559-1610</a><br>\nメニュー説明: <a href='https://www.facebook.com/groups/561156654505100/permalink/567253383895427/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.459769,
+    "latitude": 34.446047,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
