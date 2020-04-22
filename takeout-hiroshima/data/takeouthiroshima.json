@@ -888,14 +888,6 @@
     "flg_delivery": 0
   },
   {
-    "name": "はとキッチン",
-    "description": "住所: 広島県尾道市土堂１丁目７−３<br>電話: <a href='tel:0848-22-2037'>0848-22-2037</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34024942/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34024942/</a><br>SNS: <a href='' target=_blank></a>",
-    "longitude": 133.1988706,
-    "latitude": 34.4068355,
-    "flg_takeout": 1,
-    "flg_delivery": 0
-  },
-  {
     "name": "高原誠吉食堂",
     "description": "住所: 広島県尾道市土堂２丁目２−１９<br>電話: <a href='tel:0848-24-6880'>0848-24-6880</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34021665/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34021665/</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.2011464,
