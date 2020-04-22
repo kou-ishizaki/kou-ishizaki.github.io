@@ -3190,5 +3190,13 @@
     "latitude": 34.446047,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "お食事処ちどり",
+    "description": "住所:広島県 尾道市瀬戸田町瀬戸田530-2<br>\n電話: <a href='tel:0845-27-0231'>0845-27-0231</a><br>\nメニュー説明: <a href='https://bit.ly/2VsVqyl' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='http://chidori-onomichi.com' target=_blank>http://chidori-onomichi.com</a><br>",
+    "longitude": 133.089812,
+    "latitude": 34.30515,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
