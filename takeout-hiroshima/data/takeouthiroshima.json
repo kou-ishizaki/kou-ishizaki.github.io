@@ -1960,14 +1960,6 @@
     "flg_delivery": 1
   },
   {
-    "name": "魚安食堂",
-    "description": "住所: 広島県福山市川口町2-10-34<br>\n電話: <a href='tel:084-953-2124'>084-953-2124</a><br>",
-    "longitude": 133.387094,
-    "latitude": 34.468056,
-    "flg_takeout": 1,
-    "flg_delivery": 0
-  },
-  {
     "name": "炉端焼き しろ 花園本店",
     "description": "住所: 広島県福山市花園町2-1-16<br>\n電話: <a href='tel:084-926-0046'>084-926-0046</a><br>",
     "longitude": 133.373652,
@@ -3132,6 +3124,38 @@
     "description": "住所:廿日市市天神1-3<br>\n電話: <a href='tel:0829-31-0359'>0829-31-0359</a><br>\nメニュー説明: <a href='https://bit.ly/2yuRFPZ' target=_blank>★→→→コチラです</a><br>",
     "longitude": 132.338315,
     "latitude": 34.358204,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Gator's Cajun Kitchen",
+    "description": "住所:廿日市市宮島口1-3-31-201<br>\n電話: <a href='tel:0829-30-8065'>0829-30-8065</a><br>\nメニュー説明: <a href='https://bit.ly/2XXqs2W' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.302925,
+    "latitude": 34.311448,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "啐啄 よしおか",
+    "description": "住所:廿日市市天神4-11<br>\n電話: <a href='tel:0829-32-9488'>0829-32-9488</a><br>\nメニュー説明: <a href='https://www.facebook.com/sokutakuyoshi/photos/a.1479555015594847/2517261205157551/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.337522,
+    "latitude": 34.355514,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ラーメン臥龍",
+    "description": "住所:廿日市市串戸2-8-15<br>\n電話: <a href='tel:0829-32-3019'>0829-32-3019</a><br>\nメニュー説明: <a href='https://www.facebook.com/620230968009587/photos/a.693718810660802/3146597865372872/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.328632,
+    "latitude": 34.348132,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "たがへい",
+    "description": "住所:廿日市市宮内1522-2<br>\n電話: <a href='tel:0829-38-6591'>0829-38-6591</a><br>\nメニュー説明: <a href='https://bit.ly/2VQOutA' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.309512,
+    "latitude": 34.347917,
     "flg_takeout": 1,
     "flg_delivery": 0
   }
