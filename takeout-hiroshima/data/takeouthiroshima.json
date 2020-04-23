@@ -3294,5 +3294,45 @@
     "latitude": 34.4082224,
     "flg_takeout": 1,
     "flg_delivery": 1
+  },
+  {
+    "name": "cafe de unji（アンジ）",
+    "description": "住所:広島市中区大手町2-6-30 前田ビル2F<br>\n電話: <a href='tel:080-3887-0141'>080-3887-0141</a><br>\nメニュー説明: <a href='https://www.instagram.com/p/B-n2sTsDzBn/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.45564,
+    "latitude": 34.39266,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "鉄板焼 zaza Casual Dining",
+    "description": "住所:広島市中区幟町15-9<br>\n電話: <a href='tel:082-222-8883'>082-222-8883</a><br>\nメニュー説明: <a href='https://bit.ly/2xRjvpu' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.467406,
+    "latitude": 34.393419,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "鉄板焼 お好み焼 きずなや",
+    "description": "住所:広島市中区本川町2-5-12<br>\n電話: <a href='tel:082-232-7779'>082-232-7779</a><br>\nメニュー説明: <a href='https://www.facebook.com/1380352728872453/photos/a.1661795204061536/2544081232499591/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.450328,
+    "latitude": 34.397146,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "料理　むら上",
+    "description": "住所:広島市中区流川町2-24　ビトウビル<br>\n電話: <a href='tel:082-240-5188'>082-240-5188</a><br>\nメニュー説明: <a href='https://www.facebook.com/groups/561156654505100/permalink/562001581087274/' target=_blank>★→→→コチラです</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://bit.ly/2VMtIvx' target=_blank>★→→→飲食店Map</a>",
+    "longitude": 132.464123,
+    "latitude": 34.391942,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "Cafe maltid",
+    "description": "住所:広島市中区袋町6-4<br>\n電話: <a href='tel:082-246-0670'>082-246-0670</a><br>\nメニュー説明: <a href='https://bit.ly/3bxDzfc' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.458034,
+    "latitude": 34.391891,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
