@@ -3334,5 +3334,13 @@
     "latitude": 34.391891,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "めん屋　８",
+    "description": "住所:城町1丁目10－11<br>\n電話: <a href='tel:090-9739-5858'>090-9739-5858</a><br>\n営業時間:11:00～17:00（日曜・第3月曜　休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/pcb.2094635657347955/2111119355699585/?type=3&theater' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.083768,
+    "latitude": 34.399258,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
