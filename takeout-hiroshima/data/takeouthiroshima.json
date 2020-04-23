@@ -3177,7 +3177,7 @@
   },
   {
     "name": "味さい",
-    "description": "住所:  広島県尾道市向島町兼吉551番地<br>電話: <a href='0848-44-5536'>0848-44-5536</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340601/34003702/' target=_blank>https://tabelog.com/hiroshima/A3406/A340601/34003702/</a><br>SNS: <a href='' target=_blank></a>",
+    "description": "住所:  広島県尾道市向島町兼吉551番地<br>電話: <a href='tell:0848-44-5536'>0848-44-5536</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340601/34003702/' target=_blank>https://tabelog.com/hiroshima/A3406/A340601/34003702/</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.2051278,
     "latitude": 34.4001281,
     "flg_takeout": 1,
