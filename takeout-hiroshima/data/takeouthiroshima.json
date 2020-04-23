@@ -200,14 +200,6 @@
     "flg_delivery": 0
   },
   {
-    "name": "ラーメン 味平",
-    "description": "住所: 広島県尾道市木ノ庄町木門田７０１−８<br>電話: <a href='tel:0848-48-3207'>0848-48-3207</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34002173/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34002173/</a><br>SNS: <a href='' target=_blank></a>",
-    "longitude": 133.169,
-    "latitude": 34.45694,
-    "flg_takeout": 1,
-    "flg_delivery": 0
-  },
-  {
     "name": "YAMANEKO MILL",
     "description": "穴子の棒寿司 750円 おかず味噌 300円 焼き鳥弁当 600円 こめどこ弁当 600円 おばんざい盛合せ 1000円 やまねこグリーンカレー 600円 塩麹チキンとグリーンサラダ 300円 炊き込みゴハン 300円  生ビール 200円 ドリップコーヒー 300円 清美ジュース 300円 レモンジンジャー酎ハイ 300円 などなど  の他に、マルシェ野菜も沢山 Open11:00~  Close19:00<br>住所: 広島県尾道市東御所町５−２<br>電話: <a href='tel:0848-36-5331'>0848-36-5331</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34019915/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34019915/</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.1951,
@@ -228,14 +220,6 @@
     "description": "住所: 広島県尾道市山波町３４０−１<br>電話: <a href='tel:0848-46-4374'>0848-46-4374</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34016906/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34016906/</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.2276,
     "latitude": 34.42405,
-    "flg_takeout": 1,
-    "flg_delivery": 0
-  },
-  {
-    "name": "焼肉酒場 伸",
-    "description": "住所: 広島県尾道市東御所町４−４<br>電話: <a href='tel:0848-22-2117'>0848-22-2117</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34013584/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34013584/</a><br>SNS: <a href='' target=_blank></a>",
-    "longitude": 133.1951,
-    "latitude": 34.40506,
     "flg_takeout": 1,
     "flg_delivery": 0
   },
@@ -2392,14 +2376,6 @@
     "flg_delivery": 0
   },
   {
-    "name": "Oheso Cafe & Bakery",
-    "description": "住所: 広島県世羅郡世羅町宇津戸1548-1<br>電話: <a href='tel:0847-23-0678'>0847-23-0678</a><br>ホームページ: <a href='http://www.ohesocafe.com/' target=_blank>http://www.ohesocafe.com/</a><br>SNS: <a href='' target=_blank></a>",
-    "longitude": 133.1081915,
-    "latitude": 34.5587826,
-    "flg_takeout": 1,
-    "flg_delivery": 0
-  },
-  {
     "name": "居肴屋 馬口",
     "description": "住所: 広島県尾道市土堂２丁目４−３３<br>電話: <a href='tel:0848-36-6690'>0848-36-6690</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34012038/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34012038/</a><br>SNS: <a href='' target=_blank></a>",
     "longitude": 133.2024282,
@@ -3188,6 +3164,134 @@
     "description": "住所:広島県 尾道市瀬戸田町瀬戸田530-2<br>\n電話: <a href='tel:0845-27-0231'>0845-27-0231</a><br>\nメニュー説明: <a href='https://bit.ly/2VsVqyl' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='http://chidori-onomichi.com' target=_blank>http://chidori-onomichi.com</a><br>",
     "longitude": 133.089812,
     "latitude": 34.30515,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "味さい",
+    "description": "住所:  広島県尾道市向島町兼吉551番地<br>電話: <a href='0848-44-5536'>0848-44-5536</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340601/34003702/' target=_blank>https://tabelog.com/hiroshima/A3406/A340601/34003702/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.2051278,
+    "latitude": 34.4001281,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "くいしんぼう千両",
+    "description": "住所:  広島県尾道市土堂１丁目１−１０<br>電話: <a href='0848-25-2639'>0848-25-2639</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34022865/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34022865/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.1963743,
+    "latitude": 34.4061268,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "5（ファイブ）",
+    "description": "住所:  広島県尾道市土堂１丁目７−８<br>電話: <a href='0848-24-5532'>0848-24-5532</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34010936/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34010936/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.199339,
+    "latitude": 34.4070147,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": " 居•どん家いしみ",
+    "description": "住所:  広島県尾道市因島土生町1816-1<br>電話: <a href='0845-22-1307'>0845 22 1307</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340602/34012986/' target=_blank>https://tabelog.com/hiroshima/A3406/A340602/34012986/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.17745,
+    "latitude": 34.286352,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "月天心",
+    "description": "住所:  広島県尾道市土堂２丁目３−２９<br>電話: <a href='0848-23-8878'>0848-23-8878</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34023693/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34023693/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 133.201647,
+    "latitude": 34.40887,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "BISOU",
+    "description": "住所:  広島県尾道市久保2-5-24<br>電話: <a href='0848-38-9700'>0848-38-9700</a><br>ホームページ: <a href='https://www.bisouonomichi.com/' target=_blank>https://www.bisouonomichi.com/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 34.41217,
+    "latitude": 133.2062593,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "あそう",
+    "description": "住所:  広島県尾道市新浜１丁目１２−７<br>電話: <a href='0848-24-2414'>0848-24-2414</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34014487/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34014487/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 34.4012237,
+    "latitude": 133.1808771,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "AIRCAFÉ",
+    "description": "住所:  広島県尾道市東土堂町２−１ 光明寺會舘<br>電話: <a href='0848-51-5717'>0848-51-5717</a><br>ホームページ: <a href='https://www.facebook.com/komyojihall/posts/3689194054484627' target=_blank>https://www.facebook.com/komyojihall/posts/3689194054484627</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 34.4075384,
+    "latitude": 133.1976943,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ファンダンゴ",
+    "description": "住所:  広島県尾道市新浜１丁目２−１７<br>電話: <a href='0848-23-7272'>0848-23-7272</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34003081/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34003081/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 34.4024979,
+    "latitude": 133.1858585,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "からさわ",
+    "description": "住所:  広島県尾道市土堂1-15-19<br>電話: <a href='0848-23-6804'>0848-23-6804</a><br>ホームページ: <a href='https://www.ice.jcom.to/' target=_blank>https://www.ice.jcom.to/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 34.406587,
+    "latitude": 133.1991224,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "BISTRO TAKAGAKI",
+    "description": "住所:  広島県尾道市十四日元町１−２３<br>電話: <a href='0848-20-8020'>0848-20-8020</a><br>ホームページ: <a href='http://bistrotakagaki.com/' target=_blank>http://bistrotakagaki.com/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 34.4100533,
+    "latitude": 133.2002475,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "尾道国際ホテル",
+    "description": "住所:  広島県尾道市新浜1丁目13番6号<br>電話: <a href='0848-25-5930'>0848-25-5930</a><br>ホームページ: <a href='https://www.kokusai-hotel.com/kokusai/' target=_blank>https://www.kokusai-hotel.com/kokusai/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 34.4007189,
+    "latitude": 133.1789279,
+    "flg_takeout": 0,
+    "flg_delivery": 1
+  },
+  {
+    "name": "荒神堂専門店",
+    "description": "住所:  広島県尾道市土堂２丁目４−４０<br>電話: <a href='0848-22-5677'>0848-22-5677</a><br>ホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34024993/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34024993/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 34.4083146,
+    "latitude": 133.2019999,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "保広",
+    "description": "住所:  広島県尾道市土堂1-10-12<br>電話: <a href='0848-22-5639'>0848-22-5639</a><br>ホームページ: <a href='https://yasuhiro.co4.jp/?fbclid=IwAR0F3suHPl1DN7aBYBNIVCtCMfxJPp8U7coxBidVa5E9kCa1y8k5tszNDTc' target=_blank>https://yasuhiro.co4.jp/?fbclid=IwAR0F3suHPl1DN7aBYBNIVCtCMfxJPp8U7coxBidVa5E9kCa1y8k5tszNDTc</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 34.4058396,
+    "latitude": 133.1949634,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "尾道ロイヤルホテル",
+    "description": "住所:  広島県尾道市土堂２丁目９−２７<br>電話: <a href='0848-23-2111'>0848-23-2111</a><br>ホームページ: <a href='https://www.kokusai-hotel.com/royal/' target=_blank>https://www.kokusai-hotel.com/royal/</a><br>SNS: <a href='' target=_blank></a>",
+    "longitude": 34.4082224,
+    "latitude": 133.2025202,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "拉麺 またたび",
+    "description": "住所:広島県尾道市久保１丁目５−２５<br>\n電話: <a href='tel:0848-37-4178'>0848-37-4178</a><br>\nメニュー説明: <a href='https://bit.ly/3cK1QyV' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34021896/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34021896/</a><br>",
+    "longitude": 34.4108701,
+    "latitude": 133.2043249,
     "flg_takeout": 1,
     "flg_delivery": 0
   }
