@@ -3342,5 +3342,21 @@
     "latitude": 34.399258,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "野趣 拓",
+    "description": "住所:広島市中区堺町2-1-11 <br>\n電話: <a href='tel:082-961-6330'>082-961-6330</a><br>\nメニュー説明: <a href='https://www.facebook.com/1596270687334089/photos/a.2308479512779866/2309030739391410/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.445687,
+    "latitude": 34.395145,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Morgan",
+    "description": "住所:広島市中区銀山町8-4 <br>\n電話: <a href='tel:082-576-4214'>082-576-4214</a><br>\nメニュー説明: <a href='https://www.facebook.com/morganhiroshima/photos/a.121647842603220/219581602809843/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.468373,
+    "latitude": 34.391154,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
