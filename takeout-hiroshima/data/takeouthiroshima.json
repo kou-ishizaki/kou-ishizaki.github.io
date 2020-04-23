@@ -3166,13 +3166,5 @@
     "latitude": 34.30515,
     "flg_takeout": 1,
     "flg_delivery": 0
-  },
-  {
-    "name": "拉麺 またたび",
-    "description": "住所:広島県尾道市久保１丁目５−２５<br>\n電話: <a href='tel:0848-37-4178'>0848-37-4178</a><br>\nメニュー説明: <a href='https://bit.ly/3cK1QyV' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34021896/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34021896/</a><br>",
-    "longitude": 34.4108701,
-    "latitude": 133.2043249,
-    "flg_takeout": 1,
-    "flg_delivery": 0
   }
 ]
