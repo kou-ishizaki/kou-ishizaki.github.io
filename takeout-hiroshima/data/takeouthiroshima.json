@@ -3478,5 +3478,45 @@
     "latitude": 34.410921,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "Pin　de　Pain",
+    "description": "住所:三原市古浜1丁目2－9<br>\n電話: <a href='tel:084-867-3911'>084-867-3911</a><br>\n営業時間≫7:00～16:00※緊急事態宣言が出ている間  (日・月曜　休)<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109737305837790/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.089942,
+    "latitude": 34.398765,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "４Ｒ フォアール",
+    "description": "住所:三原市和田2丁目29－3<br>\n電話: <a href='tel:084-838-1119'>084-838-1119</a><br>\n受付≫11:00～17:30（木・日曜 休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109737692504418/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.077283,
+    "latitude": 34.382425,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "旬彩 おたふく",
+    "description": "住所:三原市城町1丁目4－23大名ビル１階<br>\n電話: <a href='tel:084-862-5959'>084-862-5959</a><br>\n受付≫11:00～14:00、17:00～19：00<br>\n※日曜 昼営業のみ<br>\n※夜はお電話にてご予約下さい<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109737909171063/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.082466,
+    "latitude": 34.398849,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ROCKET",
+    "description": "住所:三原市城町3丁目2－17朴ビル1階<br>\n電話: <a href='tel:084-836-5328'>084-836-5328</a><br>\n受付≫11:30～14:00<br>\nお渡し≫11:30～14:00／17:00～21:00（日曜 休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109739512504236/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.083054,
+    "latitude": 34.397587,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "道の駅 みはら神明の里 キッチンルマーダ",
+    "description": "住所:三原市糸崎4丁目21－1<br>\n電話: <a href='tel:084-863-8585'>084-863-8585</a><br>\n営業時間≫9:00～18:00　受付≫～17:30<br>\n（第3火曜 休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109739632504224/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.103947,
+    "latitude": 34.396813,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
