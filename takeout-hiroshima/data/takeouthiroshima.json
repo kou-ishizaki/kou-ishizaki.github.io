@@ -3358,5 +3358,37 @@
     "latitude": 34.391154,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "台湾家庭料理 黄さんの家",
+    "description": "住所:広島市西区楠木町3-16-2<br>\n電話: <a href='tel:082-223-7003'>082-223-7003</a><br>\nメニュー説明: <a href='https://bit.ly/2XXfPNH' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.456847,
+    "latitude": 34.412621,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "51 CURRY CAFE",
+    "description": "住所:広島市西区己斐本町1-25-5<br>\n電話: <a href='tel:082-576-4349'>082-576-4349</a><br>\nメニュー説明: <a href='https://www.facebook.com/51currycafe/photos/a.331642380681050/830832834095333/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.427619,
+    "latitude": 34.396999,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ナイスユカリ",
+    "description": "住所:広島市西区横川町2-5-21<br>\n電話: <a href='tel:082-576-4349'>082-576-4349</a><br>\nメニュー説明: <a href='https://www.facebook.com/167710540235484/photos/a.170273466645858/1120903891582806/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.450854,
+    "latitude": 34.408548,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "お好み焼 鉄板焼 和心",
+    "description": "住所:広島市西区中広町3-2-17 第8山本ビル101<br>\n電話: <a href='tel:082-295-2428'>082-295-2428</a><br>\nメニュー説明: <a href='https://bit.ly/3cHYQTv' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.445893,
+    "latitude": 34.407025,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
