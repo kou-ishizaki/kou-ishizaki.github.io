@@ -3398,5 +3398,85 @@
     "latitude": 34.390202,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "Cafe maru2tasu",
+    "description": "住所:三原市宮浦2丁目1－1 芸術文化センターポポロ内<br>\n電話: <a href='tel:084-881-1200'>084-881-1200</a><br>\n営業時間:9:00～16:30（予約があるとスムーズにお渡しができます）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2112001602278027/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.067919,
+    "latitude": 34.400829,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "くい道楽　めん吉",
+    "description": "住所:三原市皆実3丁目1ー9<br>\n電話: <a href='tel:084-862-7003'>084-862-7003</a><br>\n営業時間:11:00～15:00/17:00～20:00 ＊休みなし（予約があるとスムーズにお渡しができます）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109959575815563/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.066686,
+    "latitude": 34.392961,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "焼き鳥酒場奏",
+    "description": "住所:三原市皆実2丁目5－7<br>\n電話: <a href='tel:084-838-2553'>084-838-2553</a><br>\n営業時間:受付≫14:00〜 お渡し≫17:00〜 ※お早目の予約をお願いします<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109735582504629/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.063022,
+    "latitude": 34.392673,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "三万石うどん",
+    "description": "住所:三原市南方1161－4<br>\n電話: <a href='tel:084-886-2080'>084-886-2080</a><br>\n営業時間:お渡し≫11:00～19:00※事前予約をお勧めします<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109735775837943/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 132.956526,
+    "latitude": 34.404308,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ひょこめ",
+    "description": "住所:三原市城町2丁目2－1<br>\n電話: <a href='tel:084-867-5919'>084-867-5919</a><br>\n営業時間:予約≫前日 14:00まで（日曜 休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109736949171159/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.085966,
+    "latitude": 34.400182,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ホルモンヤキニクひまわり",
+    "description": "住所:広島市西区天満町18-1<br>\n電話: <a href='tel:082-299-5529'>082-299-5529</a><br>\nメニュー説明: <a href='https://bit.ly/2S33GD0' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.440573,
+    "latitude": 34.395581,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Teppan & Bar Masar's",
+    "description": "住所:広島市西区観音町12-1<br>\n電話: <a href='tel:082-295-3711'>082-295-3711</a><br>\nメニュー説明: <a href='https://www.facebook.com/624084364335862/photos/a.625546914189607/2815402711870672/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.440333,
+    "latitude": 34.394609,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "広島中華そば がんぼ",
+    "description": "住所:広島市西区草津新町2-16-1-1F<br>\n電話: <a href='tel:082-278-5560'>082-278-5560</a><br>\nメニュー説明: <a href='https://bit.ly/3bCJsYG' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.394934,
+    "latitude": 34.374471,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "le Cinq5（ル サンク）",
+    "description": "住所:広島市西区三篠町3-12-18 <br>\n電話: <a href='tel:082-237-1187'>082-237-1187</a><br>\nメニュー説明: <a href='https://www.instagram.com/p/B-6R128jYN4/?igshid=ofb7veik45q7&fbclid=IwAR16cXNPP2Mibhpv6X1AxjVPiWeJzaiZHC9jdI9vC5xh3uGNjOKm0_CAgW0' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.453229,
+    "latitude": 34.415391,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "創作和食 石松",
+    "description": "住所:広島市西区三篠町1-13-7<br>\n電話: <a href='tel:082-239-2557'>082-239-2557</a><br>\nメニュー説明: <a href='https://bit.ly/2S3y9B4' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.452277,
+    "latitude": 34.410921,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
