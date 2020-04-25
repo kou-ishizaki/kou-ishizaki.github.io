@@ -3606,5 +3606,45 @@
     "latitude": 34.395576,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "TeppanDiner６",
+    "description": "住所:三原市港町1丁目2－18<br>\n電話: <a href='tel:084-863-1888'>084-863-1888</a><br>\n受付≫17:00～20:00<br>\n(月曜・第2日曜）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109744905837030/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.080922,
+    "latitude": 34.400186,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "鉄板kitchenTORICO",
+    "description": "住所:三原市城町1丁目13－1<br>\n電話: <a href='tel:084-862-4676'>084-862-4676</a><br>\nお渡し≫17:30～21:00ごろ（日曜 休）<br>\n※店内メニューはほぼテイクアウト可能<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109745039170350/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.083991,
+    "latitude": 34.398177,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "中華レストラン北京",
+    "description": "住所:三原市宮浦4丁目6－26<br>\n電話: <a href='tel:084-864-7241'>084-864-7241</a><br>\n★★★(4/28・5/5休・月曜 休)★★★\n受付≫11:30～13:00/17:00～19:00<br>\nお弁当 ※予約…受け取り前日まで<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109745235836997/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.064277,
+    "latitude": 34.399164,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "DONBURI dining&cafe　SmilingSpace",
+    "description": "住所:三原市港町3丁目8－1<br>\n電話: <a href='tel:084-829-7004'>084-829-7004</a><br>\n受付≫11:00～19:00　(火曜 休)<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109745305836990/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.079349,
+    "latitude": 34.398167,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "喫茶室＆DELI かねしょう",
+    "description": "住所:三原市港町3丁目3－1<br>\n電話: <a href='tel:084-864-3210'>084-864-3210</a><br>\n受付≫11:00～15:00(日曜 休)<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109745655836955/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.080012,
+    "latitude": 34.397683,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
