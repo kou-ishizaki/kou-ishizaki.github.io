@@ -3518,5 +3518,45 @@
     "latitude": 34.396813,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "四季ふぉーしーずん",
+    "description": "住所:三原市本郷町船木1898<br>\n電話: <a href='tel:084-886-4487'>084-886-4487</a><br>\n受付≫10:00～17:00（木曜 休）<br>\nお弁当受付≫11:00～14:00<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109739779170876/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 132.969921,
+    "latitude": 34.430912,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "居酒屋むらか美",
+    "description": "住所:三原市城町1丁目10－5<br>\n電話: <a href='tel:084-863-6300'>084-863-6300</a><br>\n受付≫10:00～20:00<br>　　　　　　　　　\nお渡し≫17:00～20:00<br>\n（日・祝日 休）<br>\n※タッパーの持参で全メニュー持ち帰り可能<br>\n※要予約<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109739862504201/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.084067,
+    "latitude": 34.399347,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "おはぎのこだま",
+    "description": "住所:三原市城町1丁目6－1<br>\n電話: <a href='tel:084-863-4275'>084-863-4275</a><br>\n受付≫8:00～18:00　※5/6まで<br>\n※売り切れ次第終了<br>\n（月曜 休※月曜が祝日の場合は火曜休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109744105837110/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.083336,
+    "latitude": 34.399146,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "CAFE PARADISO",
+    "description": "住所:三原市本町3丁目1－9<br>\n電話: <a href='tel:090-8993-1424'>090-8993-1424</a><br>\n※4/27まで休業　4/28から再開<br>\n受付≫11:30～17:00<br>\n（日・月曜 休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109744325837088/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.079938,
+    "latitude": 34.401689,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "コメダ珈琲店三原皆実店",
+    "description": "住所:三原市皆実1丁目22－9<br>\n電話: <a href='tel:084-838-1811'>084-838-1811</a><br>\n受付≫7:00～19:30<br>\n※5/20まではテイクアウトがすべて20％OFF<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109744579170396/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.068089,
+    "latitude": 34.394767,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
