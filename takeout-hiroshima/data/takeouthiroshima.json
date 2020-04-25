@@ -3558,5 +3558,53 @@
     "latitude": 34.394767,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "Re:Re:river cafe'n リヴァーカフェ",
+    "description": "住所:広島市西区天満町11-23内藤ビル 1,2F<br>\n電話: <a href='tel:082-292-8194'>082-292-8194</a><br>\nメニュー説明: <a href='https://bit.ly/3eNR4JN' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.442998,
+    "latitude": 34.39542,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "鮮寿",
+    "description": "住所:広島市西区草津港1-8-1 広島市中央卸売市場内 関連棟103号<br>\n電話: <a href='tel:082-277-5606'>082-277-5606</a><br>\nメニュー説明: <a href='https://bit.ly/3cOdDfk' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.399862,
+    "latitude": 34.366548,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "キッチンMinokoshi",
+    "description": "住所:広島市西区己斐本町2-1-1<br>\n電話: <a href='tel:082-274-7211'>082-274-7211</a><br>\nメニュー説明: <a href='https://www.facebook.com/groups/561156654505100/permalink/569212537032845/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.427199,
+    "latitude": 34.395774,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "焼肉 近どう",
+    "description": "住所:広島市西区福島町1-15-7 <br>\n電話: <a href='tel:082-232-2858'>082-232-2858</a><br>\nメニュー説明: <a href='https://www.facebook.com/permalink.php?story_fbid=609894679632534&id=100018360218927' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.434285,
+    "latitude": 34.396363,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "純米酒屋おちょこ",
+    "description": "住所:広島市西区横川町2-7-2 <br>\n電話: <a href='tel:082-232-8727'>082-232-8727</a><br>\nメニュー説明: <a href='https://bit.ly/354cOwp' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.449322,
+    "latitude": 34.408941,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ドットコミュ",
+    "description": "住所:広島市西区観音町16-33-102<br>\n電話: <a href='tel:090-1417-1985'>090-1417-1985</a><br>\nメニュー説明: <a href='https://www.facebook.com/gibier.comm/photos/a.538714059640082/1458159274362218/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.437623,
+    "latitude": 34.395576,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
