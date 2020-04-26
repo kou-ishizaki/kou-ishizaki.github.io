@@ -3686,5 +3686,45 @@
     "latitude": 34.387666,
     "flg_takeout": 1,
     "flg_delivery": 1
+  },
+  {
+    "name": "広島鉄板焼 万八",
+    "description": "住所:広島市南区宇品西2-16-51<br>\n電話: <a href='tel:082-569-4211'>090-1417-1985</a><br>\nメニュー説明: <a href='https://bit.ly/3eRgO85' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.45879,
+    "latitude": 34.364422,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "焼肉ジャンゴ",
+    "description": "住所:広島市南区的場町1-6-7<br>\n電話: <a href='tel:082-263-6665'>082-263-6665</a><br>\n★受付は11時〜20時です。<br>\n★ご注文は必ずお電話でお願いします<br>\nメニュー説明: <a href='https://bit.ly/2yHiGQ8' target=_blank>★→→→コチラです</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://bit.ly/2VMtIvx' target=_blank>★→→→飲食店Map</a>",
+    "longitude": 132.474479,
+    "latitude": 34.393357,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "あかいはりねずみ",
+    "description": "住所:広島市南区的場町1-7-2 <br>\n電話: <a href='tel:082-261-0260'>082-261-0260</a><br>\nメニュー説明: <a href='https://www.facebook.com/igelhiroshima/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.47491,
+    "latitude": 34.393024,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "カフェ ドルフィン",
+    "description": "住所:広島市南区向洋新町2-29<br>\n電話: <a href='tel:090-6410-8224'>090-6410-8224</a><br>\nメニュー説明: <a href='https://www.facebook.com/groups/561156654505100/permalink/567767620510670/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.509152,
+    "latitude": 34.362224,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "広島らーめんたかひろ",
+    "description": "住所:広島市南区大須賀町12-6<br>\n電話: <a href='tel:082-205-8211'>082-205-8211</a><br>\nメニュー説明: <a href='https://www.facebook.com/groups/561156654505100/permalink/568261633794602/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.472435,
+    "latitude": 34.398321,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
