@@ -3758,5 +3758,61 @@
     "latitude": 34.499639,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "むすび　古民家カフェ＆宿",
+    "description": "住所:三原市須波1丁目2－19<br>\n電話: <a href='tel:084-888-9155'>084-888-9155</a><br>\n※前日までに要予約<br>\n※配達無料<br>\n※配達可能エリアについてはお問い合わせください<br>\n受付≫11:00～14:00(第２第４月曜・火曜　休)<br>\n配達日≫木曜～日曜・第１・３月曜<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2111112715700249/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.085219,
+    "latitude": 34.370666,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "段原 肉酒場",
+    "description": "住所:広島市南区段原2-19-2 <br>\n電話: <a href='tel:082-261-1529'>082-261-1529</a><br>\nメニュー説明: <a href='https://www.facebook.com/groups/561156654505100/permalink/569434613677304/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.4765,
+    "latitude": 34.386437,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "季節料理 おきな",
+    "description": "住所:広島市南区出汐1-3-2<br>\n電話: <a href='tel:090-3170-8949'>090-3170-8949</a><br>\nメニュー説明: <a href='https://www.facebook.com/groups/561156654505100/permalink/570579060229526/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.476225,
+    "latitude": 34.380312,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "STLAB",
+    "description": "住所:広島県安芸郡府中町大須1-15-13<br>\n電話: <a href='tel:082-569-5823'>082-569-5823</a><br>\nメニュー説明: <a href='https://www.facebook.com/1488779734674166/photos/a.1527818617436944/2680514198834041/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.500819,
+    "latitude": 34.392396,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "くに勝",
+    "description": "住所:広島県安芸郡海田町南大正町3-43<br>\n電話: <a href='tel:082-824-3431'>082-824-3431</a><br>\nメニュー説明: <a href='https://www.facebook.com/groups/1348982325288820/permalink/1367468313440221/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.534155,
+    "latitude": 34.367917,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "天仁庵",
+    "description": "住所:広島県呉市音戸町引地1-2-2<br>\n電話: <a href='tel:0823-52-2228'>0823-52-2228</a><br>\nメニュー説明: <a href='https://bit.ly/353VZSr' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.53637,
+    "latitude": 34.195811,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Organic cafe 喫茶 さえき",
+    "description": "住所:広島市中区紙屋町1-4-25<br>\n電話: <a href='tel:082-246-9339'>082-246-9339</a><br>\nメニュー説明: <a href='https://www.facebook.com/kissa.saeki/photos/a.327948350640480/2422898014478826/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.458588,
+    "latitude": 34.394346,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
