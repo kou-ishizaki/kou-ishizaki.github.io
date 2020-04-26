@@ -3625,7 +3625,7 @@
   },
   {
     "name": "中華レストラン北京",
-    "description": "住所:三原市宮浦4丁目6－26<br>\n電話: <a href='tel:084-864-7241'>084-864-7241</a><br>\n★★★(4/28・5/5休・月曜 休)★★★\n受付≫11:30～13:00/17:00～19:00<br>\nお弁当 ※予約…受け取り前日まで<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109745235836997/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "description": "住所:三原市宮浦4丁目6－26<br>\n電話: <a href='tel:084-864-7241'>084-864-7241</a><br>\n★★★(4/28・5/5休・月曜 休)★★★<br>\n受付≫11:30～13:00/17:00～19:00<br>\nお弁当 ※予約…受け取り前日まで<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109745235836997/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
     "longitude": 133.064277,
     "latitude": 34.399164,
     "flg_takeout": 1,
@@ -3646,5 +3646,45 @@
     "latitude": 34.397683,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "本町ごはん　はらのすけ",
+    "description": "住所:三原市本町3丁目14－84<br>\n電話: <a href='tel:084-836-6715'>084-836-6715</a><br>\n営業時間≫11:00～14:30（土・日・月曜　休）<br>\n予約受付≫9:00～<br>\n配達紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109745775836943/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.079402,
+    "latitude": 34.402019,
+    "flg_takeout": 0,
+    "flg_delivery": 1
+  },
+  {
+    "name": "まじま製麺",
+    "description": "住所:三原市皆実4丁目11－13<br>\n電話: <a href='tel:084-862-4713'>084-862-4713</a><br>\n受付時間≫10:00～15:00<br>\n配達≫～17:00<br>\n配達紹介紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109745822503605/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.07073,
+    "latitude": 34.39257,
+    "flg_takeout": 0,
+    "flg_delivery": 1
+  },
+  {
+    "name": "浜吉",
+    "description": "住所:三原市糸崎4丁目3－56<br>\n電話: <a href='tel:084-862-2121'>084-862-2121</a><br>\n<br>\n★初めて利用の方は前日までに1度ご連絡ください<br>\n★配達エリアについてはお問い合わせ下さい<br>\n<br>\n営業時間≫平日・土曜の10:00～12:00<br>\n受付≫当日　～9:15<br>\n<br>\n配達紹介紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109745869170267/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.105095,
+    "latitude": 34.392674,
+    "flg_takeout": 0,
+    "flg_delivery": 1
+  },
+  {
+    "name": "ムーミンハウス",
+    "description": "住所:三原市沼田東町片島243－3<br>\n電話: <a href='tel:084-866-5300'>084-866-5300</a><br>\n受付≫9:00～14:00/17:00～19:00（火曜 休）<br>\n※配達エリアについてはお問い合わせください<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109746069170247/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.022022,
+    "latitude": 34.38968,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "カフェ&ダイニングCiAO",
+    "description": "住所:三原市明神2丁目11－1<br>\n電話: <a href='tel:084-864-9700'>084-864-9700</a><br>\n受付≫11:00～15:00/17:30～19:00 (火曜　休)<br>\n※配達エリアについてはお問い合わせください<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2109746115836909/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3cFvHZ5' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.05051,
+    "latitude": 34.387666,
+    "flg_takeout": 1,
+    "flg_delivery": 1
   }
 ]
