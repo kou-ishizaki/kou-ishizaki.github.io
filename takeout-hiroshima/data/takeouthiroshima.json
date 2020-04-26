@@ -3726,5 +3726,37 @@
     "latitude": 34.398321,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "中華そば 棗",
+    "description": "住所:広島県福山市駅家町万能倉１２５５−１<br>\n電話: <a href='tel:084-982-7536'>084-982-7536</a><br>\nお店紹介: <a href='https://bit.ly/3bzIg8e' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 133.329319,
+    "latitude": 34.5455,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "上海楼 蘭蘭",
+    "description": "住所:広島県福山市赤坂町早戸１６０７−２<br>\n電話: <a href='tel:084-920-5639'>084-920-5639</a><br>\nお店紹介: <a href='https://tabelog.com/hiroshima/A3403/A340308/34003698/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 133.384596,
+    "latitude": 34.442022,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "居酒屋 俊亭",
+    "description": "住所:広島県福山市神辺町十九軒屋２５３−２<br>\n電話: <a href='tel:084-962-0737'>084-962-0737</a><br>\nお店紹介: <a href='https://tabelog.com/hiroshima/A3403/A340306/34014084/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 133.359774,
+    "latitude": 34.547326,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "お好み焼き 満月",
+    "description": "住所:広島県福山市南蔵王町４丁目１３−１６<br>\n電話: <a href='tel:084-925-7250'>084-925-7250</a><br>\nお店紹介: <a href='https://bit.ly/3aFDLYo' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 133.396323,
+    "latitude": 34.499639,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
