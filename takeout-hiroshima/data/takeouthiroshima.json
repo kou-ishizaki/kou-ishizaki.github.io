@@ -3822,5 +3822,13 @@
     "latitude": 34.500767,
     "flg_takeout": 1,
     "flg_delivery": 1
+  },
+  {
+    "name": "あんず ",
+    "description": "タカノバシデリバリー加盟店（#鷹野橋プロジェクト）<br>\n「自宅でも美味しい！！」をお届けします<br>\n<br>\nデリバリーメニュー: <a href='https://www.facebook.com/groups/561156654505100/permalink/571859050101527/' target=_blank>★→→→コチラです</a><br>\nデリバリー代表電話: <a href='tel:082-504-5000'>082-504-5000</a><br>\nデリバリーFAX番号: <a href='tel:082-249-4000'>082-249-4000</a><br>\n受付時間:10:30 〜 18:00（ラストオーダー）<br>\n★ 日曜日のみお休みさせていただきます ★<br>\n配達地域（4月27日時点）: <a href='https://www.facebook.com/groups/561156654505100/permalink/571859050101527/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.453066,
+    "latitude": 34.38334,
+    "flg_takeout": 0,
+    "flg_delivery": 1
   }
 ]
