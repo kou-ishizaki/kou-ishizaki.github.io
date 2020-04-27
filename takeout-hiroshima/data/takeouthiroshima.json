@@ -3814,5 +3814,13 @@
     "latitude": 34.394346,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "オコノミ3M",
+    "description": "お好み焼き、鉄板焼き一品料理を店舗より3km圏内を目安に1品から配達致します！！\n住所:広島県広島市安佐北区可部南1-2-1<br>\n電話: <a href='tel:082-516-5289'>082-516-5289</a><br>\nホームページ: <a href='https://okonomi3m.therestaurant.jp' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.513253,
+    "latitude": 34.500767,
+    "flg_takeout": 1,
+    "flg_delivery": 1
   }
 ]
