@@ -3825,10 +3825,74 @@
   },
   {
     "name": "あんず ",
-    "description": "タカノバシデリバリー加盟店（#鷹野橋プロジェクト）<br>\n「自宅でも美味しい！！」をお届けします<br>\n<br>\nデリバリーメニュー: <a href='https://www.facebook.com/groups/561156654505100/permalink/571859050101527/' target=_blank>★→→→コチラです</a><br>\nデリバリー代表電話: <a href='tel:082-504-5000'>082-504-5000</a><br>\nデリバリーFAX番号: <a href='tel:082-249-4000'>082-249-4000</a><br>\n受付時間:10:30 〜 18:00（ラストオーダー）<br>\n★ 日曜日のみお休みさせていただきます ★<br>\n配達地域（4月27日時点）: <a href='https://www.facebook.com/groups/561156654505100/permalink/571859050101527/' target=_blank>★→→→コチラです</a><br>",
+    "description": "タカノバシデリバリー加盟店（#鷹野橋プロジェクト）<br>\n「自宅でも美味しい！！」をお届けします<br>\n<br>\nデリバリーメニュー: <a href='https://www.facebook.com/groups/561156654505100/permalink/571859050101527/' target=_blank>★→→→コチラです</a><br>\nデリバリー代表電話: <a href='tel:082-504-5000'>082-504-5000</a><br>\nデリバリーFAX番号: 082-249-4000<br>\n受付時間:10:30 〜 18:00（ラストオーダー）<br>\n★ 日曜日のみお休みさせていただきます ★<br>\n配達地域（4月27日時点）: <a href='https://www.facebook.com/groups/561156654505100/permalink/571859050101527/' target=_blank>★→→→コチラです</a><br>",
     "longitude": 132.453066,
     "latitude": 34.38334,
     "flg_takeout": 0,
     "flg_delivery": 1
+  },
+  {
+    "name": "山椒魚",
+    "description": "住所:広島市中区土橋町4-19　向田ビル1F<br>\n電話: <a href='tel:082-232-9839'>082-232-9839</a><br>\nメニュー説明: <a href='https://www.facebook.com/hiroshimasanshouo/photos/a.291199491363721/873962113087453/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.446473,
+    "latitude": 34.392861,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Koharu亭-こはるてい",
+    "description": "住所:広島市中区中町5-19 小畑ビル1F<br>\n電話: <a href='tel:082-247-5586'>082-247-5586</a><br>\nメニュー説明: <a href='https://www.facebook.com/koharutei2/photos/a.274615849292887/2946273902127055/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.458765,
+    "latitude": 34.390434,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "リュニベル",
+    "description": "住所:広島市中区中町5-19 小畑ビル1F<br>\n電話: <a href='tel:082-247-5586'>082-247-5586</a><br>\nメニュー説明: <a href='https://www.facebook.com/koharutei2/photos/a.274615849292887/2946273902127055/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.465626,
+    "latitude": 34.405972,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Session's Brewery & Fuel store",
+    "description": "住所:広島市中区江波東1-12-39<br>\n電話: <a href='tel:082-533-8622'>082-533-8622</a><br>\nメニュー説明: <a href='https://bit.ly/2y26utk' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.436204,
+    "latitude": 34.371874,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "さかもと屋市兵衛",
+    "description": "住所:広島市中区舟入中町3-36<br>\n電話: <a href='tel:082-231-0833'>082-231-0833</a><br>\nメニュー説明: <a href='https://bit.ly/2W3dY7g' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.443945,
+    "latitude": 34.388328,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "鉄砲町ワーズワース",
+    "description": "住所:広島市中区鉄砲町7-5<br>\n電話: <a href='tel:082-554-0052'>082-554-0052</a><br>\nメニュー説明: <a href='https://bit.ly/35g7WVe' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.465167,
+    "latitude": 34.394849,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Bistro Barbare",
+    "description": "住所:広島市中区薬研堀2-7<br>\n電話: <a href='tel:082-244-2330'>082-554-0052</a><br>\nメニュー説明: <a href='https://www.facebook.com/bistrobarbare/photos/a.2048566512054440/2657605391150546/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.464923,
+    "latitude": 34.391184,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "はせべ",
+    "description": "住所:広島市中区中町5-4 福田ビル2階<br>\n電話: <a href='tel:082-554-0052'>082-554-0052</a><br>\nメニュー説明: <a href='https://bit.ly/2W4QdvJ' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.459106,
+    "latitude": 34.39028,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
