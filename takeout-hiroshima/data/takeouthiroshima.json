@@ -3998,5 +3998,45 @@
     "latitude": 34.382611,
     "flg_takeout": 0,
     "flg_delivery": 1
+  },
+  {
+    "name": "御料理 粋人",
+    "description": "住所:広島市中区八丁堀13-15 八丁堀ビル1階<br>\n電話: <a href='tel:082-228-6005'>082-228-6005</a><br>\nメニュー説明: <a href='https://bit.ly/3bLNAFI' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.463049,
+    "latitude": 34.394827,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Hiroshima Italian AO",
+    "description": "住所:広島市中区堀川町1-14レックスMB2F <br>\n電話: <a href='tel:082-545-6107'>082-545-6107</a><br>\nメニュー説明: <a href='https://www.facebook.com/HIROSHIMAITALIANAO/photos/a.293426067425581/2442229189211914/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.464849,
+    "latitude": 34.392067,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "鶏白湯ラーメン 麺匠 黒春晴",
+    "description": "住所:広島市中区堀川町1-7<br>\n電話: <a href='tel:082-246-1330'>082-246-1330</a><br>\nメニュー説明: <a href='https://www.facebook.com/kuroharuhare/photos/a.569648669895091/1292779644248653/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.46558,
+    "latitude": 34.391846,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "よりみち通り ぬけさく",
+    "description": "住所:広島市中区流川町5-19 加藤ビル2F<br>\n電話: <a href='tel:082-246-2388'>082-246-2388</a><br>\nメニュー説明: <a href='https://www.facebook.com/301020266653758/photos/a.442962019126248/2843229335766159/?type=3&theater' target=_blank>★→→→コチラです</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://bit.ly/2VMtIvx' target=_blank>★→→→飲食店Map</a>",
+    "longitude": 132.463968,
+    "latitude": 34.389983,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "向日葵",
+    "description": "住所:広島市中区舟入本町3-15<br>\n電話: <a href='tel:082-293-4959'>082-293-4959</a><br>\nメニュー説明: <a href='https://www.facebook.com/himawari0822934959/photos/a.456078017848606/2715454875244231/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.443652,
+    "latitude": 34.385622,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
