@@ -4038,5 +4038,61 @@
     "latitude": 34.385622,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "道の駅よがんす白竜　レストランよがんす",
+    "description": "住所:三原市大和町和木652－3<br>\n電話: <a href='tel:084-735-3022'>084-735-3022</a><br>\n営業時間≫10:00～16:00（L.O.）<br>\n　　　　※お渡しは17:00まで<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2117352978409556/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/2W04xWg' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 132.913937,
+    "latitude": 34.506458,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "唐揚げ持ち帰り専門店 カリッジュ三原店",
+    "description": "住所:三原市港町1丁目1ー41<br>\n電話: <a href='tel:084-838-1800'>084-838-1800</a><br>\n営業時間≫11:00～20:30（不定休）<br>\n※事前に電話予約があればスムーズにお渡しできます<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2117352978409556/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/2W04xWg' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.080659,
+    "latitude": 34.400793,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "紅茶専門店 Tea heart",
+    "description": "住所:三原市城町１丁目１－１ JR三原駅構内改札並び<br>\n電話: <a href='tel:084-867-4504'>084-867-4504</a><br>\nお渡し≫8:00〜16:00 　(5/6まで)<br>\n※マイボトルにも対応しております<br>\n※茶葉の販売も行っています<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2117318438413010/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/2W04xWg' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.083235,
+    "latitude": 34.400702,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "焼肉お食事処 山陽路",
+    "description": "住所:三原市下北方1丁目10ー1<br>\n電話: <a href='tel:084-886-6446'>084-886-6446</a><br>\nお渡し≫11:00～14:00/17:00～20:00<br>\n（月曜　休　※祝日の場合は振替）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2117318438413010/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/2W04xWg' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 132.977048,
+    "latitude": 34.404865,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "道の駅 みはら神明の里",
+    "description": "住所:三原市糸崎4丁目21－1<br>\n電話: <a href='tel:084-863-8585'>084-863-8585</a><br>\nお渡し≫9:00～17:00（第3火曜　休）<br>\n※5/1～緊急事態宣言が出されている間<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2117102418434612/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/2W04xWg' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.103884,
+    "latitude": 34.396829,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ダンニャバード みはら",
+    "description": "住所:三原市城町1丁目20ー19<br>\n電話: <a href='tel:084-867-8989'>084-867-8989</a><br>\nお渡し≫11:00～19:00　（ランチ11:00～15:00）<br>\n※GW中は休みなし<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2117102298434624/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/2W04xWg' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.084323,
+    "latitude": 34.399827,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "八剣伝 三原宮浦店",
+    "description": "住所:三原市宮浦6丁目1ー37<br>\n電話: <a href='tel:084-867-5022'>084-867-5022</a><br>\nお渡し≫12:00～20:00<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2117102298434624/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/2W04xWg' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.064302,
+    "latitude": 34.395748,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
