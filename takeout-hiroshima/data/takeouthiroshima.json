@@ -3825,7 +3825,7 @@
   },
   {
     "name": "あんず ",
-    "description": "タカノバシデリバリー加盟店です<br>\n#鷹野橋プロジェクト  <a href='https://www.facebook.com/takanobashiproject' target=_blank>このような取組です！</a><br>\n「自宅でも美味しい！！」をお届けします<br>\n<br>\nデリバリーメニュー: <a href='https://www.facebook.com/takanobashiproject/photos/a.422914224998040/564777914145003/?type=3' target=_blank>★→→→コチラです</a><br>\nデリバリー代表電話: <a href='tel:082-504-5000'>082-504-5000</a><br>\nデリバリーFAX番号: <a href='tel:082-249-4000'>082-249-4000</a><br>\n受付時間:10:30 〜 18:00（ラストオーダー）<br>\n★ 日曜日のみお休みさせていただきます ★<br>\n配達地域（4月27日時点）: <a href='https://www.facebook.com/takanobashiproject/photos/a.422914224998040/564777957478332/?type=3' target=_blank>★→→→コチラです</a><br>",
+    "description": "タカノバシデリバリー加盟店です<br>\n#タカノバシデリバリー<br>\n<br>\n#鷹野橋プロジェクト  <a href='https://www.facebook.com/takanobashiproject' target=_blank>このような取組です！</a><br>\n「自宅でも美味しい！！」をお届けします<br>\n<br>\nデリバリーメニュー: <a href='https://www.facebook.com/takanobashiproject/photos/a.422914224998040/564777914145003/?type=3' target=_blank>★→→→コチラです</a><br>\nデリバリー代表電話: <a href='tel:082-504-5000'>082-504-5000</a><br>\nデリバリーFAX番号: <a href='tel:082-249-4000'>082-249-4000</a><br>\n受付時間:10:30 〜 18:00（ラストオーダー）<br>\n★ 日曜日のみお休みさせていただきます ★<br>\n配達地域（4月27日時点）: <a href='https://www.facebook.com/takanobashiproject/photos/a.422914224998040/564777957478332/?type=3' target=_blank>★→→→コチラです</a><br>",
     "longitude": 132.453066,
     "latitude": 34.38334,
     "flg_takeout": 0,
@@ -3965,6 +3965,38 @@
     "longitude": 133.083139,
     "latitude": 34.397393,
     "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "山辰",
+    "description": "タカノバシデリバリー加盟店です<br>\n#タカノバシデリバリー<br>\n<br>\n#鷹野橋プロジェクト  <a href='https://www.facebook.com/takanobashiproject' target=_blank>このような取組です！</a><br>\n「自宅でも美味しい！！」をお届けします<br>\n<br>\nデリバリーメニュー: <a href='https://www.facebook.com/takanobashiproject/photos/a.422914224998040/564777914145003/?type=3' target=_blank>★→→→コチラです</a><br>\nデリバリー代表電話: <a href='tel:082-504-5000'>082-504-5000</a><br>\nデリバリーFAX番号: <a href='tel:082-249-4000'>082-249-4000</a><br>\n受付時間:10:30 〜 18:00（ラストオーダー）<br>\n★ 日曜日のみお休みさせていただきます ★<br>\n配達地域（4月27日時点）: <a href='https://www.facebook.com/takanobashiproject/photos/a.422914224998040/564777957478332/?type=3' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.45483,
+    "latitude": 34.383196,
+    "flg_takeout": 0,
+    "flg_delivery": 1
+  },
+  {
+    "name": "わかば亭",
+    "description": "タカノバシデリバリー加盟店です<br>\n#タカノバシデリバリー<br>\n<br>\n#鷹野橋プロジェクト  <a href='https://www.facebook.com/takanobashiproject' target=_blank>このような取組です！</a><br>\n「自宅でも美味しい！！」をお届けします<br>\n<br>\nデリバリーメニュー: <a href='https://www.facebook.com/takanobashiproject/photos/a.422914224998040/564777914145003/?type=3' target=_blank>★→→→コチラです</a><br>\nデリバリー代表電話: <a href='tel:082-504-5000'>082-504-5000</a><br>\nデリバリーFAX番号: <a href='tel:082-249-4000'>082-249-4000</a><br>\n受付時間:10:30 〜 18:00（ラストオーダー）<br>\n★12:00 〜 12:30 のみお受けできません。<br>\n★ 日曜日のみお休みさせていただきます ★<br>\n配達地域（4月27日時点）: <a href='https://www.facebook.com/takanobashiproject/photos/a.422914224998040/564777957478332/?type=3' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.451812,
+    "latitude": 34.383888,
+    "flg_takeout": 0,
+    "flg_delivery": 1
+  },
+  {
+    "name": "咲蔵",
+    "description": "タカノバシデリバリー加盟店です<br>\n#タカノバシデリバリー<br>\n<br>\n#鷹野橋プロジェクト  <a href='https://www.facebook.com/takanobashiproject' target=_blank>このような取組です！</a><br>\n「自宅でも美味しい！！」をお届けします<br>\n<br>\nデリバリーメニュー: <a href='https://www.facebook.com/takanobashiproject/photos/a.422914224998040/564777914145003/?type=3' target=_blank>★→→→コチラです</a><br>\nデリバリー代表電話: <a href='tel:082-504-5000'>082-504-5000</a><br>\nデリバリーFAX番号: <a href='tel:082-249-4000'>082-249-4000</a><br>\n受付時間:10:30 〜 18:00（ラストオーダー）<br>\n★ 日曜日のみお休みさせていただきます ★<br>\n配達地域（4月27日時点）: <a href='https://www.facebook.com/takanobashiproject/photos/a.422914224998040/564777957478332/?type=3' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.453063,
+    "latitude": 34.383313,
+    "flg_takeout": 0,
+    "flg_delivery": 1
+  },
+  {
+    "name": "BAR CAPONE",
+    "description": "タカノバシデリバリー加盟店です<br>\n#タカノバシデリバリー<br>\n<br>\n#鷹野橋プロジェクト  <a href='https://www.facebook.com/takanobashiproject' target=_blank>このような取組です！</a><br>\n「自宅でも美味しい！！」をお届けします<br>\n<br>\nデリバリーメニュー: <a href='https://www.facebook.com/takanobashiproject/photos/a.422914224998040/564777914145003/?type=3' target=_blank>★→→→コチラです</a><br>\nデリバリー代表電話: <a href='tel:082-504-5000'>082-504-5000</a><br>\nデリバリーFAX番号: <a href='tel:082-249-4000'>082-249-4000</a><br>\n受付時間:10:30 〜 18:00（ラストオーダー）<br>\n★ 日曜日のみお休みさせていただきます ★<br>\n配達地域（4月27日時点）: <a href='https://www.facebook.com/takanobashiproject/photos/a.422914224998040/564777957478332/?type=3' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.455558,
+    "latitude": 34.382611,
+    "flg_takeout": 0,
     "flg_delivery": 1
   }
 ]
