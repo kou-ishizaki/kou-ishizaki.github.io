@@ -4174,5 +4174,13 @@
     "latitude": 34.39067,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "ラーメン康 本郷店",
+    "description": "住所:三原市南方3－5－16<br>\n電話: <a href='tel:084-886-6758'>084-886-6758</a><br>\n受付≫10:00〜17:00<br>\nお渡し≫ 11:30〜18:00<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2118076928337161/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 132.9685,
+    "latitude": 34.405057,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
