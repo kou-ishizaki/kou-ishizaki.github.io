@@ -4094,5 +4094,45 @@
     "latitude": 34.395748,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "洋食香房 ミクニ",
+    "description": "住所:広島市中区新天地1-26 かすみやビル1階<br>\n電話: <a href='tel:082-246-8606'>082-246-8606</a><br>\nメニュー説明: <a href='https://bit.ly/2xgj1J9' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.463358,
+    "latitude": 34.392151,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "料亭 久里川",
+    "description": "住所:広島市中区千田町3-2-3<br>\n電話: <a href='tel:082-245-2854'>082-245-2854</a><br>\nメニュー説明: <a href='https://bit.ly/2yS6dZY' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.456888,
+    "latitude": 34.377937,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "Ichigo 一期 広島の景色を見渡せる和食料理店",
+    "description": "住所:広島市中区胡町4-24 クリタ胡町ビル南口10F<br>\n電話: <a href='tel:082-248-1115'>082-248-1115</a><br>\nメニュー説明: <a href='https://bit.ly/3eUW3Zf' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.465258,
+    "latitude": 34.392905,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "出道 鉄砲町店",
+    "description": "住所:広島市中区鉄砲町7-13<br>\n電話: <a href='tel:082-836-6814'>082-836-6814</a><br>\nメニュー説明: <a href='https://www.facebook.com/103475454369221/photos/a.237044467678985/242412100475555/?type=3&theater/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.464369,
+    "latitude": 34.395101,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "３TREE",
+    "description": "住所:広島市中区国泰寺町2-4-11<br>\n電話: <a href='tel:082-236-9833'>082-236-9833</a><br>\nメニュー説明: <a href='https://www.facebook.com/3TREEtakanobashi/photos/a.1052314101517576/2956330371115930/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.454738,
+    "latitude": 34.383302,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
