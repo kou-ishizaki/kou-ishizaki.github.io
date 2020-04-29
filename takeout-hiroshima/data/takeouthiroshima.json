@@ -4134,5 +4134,45 @@
     "latitude": 34.383302,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "和食GEN",
+    "description": "住所:広島市中区三川町5-15 山崎ビル 3F<br>\n電話: <a href='tel:082-247-5470'>082-247-5470</a><br>\nメニュー説明: <a href='https://bit.ly/3f1HTpa' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.46132,
+    "latitude": 34.390016,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Liten+（リッテンプラス）",
+    "description": "住所:広島市中区舟入南1-4-26<br>\n電話: <a href='tel:082-275-4900'>082-275-4900</a><br>\nメニュー説明: <a href='https://bit.ly/3f0gG66' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.441087,
+    "latitude": 34.377926,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "志ま根",
+    "description": "住所:広島市中区銀山町10-10 <br>\n電話: <a href='tel:082-240-5588'>082-240-5588</a><br>\nメニュー説明: <a href='https://www.facebook.com/shimane.jfood/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.46678,
+    "latitude": 34.391417,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "白鷹",
+    "description": "住所:広島市中区流川町1-6 <br>\n電話: <a href='tel:082-241-0927'>082-241-0927</a><br>\nメニュー説明: <a href='https://bit.ly/2VOMwLP' target=_blank>★→→→コチラです</a><br>\nGW中のお休み: 5月3日（日曜日）～6日（水曜日）",
+    "longitude": 132.464457,
+    "latitude": 34.391418,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "田心",
+    "description": "住所:広島市中区中町1-17<br>\n電話: <a href='tel:082-236-7117'>082-236-7117</a><br>\nメニュー説明: <a href='https://www.instagram.com/p/B-6DB7LDmK5/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.459541,
+    "latitude": 34.39067,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
