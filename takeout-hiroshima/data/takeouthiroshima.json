@@ -4230,5 +4230,37 @@
     "latitude": 34.397746,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "和房 まん作 ",
+    "description": "住所:広島県尾道市東御所町３−３０<br>\n電話: <a href='tel:084-824-5150'>084-824-5150</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください\n\nホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34002491/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34002491/</a><br>",
+    "longitude": 133.19513,
+    "latitude": 34.405233,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "おのみち桜茶屋",
+    "description": "住所: 広島県 尾道市東御所町３－３<br>\n電話: <a href='tel:084-823-5107'>084-823-5107</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください\n\nSNS: <a href='https://www.facebook.com/sakurachaya.d.j/' target=_blank>Facebook</a><br>",
+    "longitude": 133.194911,
+    "latitude": 34.405271,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "とりかわ権兵衛 尾道店",
+    "description": "住所: 広島県尾道市東御所町６－２<br>\n電話: <a href='tel:084-829-4009'>084-829-4009</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください\n\nホームページ: <a href='https://www.hotpepper.jp/strJ000742130/' target=_blank>https://www.hotpepper.jp/strJ000742130/</a><br>",
+    "longitude": 133.194523,
+    "latitude": 34.404611,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "福福饅頭",
+    "description": "住所: 広島県 尾道市 東御所町 3-5<br>\n電話: <a href='tel:084-822-3830'>084-822-3830</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください\n\nホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34014454/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34014454/</a><br>",
+    "longitude": 133.195068,
+    "latitude": 34.405415,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
