@@ -4310,5 +4310,61 @@
     "latitude": 34.394616,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "わいち。",
+    "description": "住所:広島市中区流川町2-16<br>\n電話: <a href='tel:082-249-8177'>082-249-8177</a><br>\nメニュー説明: <a href='https://bit.ly/2ych2Gj' target=_blank>★→→→コチラです</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://bit.ly/2VMtIvx' target=_blank>★→→→飲食店Map</a>",
+    "longitude": 132.463815,
+    "latitude": 34.391577,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "鉄板焼き どんとこ 三川町店",
+    "description": "住所:広島市中区三川町6-3-101<br>\n電話: <a href='tel:082-249-5981'>082-249-5981</a><br>\nメニュー説明: <a href='https://www.facebook.com/groups/561156654505100/permalink/563884800898952/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.461423,
+    "latitude": 34.389402,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "日本料理つるま",
+    "description": "住所:広島市中区大手町2-11-25<br>\n電話: <a href='tel:082-246-3117'>082-246-3117</a><br>\nメニュー説明: <a href='https://bit.ly/2YnxAWv' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.455096,
+    "latitude": 34.391058,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "アカプルコ",
+    "description": "住所:広島市中区舟入町11-14 サニーハイム1階<br>\n電話: <a href='tel:082-554-5822'>082-554-5822</a><br>\nメニュー説明: <a href='https://www.facebook.com/groups/561156654505100/permalink/565641287389970/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.443226,
+    "latitude": 34.389217,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "cafe snooze（カフェ　スヌーズ）",
+    "description": "住所:広島市中区胡町3-24 ムシカビル5F<br>\n電話: <a href='tel:082-249-9550'>082-249-9550</a><br>\nメニュー説明: <a href='https://bit.ly/2YiVSB1' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.465247,
+    "latitude": 34.392724,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Au Bon Coin ～広島ワイン食堂～",
+    "description": "住所:広島市中区本川町2-2-17-101<br>\n電話: <a href='tel:082-503-5709'>082-503-5709</a><br>\nメニュー説明: <a href='https://bit.ly/2yRcC7L' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.449944,
+    "latitude": 34.398663,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "RAKU BEER（ラクビア）",
+    "description": "住所:広島市中区三川町3-3　志津ビル1F <br>\n電話: <a href='tel:082-247-6768'>082-247-6768</a><br>\nメニュー説明: <a href='https://bit.ly/2Sl8mEh' target=_blank>★→→→コチラです</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://bit.ly/2VMtIvx' target=_blank>★→→→飲食店Map</a>",
+    "longitude": 132.461889,
+    "latitude": 34.390819,
+    "flg_takeout": 1,
+    "flg_delivery": 1
   }
 ]
