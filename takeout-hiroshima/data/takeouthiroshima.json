@@ -4182,5 +4182,53 @@
     "latitude": 34.405057,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "南インドカレー食堂 カレーの木",
+    "description": "住所:広島市中区中町1-5 REGO 2F<br>\n電話: <a href='tel:082-236-7117'>082-236-7117</a><br>\nメニュー説明: <a href='https://bit.ly/35jqROE' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.460774,
+    "latitude": 34.390409,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "イタリア料理ソッジョルノ",
+    "description": "住所:広島市中区中区小町1-20 今井広島ビル1F<br>\n電話: <a href='tel:082-545-8060'>082-545-8060</a><br>\nメニュー説明: <a href='https://www.instagram.com/p/B-6rdI3DHsL/?igshid=jk4zncmflwaf&fbclid=IwAR3EJWRK2L926rpyChl6-k-0TFzG4kSLTs8yH-gyW6kEKnA8A-RuXFwlGao' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.45908,
+    "latitude": 34.388308,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "そらきゅう",
+    "description": "住所:広島市中区大手町5-8-24<br>\n電話: <a href='tel:082-569-5313'>082-569-5313</a><br>\nメニュー説明: <a href='https://www.instagram.com/p/B-9kUI2jHqA/' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.452358,
+    "latitude": 34.383448,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "とんかつ料理 さち",
+    "description": "住所:広島市中区堺町2-4-27 サンピア白樺1F<br>\n電話: <a href='tel:082-232-3022'>082-232-3022</a><br>\nメニュー説明: <a href='https://www.facebook.com/tonkatusachi/photos/a.551455324912146/2990854620972192/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.444701,
+    "latitude": 34.394963,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "肉割烹 幹 KAN.",
+    "description": "住所:広島市中区堀川町1-19 オカモトビル4F<br>\n電話: <a href='tel:082-245-9497'>082-245-9497</a><br>\nメニュー説明: <a href='https://www.facebook.com/1517675181607643/photos/a.1602751949766632/4017351038306699/?type=3&theater' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.464503,
+    "latitude": 34.392106,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "和房 おかあちゃん",
+    "description": "住所:三原市宮浦3丁目18ー8<br>\n電話: <a href='tel:084-867-8639'>084-867-8639</a><br>\n受付≫16:00～20:00<br>\n※事前に電話予約があればスムーズにお渡しできます<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2118255001652687/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.069042,
+    "latitude": 34.397746,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
