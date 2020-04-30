@@ -4262,5 +4262,53 @@
     "latitude": 34.405415,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "下町の居酒屋 六文銭",
+    "description": "住所:三原市城町2丁目2－21 浮城ビル1階<br>\n電話: <a href='tel:084-863-2591'>084-863-2591</a><br>\n受付≫15:00～17:00<br>\nお渡し≫20:00まで(日曜　休)<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2119597971518390/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.085897,
+    "latitude": 34.400002,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Minatomachi BAL FRANKY",
+    "description": "住所:三原市港町1丁目6ー16 マルヨシビル西館1階<br>\n電話: <a href='tel:084-863-0207'>084-863-0207</a><br>\n営業時間≫17:00～20:00（日曜　休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2119597948185059/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.080013,
+    "latitude": 34.399121,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Pizzeria YOGANSU",
+    "description": "住所:三原市本町1丁目7－29<br>\n電話: <a href='tel:084-829-9333'>084-829-9333</a><br>\n受付≫11:30～18:30<br>\nお渡し≫～19:00 （不定休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2119524398192414/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.078352,
+    "latitude": 34.401691,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "お食事処　江戸",
+    "description": "住所:三原市宮沖4丁目8ー14<br>\n電話: <a href='tel:084-863-0791'>084-863-0791</a><br>\n営業時間≫10:30～14:00（金曜10:30～13:00）<br>\n（GW中は5/4　休）<br>\n※土日祝は配達可（2000円以上購入時）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2119524434859077/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.073784,
+    "latitude": 34.392619,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "みかど寿司",
+    "description": "住所:三原市久井町江木81ー16<br>\n電話: <a href='tel:084-732-6063'>084-732-6063</a><br>\n営業時間≫12：00～18：00<br>\n※久井町内のみ配達可能<br>\n※詳しいエリアについてはお問い合せ下さい<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2119497918195062/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.035683,
+    "latitude": 34.541047,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "マミーデリカ",
+    "description": "住所:三原市皆実2丁目1ー1<br>\n電話: <a href='tel:084-867-5550'>084-867-5550</a><br>\n営業時間≫7:00～18:00（日曜　休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2119497931528394/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.065439,
+    "latitude": 34.394616,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
