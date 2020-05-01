@@ -4406,5 +4406,21 @@
     "latitude": 34.395375,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "広島ひなた",
+    "description": "住所:広島県広島市中区新天地5-13 新天地プラザ5階<br>\n電話: <a href='tel:082-247-2667'>082-247-2667</a><br>\n広島市中区袋町エリアを中心に1km圏内であればデリバリー対応も致します！簡単なお使いもOK!!<br>\nテイクアウトメニュー: <a href='https://www.instagram.com/p/B_ZkUB5DKuw/?utm_source=ig_web_copy_link' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3401/A340101/34019040/' target=_blank>https://tabelog.com/hiroshima/A3401/A340101/34019040/</a><br>\nSNS: <a href='https://www.instagram.com/hinata_hiroshima/' target=_blank>instragram</a><br>",
+    "longitude": 132.461911,
+    "latitude": 34.391157,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "魚地心",
+    "description": "住所:広島県広島市中区堀川町5-14 荘保ビル2F<br>\n電話: <a href='tel:082-245-1501'>082-245-1501</a><br>\nお弁当類からおつまみまで取り揃えてます！中区新天地から1km圏内であればデリバリーサービスも対応しております！<br>\nテイクアウトメニュー: <a href='https://www.instagram.com/p/B_M66nnje0l/?utm_source=ig_web_copy_link' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3401/A340101/34021055/' target=_blank>https://tabelog.com/hiroshima/A3401/A340101/34021055/</a><br>\nSNS: <a href='https://www.instagram.com/uochishin_hiroshima/' target=_blank>instragram</a><br>",
+    "longitude": 132.462709,
+    "latitude": 34.392789,
+    "flg_takeout": 1,
+    "flg_delivery": 1
   }
 ]
