@@ -4366,5 +4366,45 @@
     "latitude": 34.390819,
     "flg_takeout": 1,
     "flg_delivery": 1
+  },
+  {
+    "name": "GOLDEN GARDEN（ゴールデンガーデン）",
+    "description": "住所:広島市中区新天地2-12 濶久ビル（旧西豊ビル）1＆2F<br>\n電話: <a href='tel:082-248-2657'>082-248-2657</a><br>\nメニュー説明: <a href='https://bit.ly/35mWg2I' target=_blank>★→→→コチラです</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://bit.ly/2VMtIvx' target=_blank>★→→→飲食店Map</a>",
+    "longitude": 132.462389,
+    "latitude": 34.391478,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "和ダイニング&bar 遊心",
+    "description": "住所:広島市中区銀山町12-22松家ビル2F<br>\n電話: <a href='tel:082-207-0803'>082-207-0803</a><br>\nメニュー説明: <a href='http://www.hiroshima-yuushin.com/shared/img/index/takeout.jpg' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='http://www.hiroshima-yuushin.com' target=_blank>http://www.hiroshima-yuushin.com</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://bit.ly/2VMtIvx' target=_blank>★→→→飲食店Map</a>",
+    "longitude": 132.466378,
+    "latitude": 34.391361,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "かど乃おすぎ",
+    "description": "住所:広島市中区薬研堀7-10 石本ビル1F<br>\n電話: <a href='tel:082-247-2571'>082-247-2571</a><br>\nメニュー説明: <a href='https://r.goope.jp/kadono-osugi/info/3243411' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='https://r.goope.jp/kadono-osugi' target=_blank>https://r.goope.jp/kadono-osugi</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://bit.ly/2VMtIvx' target=_blank>★→→→飲食店Map</a>",
+    "longitude": 132.464346,
+    "latitude": 34.390195,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "広島 わなり",
+    "description": "住所:広島市中区大手町2-5-5<br>\n電話: <a href='tel:082-246-0922'>082-246-0922</a><br>\nメニュー説明: <a href='https://bit.ly/3d1pZkw' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.455096,
+    "latitude": 34.39234,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "創作料理 なづき",
+    "description": "住所:広島市中区幟町6-21鈴木ビル1F<br>\n電話: <a href='tel:082-224-3733'>082-224-3733</a><br>\nメニュー説明: <a href='https://www.facebook.com/permalink.php?story_fbid=526005901397816&id=100019652327895' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.46584,
+    "latitude": 34.395375,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
