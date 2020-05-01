@@ -4422,5 +4422,45 @@
     "latitude": 34.392789,
     "flg_takeout": 1,
     "flg_delivery": 1
+  },
+  {
+    "name": "寿司工房 喜多扇",
+    "description": "住所:三原市城町1丁目20ー21 みどりビル1階<br>\n電話: <a href='tel:084-864-6422'>084-864-6422</a><br>\n営業時間≫10:00～19:00（日曜　休）<br>\n※宅配無料<br>\n※宅配エリア、時間はお問い合わせください<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2120655334745987/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.084384,
+    "latitude": 34.399932,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "お好み焼き　古都",
+    "description": "住所:三原市円一町3丁目13ー7<br>\n電話: <a href='tel:084-862-6454'>084-862-6454</a><br>\n営業時間≫11:00～19:00<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2120655324745988/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.075739,
+    "latitude": 34.392952,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "くりきんとん亭",
+    "description": "住所:三原市本郷南3丁目29－17<br>\n電話: <a href='tel:084-886-2456'>084-886-2456</a><br>\n営業時間≫9:00～20:00<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2120655344745986/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 132.992388,
+    "latitude": 34.406523,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "釜めし 天吉",
+    "description": "住所:三原市南方3丁目4－12<br>\n電話: <a href='tel:084-886-2477'>084-886-2477</a><br>\n営業時間≫11:00～13:00（月・火曜　休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2120526091425578/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 132.969788,
+    "latitude": 34.405165,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "25STA（ニコスタ）",
+    "description": "住所:三原市宮浦3丁目34ー28ー2<br>\n電話: <a href='tel:084-829-9846'>084-829-9846</a><br>\n営業時間≫10:00～14:00/17:00～21:00<br>\n（木曜　休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2120526101425577/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.065479,
+    "latitude": 34.397505,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
