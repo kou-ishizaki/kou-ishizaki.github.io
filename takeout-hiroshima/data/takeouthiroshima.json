@@ -4462,5 +4462,53 @@
     "latitude": 34.397505,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "ル・ジャルダン・グルマン",
+    "description": "住所:広島市西区古江東町11-35<br>\n電話: <a href='tel:082-274-4010'>082-274-4010</a><br>\nメニュー説明: <a href='https://bit.ly/2SrxJEF' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.facebook.com/jardin1990/' target=_blank>Facebook</a><br>",
+    "longitude": 132.409456,
+    "latitude": 34.388864,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "博多くろがね広島本店",
+    "description": "住所:広島県広島市南区猿猴橋町2-3 1階・地下１階<br>\n電話: <a href='tel:082-568-0404'>082-568-0404</a><br>\nメニュー説明: <a href='https://buaiso-minami.owst.jp/blogs/2314387' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='https://buaiso-minami.owst.jp' target=_blank>https://buaiso-minami.owst.jp</a><br>",
+    "longitude": 132.488854,
+    "latitude": 34.379471,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "馬一 入川食堂",
+    "description": "住所:広島市佐伯区五日市2-6-3<br>\n電話: <a href='tel:082-921-0355'>082-921-0355</a><br>\nメニュー説明: <a href='https://www.instagram.com/p/B_R8_PIDd_F/?utm_source=ig_web_copy_link' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.instagram.com/sinnichi.irikawa/' target=_blank>オーナーinstagram</a><br>",
+    "longitude": 132.363968,
+    "latitude": 34.366122,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "旬彩 無双庵",
+    "description": "住所:呉市西中央2-4-1 呉共済病院イーストタワー1階<br>\n電話: <a href='tel:0823-24-8341'>0823-24-8341</a><br>\nメニュー説明: <a href='https://bit.ly/3bVjG1H' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.facebook.com/shunsaimusoan' target=_blank>Facebook</a><br>",
+    "longitude": 132.559115,
+    "latitude": 34.248036,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "蒼ぁぉ-旧Dining 蒼",
+    "description": "住所:広島市中区鉄砲町7-27 第五井原ビル1F<br>\n電話: <a href='tel:082-512-0588'>082-512-0588</a><br>\nメニュー説明: <a href='https://bit.ly/2WmdVnr' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.facebook.com/蒼ぁぉ-旧Dining-蒼-425586080890279/' target=_blank>Facebook</a><br>",
+    "longitude": 132.464913,
+    "latitude": 34.395182,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "瀬戸内彩食いづみ",
+    "description": "住所:広島市中区薬研堀2-2<br>\n電話: <a href='tel:082-249-9191'>082-249-9191</a><br>\nメニュー説明: <a href='https://bit.ly/2KXjK57' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.facebook.com/h.s.s.izumi' target=_blank>Facebook</a><br>",
+    "longitude": 132.465352,
+    "latitude": 34.39117,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
