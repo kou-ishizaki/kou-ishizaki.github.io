@@ -4510,5 +4510,53 @@
     "latitude": 34.39117,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "イタリア料理 Speranza（スペランツァ）",
+    "description": "住所:広島市中区小網町6-23<br>\n電話: <a href='tel:082-232-3997'>082-232-3997</a><br>\nメニュー説明: <a href='https://bit.ly/2YtCO3c' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.facebook.com/speranza.hiroshima/' target=_blank>Facebook</a><br>",
+    "longitude": 132.444075,
+    "latitude": 34.39326,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "瀬戸内海居酒屋こうせい",
+    "description": "住所:広島市中区幟町15-2<br>\n電話: <a href='tel:082-962-9955'>082-962-9955</a><br>\nメニュー説明: <a href='https://www.hotpepper.jp/strJ001210362/takeout/' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='https://setouchi-kousei.owst.jp' target=_blank>https://setouchi-kousei.owst.jp</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://www.hiroshima-delivery.com' target=_blank>★→→→飲食店のご紹介</a>",
+    "longitude": 132.467764,
+    "latitude": 34.393614,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "NAKADO",
+    "description": "住所:広島市中区堀川町4-18 胡子GRIT 5F<br>\n電話: <a href='tel:080-5919-8148'>080-5919-8148</a><br>\nホームページ: <a href='https://nakado-s.com' target=_blank>https://nakado-s.com</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://www.hiroshima-delivery.com' target=_blank>★→→→飲食店のご紹介</a>",
+    "longitude": 132.463564,
+    "latitude": 34.392706,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "Restaurant be",
+    "description": "住所:広島市中区三川町6-15並川ビル2F<br>\n電話: <a href='tel:082-247-1260'>082-247-1260</a><br>\nメニュー説明: <a href='https://bit.ly/3aVjn5F' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.facebook.com/restaurant.be/' target=_blank>Facebook</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://www.hiroshima-delivery.com' target=_blank>★→→→飲食店のご紹介</a>",
+    "longitude": 132.461004,
+    "latitude": 34.389712,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "肉バルORENCHI",
+    "description": "住所:広島市中区薬研堀1-14 西村ビル2F<br>\n電話: <a href='tel:082-247-7364'>082-247-7364</a><br>\nメニュー説明: <a href='https://www.hotpepper.jp/strJ001108914/takeout/' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='https://www.hotpepper.jp/strJ001108914/' target=_blank>https://www.hotpepper.jp/strJ001108914/</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://www.hiroshima-delivery.com' target=_blank>★→→→飲食店のご紹介</a>",
+    "longitude": 132.465578,
+    "latitude": 34.391119,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "並木ワーズワース",
+    "description": "住所:広島市中区三川町3-12 並木カールビル4F<br>\n電話: <a href='tel:082-541-7770'>082-541-7770</a><br>\nメニュー説明: <a href='https://www.instagram.com/p/B_eAUvDj46p/?utm_source=ig_web_copy_link' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.instagram.com/wordsworth_saka.bar/' target=_blank>instagram</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://www.hiroshima-delivery.com' target=_blank>★→→→飲食店のご紹介</a>",
+    "longitude": 132.461314,
+    "latitude": 34.390758,
+    "flg_takeout": 1,
+    "flg_delivery": 1
   }
 ]
