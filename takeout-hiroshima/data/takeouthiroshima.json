@@ -4233,7 +4233,7 @@
   },
   {
     "name": "和房 まん作 ",
-    "description": "住所:広島県尾道市東御所町３−３０<br>\n電話: <a href='tel:084-824-5150'>084-824-5150</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください\n\nホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34002491/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34002491/</a><br>",
+    "description": "住所:広島県尾道市東御所町３−３０<br>\n電話: <a href='tel:084-824-5150'>084-824-5150</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください<br>\n\nホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34002491/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34002491/</a><br>",
     "longitude": 133.19513,
     "latitude": 34.405233,
     "flg_takeout": 1,
@@ -4241,7 +4241,7 @@
   },
   {
     "name": "おのみち桜茶屋",
-    "description": "住所: 広島県 尾道市東御所町３－３<br>\n電話: <a href='tel:084-823-5107'>084-823-5107</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください\n\nSNS: <a href='https://www.facebook.com/sakurachaya.d.j/' target=_blank>Facebook</a><br>",
+    "description": "住所: 広島県 尾道市東御所町３－３<br>\n電話: <a href='tel:084-823-5107'>084-823-5107</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください<br>\n\nSNS: <a href='https://www.facebook.com/sakurachaya.d.j/' target=_blank>Facebook</a><br>",
     "longitude": 133.194911,
     "latitude": 34.405271,
     "flg_takeout": 1,
@@ -4249,7 +4249,7 @@
   },
   {
     "name": "とりかわ権兵衛 尾道店",
-    "description": "住所: 広島県尾道市東御所町６－２<br>\n電話: <a href='tel:084-829-4009'>084-829-4009</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください\n\nホームページ: <a href='https://www.hotpepper.jp/strJ000742130/' target=_blank>https://www.hotpepper.jp/strJ000742130/</a><br>",
+    "description": "住所: 広島県尾道市東御所町６－２<br>\n電話: <a href='tel:084-829-4009'>084-829-4009</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください<br>\n\nホームページ: <a href='https://www.hotpepper.jp/strJ000742130/' target=_blank>https://www.hotpepper.jp/strJ000742130/</a><br>",
     "longitude": 133.194523,
     "latitude": 34.404611,
     "flg_takeout": 1,
@@ -4257,7 +4257,7 @@
   },
   {
     "name": "福福饅頭",
-    "description": "住所: 広島県 尾道市 東御所町 3-5<br>\n電話: <a href='tel:084-822-3830'>084-822-3830</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください\n\nホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34014454/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34014454/</a><br>",
+    "description": "住所: 広島県 尾道市 東御所町 3-5<br>\n電話: <a href='tel:084-822-3830'>084-822-3830</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください<br>\n\nホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34014454/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34014454/</a><br>",
     "longitude": 133.195068,
     "latitude": 34.405415,
     "flg_takeout": 1,
@@ -4604,6 +4604,70 @@
     "description": "住所:広島市中区大手町5-10-13<br>\n電話: <a href='tel:082-542-0334'>082-542-0334</a><br>\nメニュー説明: <a href='https://www.facebook.com/photo.php?fbid=832871387198263&set=a.269723653513042&type=3' target=_blank>★→→→コチラです</a><br>",
     "longitude": 132.451028,
     "latitude": 34.383752,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "イルポンティーレ・エノガストロノミア",
+    "description": "住所: 広島県尾道市土堂1-11-15<br>\n電話: <a href='tel:0848-24-1188'>0848-24-1188</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください<br>\nメニュー紹介: <a href='https://ameblo.jp/ilpontile/entry-12591572998.html' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='https://ilpontile.jp' target=_blank>https://ilpontile.jp</a><br>",
+    "longitude": 133.196512,
+    "latitude": 34.405609,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "創作日本料理 旬彩",
+    "description": "住所: 広島県尾道市土堂1-17-11<br>\n電話: <a href='tel:0848-24-1111'>0848-24-1111</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください<br>\n\nホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34004988/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34004988/</a><br>",
+    "longitude": 133.200379,
+    "latitude": 34.407108,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ジョンバーガー＆カフェ",
+    "description": "住所: 広島県尾道市東御所町3-25<br>\n電話: <a href='tel:084-825-2688'>084-825-2688</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください<br>\n\nホームページ: <a href='https://www.john-burger.com' target=_blank>https://www.john-burger.com</a><br>",
+    "longitude": 133.195635,
+    "latitude": 34.405331,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "尾道おこのみ焼き ぽっぽ屋",
+    "description": "住所: 広島県尾道市土堂2-8-24<br>\n電話: <a href='tel:084-822-3153'>084-822-3153</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください<br>\n\nホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34018470/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34018470/</a><br>",
+    "longitude": 133.202163,
+    "latitude": 34.40778,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "尾道ラーメン専門店 丸ぼし",
+    "description": "住所: 広島県尾道市土堂2-8-24<br>\n電話: <a href='tel:084-824-5454'>084-824-5454</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください<br>\n\nホームページ: <a href='http://onomichiramen-maruboshi.jp' target=_blank>http://onomichiramen-maruboshi.jp</a><br>",
+    "longitude": 133.201701,
+    "latitude": 34.407669,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "鉄皿ギョーザ　ちょい",
+    "description": "住所: 広島県尾道市久保2丁目25-14<br>\n電話: <a href='tel:084-838-2119'>084-838-2119</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください<br>\n\nホームページ: <a href='https://www.facebook.com/tetusaragyozachoi/' target=_blank>https://www.facebook.com/tetusaragyozachoi/</a><br>",
+    "longitude": 133.206661,
+    "latitude": 34.410037,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "西山亭",
+    "description": "住所: 尾道市土堂２丁目９－２２<br>\n電話: <a href='tel:084-824-5844'>084-824-5844</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください<br>\n\nホームページ: <a href='http://www.nishiyama-tei.net' target=_blank>http://www.nishiyama-tei.net</a><br>",
+    "longitude": 133.20301,
+    "latitude": 34.408635,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ゆらぎカフェ",
+    "description": "住所: 広島県尾道市土堂2丁目6-22<br>\n電話: <a href='tel:084-823-8059'>084-823-8059</a><br>\n＊テイクアウト等の利用についてはお店へ事前確認ください<br>\n\nホームページ: <a href='https://tabelog.com/hiroshima/A3406/A340302/34010943/' target=_blank>https://tabelog.com/hiroshima/A3406/A340302/34010943/</a><br>",
+    "longitude": 133.201215,
+    "latitude": 34.407722,
     "flg_takeout": 1,
     "flg_delivery": 0
   }
