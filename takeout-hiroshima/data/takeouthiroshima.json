@@ -4558,5 +4558,53 @@
     "latitude": 34.390758,
     "flg_takeout": 1,
     "flg_delivery": 1
+  },
+  {
+    "name": "広島酒呑童子",
+    "description": "住所:広島市中区大手町1-4-25<br>\n電話: <a href='tel:082-247-9300'>082-247-9300</a><br>\nメニュー説明: <a href='https://bit.ly/2Wq57N1' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.facebook.com/広島酒呑童子ひろしましゅてんどうじ-242599352419585/' target=_blank>Facebook</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://www.hiroshima-delivery.com' target=_blank>★→→→飲食店のご紹介</a>",
+    "longitude": 132.455243,
+    "latitude": 34.395235,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "鮨 稲穂",
+    "description": "住所:広島市中区銀山町11-11スコッチ館銀山3-A <br>\n電話: <a href='tel:082-545-5458'>082-545-5458</a><br>\nメニュー説明: <a href='https://bit.ly/2WrqDkA' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.facebook.com/sushi.inaho/' target=_blank>Facebook</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://www.hiroshima-delivery.com' target=_blank>★→→→飲食店のご紹介</a>",
+    "longitude": 132.46609,
+    "latitude": 34.3916,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "へぎ蕎麦あい月",
+    "description": "住所:広島市中区流川町7-3 1階奥（ゴールド観光ビル）<br>\n電話: <a href='tel:080-3251-1221'>080-3251-1221</a><br>\nSNS: <a href='https://www.facebook.com/miiko.kunieda' target=_blank>Facebook</a><br>\n☆広島飲食救援デリバリー 参加店:<a href='https://www.hiroshima-delivery.com' target=_blank>★→→→飲食店のご紹介</a>",
+    "longitude": 132.463378,
+    "latitude": 34.389519,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "菜づけ百屋",
+    "description": "住所:広島市中区中町5-14<br>\n電話: <a href='tel:082-241-1103'>082-241-1103</a><br>\nメニュー説明: <a href='https://bit.ly/2W2tgdT' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.facebook.com/nadukeoya/' target=_blank>Facebook</a><br>",
+    "longitude": 132.458724,
+    "latitude": 34.390168,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "旬鮮美酒ひとよ",
+    "description": "住所:広島市中区銀山町13-12西本ビル1F<br>\n電話: <a href='tel:082-241-2822'>082-241-2822</a><br>\nSNS: <a href='https://www.facebook.com/旬鮮美酒ひとよ-1586369781606081/' target=_blank>Facebook</a><br>",
+    "longitude": 132.466525,
+    "latitude": 34.390856,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Seji",
+    "description": "住所:広島市中区大手町5-10-13<br>\n電話: <a href='tel:082-542-0334'>082-542-0334</a><br>\nメニュー説明: <a href='https://www.facebook.com/photo.php?fbid=832871387198263&set=a.269723653513042&type=3' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.451028,
+    "latitude": 34.383752,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
