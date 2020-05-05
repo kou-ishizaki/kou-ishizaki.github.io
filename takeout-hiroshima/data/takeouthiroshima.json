@@ -4670,5 +4670,29 @@
     "latitude": 34.407722,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "こぱん亭",
+    "description": "住所:広島市中区大手町5-8-13 ECOHビル1F<br>\n電話: <a href='tel:082-246-7724'>082-246-7724</a><br>\nメニュー説明: <a href='https://bit.ly/2YyGsc3' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.452502,
+    "latitude": 34.382622,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "広島ええじゃん料理 四季や 袋町店",
+    "description": "住所:広島市中区袋町7-26 袋町水岡ビル2階3階<br>\n電話: <a href='tel:082-249-1120'>082-249-1120</a><br>\nメニュー説明: <a href='https://4kiya.com/togo.html' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.460382,
+    "latitude": 34.391768,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "焼き鳥御用",
+    "description": "住所:広島県広島市中区堀川町５−１５<br>\n電話: <a href='tel:082-247-8550'>082-247-8550</a><br>\nメニュー説明: <a href='https://bit.ly/2A0ubmr' target=_blank>★→→→コチラです</a><br>",
+    "longitude": 132.462668,
+    "latitude": 34.392895,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
