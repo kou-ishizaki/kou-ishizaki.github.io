@@ -4694,5 +4694,61 @@
     "latitude": 34.392895,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "雪花菜（おから）",
+    "description": "住所:三原市西町1丁目8ー59<br>\n電話: <a href='tel:080-5753-8931'>080-5753-8931</a><br>\nテイクアウト≫9:00～19:00<br>\n宅配≫9:00～12:00/16:00～19:00<br>\n（日・第4土曜　休）<br>\n（ＧＷ中は5/3～5/5　休）<br>\n※宅配エリアについてはお問い合わせください<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2124995474311973/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.073258,
+    "latitude": 34.402216,
+    "flg_takeout": 1,
+    "flg_delivery": 1
+  },
+  {
+    "name": "やまとのおおばんやき",
+    "description": "住所:三原市城町1丁目21ー16<br>\n電話: <a href='tel:084-836-5198'>084-836-5198</a><br>\n営業時間≫10:00～18:00（水曜　休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2124995440978643/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.085075,
+    "latitude": 34.400188,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "プレジール",
+    "description": "住所:広島県広島市中区袋町4-1 2F<br>\n電話: <a href='tel:082-248-8866'>082-248-8866</a><br>\nメニュー説明: <a href='http://coaki.jp/hiroshima/2020/04/post-20151487.html' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='http://www.restaurant-plaisir.net' target=_blank>http://www.restaurant-plaisir.net</a><br>",
+    "longitude": 132.457781,
+    "latitude": 34.392449,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Ｋｏｂａ",
+    "description": "住所:広島県広島市中区袋町4-1 2F<br>\n電話: <a href='tel:082-249-6556'>082-249-6556</a><br>\nホームページ: <a href='https://tabelog.com/hiroshima/A3401/A340115/34006439/' target=_blank>https://tabelog.com/hiroshima/A3401/A340115/34006439/</a><br>",
+    "longitude": 132.460755,
+    "latitude": 34.390356,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "そらや",
+    "description": "住所:広島市中区八丁堀4-7<br>\n5/3〜〜5/7までお休み<br>\n電話: <a href='tel:082-224-6235'>082-224-6235</a><br>\nメニュー説明: <a href='https://www.facebook.com/standingbarsoraya/photos/a.262888840488286/2650779955032484/?type=3' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.facebook.com/standingbarsoraya' target=_blank>Facebook</a><br>",
+    "longitude": 132.464188,
+    "latitude": 34.396867,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "薪焼きステーキAjikura",
+    "description": "住所:広島市中区上八丁堀4-1 アーバンビューグランドタワー2F<br>\n電話: <a href='tel:082-836-5723'>082-836-5723</a><br>\nメニュー説明: <a href='https://bit.ly/2WK47DZ' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.facebook.com/MakiyakiAjikura/' target=_blank>Facebook</a><br>",
+    "longitude": 132.464925,
+    "latitude": 34.399357,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "6ème",
+    "description": "住所:広島市中区大手町3-13-18<br>\n電話: <a href='tel:082-207-1600'>082-207-1600</a><br>\nメニュー説明: <a href='広島市中区大手町3-13-18' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.facebook.com/6eme.hiroshima' target=_blank>Facebook</a><br>",
+    "longitude": 132.452947,
+    "latitude": 34.386626,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
