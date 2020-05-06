@@ -4750,5 +4750,45 @@
     "latitude": 34.386626,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "Restaurant＆Bar 独",
+    "description": "住所:広島市中区薬研堀2-11 セントラルゲート6ブロック<br>\n電話1: <a href='tel:090-8609-8120'>090-8609-8120</a><br>\n電話2: <a href='tel:082-243-7576'>082-243-7576</a><br>\nメニュー説明: <a href='https://bit.ly/2SGyyJR' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.facebook.com/RestaurantBar-独-156149014457668/' target=_blank>Facebook</a><br>",
+    "longitude": 132.464822,
+    "latitude": 34.3912,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "こきゅう 別邸",
+    "description": "住所:広島市中区立町10-11<br>\n電話: <a href='tel:082-243-3080'>082-243-3080</a><br>\nメニュー説明: <a href='https://www.facebook.com/groups/561156654505100/permalink/571240580163374/' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='https://kokyubettei.owst.jp' target=_blank>https://kokyubettei.owst.jp</a><br>",
+    "longitude": 132.461889,
+    "latitude": 34.393716,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ワイン食堂莉庵",
+    "description": "住所:広島市中区新天地1-24 2F 壱番館<br>\n電話: <a href='tel:082-246-8707'>082-246-8707</a><br>\nメニュー説明: <a href='http://www.winelien.com/fcblog/2020/05/01/テイクアウトやってます！/' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='http://www.winelien.com' target=_blank>http://www.winelien.com</a><br>\nSNS: <a href='https://www.facebook.com/ワイン食堂莉庵-194215197335832/' target=_blank>Facebook</a><br>",
+    "longitude": 132.463234,
+    "latitude": 34.392186,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ポルコ",
+    "description": "住所:広島市中区鉄砲町8-24<br>\n電話: <a href='tel:082-225-7580'>082-225-7580</a><br>\nメニュー説明: <a href='https://bit.ly/2zcBmaH' target=_blank>★→→→コチラです</a><br>\nホームページ: <a href='https://wineporco.exblog.jp' target=_blank>https://wineporco.exblog.jp</a><br>\nSNS: <a href='https://www.facebook.com/ポルコ-167926760020903' target=_blank>Facebook</a><br>",
+    "longitude": 132.464313,
+    "latitude": 34.39493,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "おこのみ魂悟空",
+    "description": "住所:広島市中区八丁堀8-7<br>\n電話: <a href='tel:082-224-5901'>082-224-5901</a><br>\nメニュー説明: <a href='https://bit.ly/2L3pTwR' target=_blank>★→→→コチラです</a><br>\nSNS: <a href='https://www.facebook.com/goku0622' target=_blank>Facebook</a><br>",
+    "longitude": 132.461836,
+    "latitude": 34.395872,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
