@@ -4790,5 +4790,69 @@
     "latitude": 34.395872,
     "flg_takeout": 1,
     "flg_delivery": 0
+  },
+  {
+    "name": "お好み焼しず",
+    "description": "住所:三原市皆実1丁目23－26<br>\n電話: <a href='tel:084-863-8686'>084-863-8686</a><br>\n営業時間≫11:00～20:00<br>\n（火曜　休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2127361534075367/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.067124,
+    "latitude": 34.39575,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "ビストロ・プティ・ラパン",
+    "description": "住所:三原市港町3丁目4－3<br>\n電話: <a href='tel:084-864-1960'>084-864-1960</a><br>\n営業時間≫11:30～18:00 ※LO.17:00<br>\n（月曜　休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2127328374078683/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.079805,
+    "latitude": 34.397229,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "味",
+    "description": "住所:三原市宮浦2丁目4－5<br>\n電話: <a href='tel:084-862-3474'>084-862-3474</a><br>\n受付≫（5/8～）<br>\n月曜、水曜、金曜のみ<br>\nお渡し≫11時～13時　※13時以降応相談<br>\n※前日までに要予約<br>\n※無くなり次第終了<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2127212720756915/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.071834,
+    "latitude": 34.400614,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "Caffé Panini",
+    "description": "住所:三原市中之町2丁目10－5<br>\n電話: <a href='tel:070-1876-1071'>070-1876-1071</a><br>\n営業時間≫10:00～15:00（土・日曜 休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2127159524095568/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.099453,
+    "latitude": 34.411179,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "おかめ",
+    "description": "住所:三原市古浜1丁目3－18<br>\n電話: <a href='tel:084-864-5273'>084-864-5273</a><br>\n営業時間≫11:00～14:00（日曜　休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2127159274095593/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.089936,
+    "latitude": 34.39807,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "bistro&cafe Beisu",
+    "description": "住所:三原市城町2丁目2－7<br>\n電話: <a href='tel:084-888-9243'>084-888-9243</a><br>\n受付≫11:30～15:00※ランチの予約は14:00まで<br>\nお渡し≫11:30～18:00<br>\n（火・水曜　休）<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2127276677417186/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.086433,
+    "latitude": 34.400279,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "四季創菜　春夏秋冬",
+    "description": "住所:三原市宮沖1丁目12－3<br>\n電話: <a href='tel:090-3746-9012'>090-3746-9012</a><br>\n受付≫11:30～13:30（日曜　休）<br>\n※事前予約をお勧めします<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2127277117417142/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.074754,
+    "latitude": 34.398656,
+    "flg_takeout": 1,
+    "flg_delivery": 0
+  },
+  {
+    "name": "酒と肴と鍋 光 ｰみつ－",
+    "description": "住所:三原市城町1丁目20－20<br>\n電話: <a href='tel:084-863-6814'>084-863-6814</a><br>\nお渡し≫16:00～20:00<br>\n※前日までの要予約<br>\n内容≫メニューに記載している唐揚げなどのおつまみ<br>\n※前日までの予約で鍋のセットのテイクアウトも可能<br>\nテイクアウト紹介: <a href='https://www.facebook.com/mcat.co.jp/photos/a.153544044790469/2127277297417124/?type=3' target=_blank>★→→→コチラです</a><br>\n情報提供元: <a href='https://bit.ly/3aJJMDp' target=_blank>三原テレビ放送株式会社</a><br>",
+    "longitude": 133.084344,
+    "latitude": 34.399872,
+    "flg_takeout": 1,
+    "flg_delivery": 0
   }
 ]
